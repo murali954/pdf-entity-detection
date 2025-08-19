@@ -1,0 +1,6 @@
+Imposed pressures can also originate from a formation. If formation 
+pressure exceeds hydrostatic pressure, and the well is shut-in, the pressure 
+differential between the hydrostatic of the drilling fluid and the formation 
+pressure, will be imposed throughout the system. This pressure can be read 
+at the surface. At the surface, two different readings will be noted. These 
+will be the drillpipe (pump) pressure and the casing (choke) pressure.

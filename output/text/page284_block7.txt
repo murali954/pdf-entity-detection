@@ -1,0 +1,3 @@
+7.
+Why is it a bad sign when the actual lag is less than the 
+theoretical lag in a horizontal well?

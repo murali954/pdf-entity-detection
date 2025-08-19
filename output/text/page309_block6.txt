@@ -1,0 +1,10 @@
+When the drill pipe is being removed, the hole must be topped off with 
+mud regularly. If the hole does not take the same volume of mud to replace 
+the volume of pipe withdrawn, it is an indication that formation fluid is 
+displacing mud near the bottom of the hole and the well is kicking. It is 
+common while drilling offshore to continually circulate through a trip tank 
+while tripping out. Careful monitoring of the decrease in trip tank volume, 
+against the calculated pipe displacement is required so discrepancies can be 
+noticed. In INTEQ logging units, the trip monitor program provides 
+comparison volumes for every stand pulled. Alternatively, a “trip condition 
+log” provides a summary of hole conditions and fill-up during trips.

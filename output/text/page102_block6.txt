@@ -1,0 +1,6 @@
+Dicalcium Silicate - 2CaO:SiO2   -   C2S
+1. A much slower hydrating compound than tricalcium silicate
+2. Contributes to a slower, gradual increase in strength, over an extended period of time
+3. Hydration equation: 
+ 
+2(2CaO:SiO2) + 4H2O ---> 3CaO:2SiO2:3H2O + Ca(OH)2

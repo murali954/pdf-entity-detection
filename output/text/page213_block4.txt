@@ -1,0 +1,3 @@
+maximum flow rate without exceeding maximum recommended motor 
+speed. These higher flow rates offer improved hole cleaning and bit 
+hydraulics.

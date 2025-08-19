@@ -1,0 +1,5 @@
+PDC blanks are self-sharpening in the sense that small, sharp crystals are 
+repeatedly exposed as each blank wears, and because they are 
+polycrystalline these blanks have no inherently weak cleavage planes, 
+which can result in massive fractures as in the large, single crystal 
+diamonds in the diamond bits.

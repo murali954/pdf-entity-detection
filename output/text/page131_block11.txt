@@ -1,0 +1,4 @@
+1.
+When the prior bit is removed, it should be inspected for any 
+damage. If junk was left in the hole, do not run a PDC bit until 
+the hole is cleaned.

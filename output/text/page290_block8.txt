@@ -1,0 +1,4 @@
+where: 
+Fs = 
+The sticking force or the total pulling force that 
+would be required to free the pipe (lbs)

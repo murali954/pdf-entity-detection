@@ -1,0 +1,8 @@
+At the wellsite, we are typically concerned with the pressures throughout 
+the circulating system. We may need to know the pressure at a particular 
+point in the wellbore (such as the casing shoe or a lost circulation zone) or 
+we may want to know the total pressure required to pump a certain mud 
+volume at a given rate. Various types of pressures exist due to different 
+mechanisms, and are classified as either hydrostatic, hydraulic, or 
+imposed. All of these pressures result in a force acting on a unit area, even 
+though their origins may differ.

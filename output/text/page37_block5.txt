@@ -1,0 +1,6 @@
+For those working at wellsites, a basic knowledge of “fluid” properties is 
+required, especially those properties that distinguish fluids from solids. 
+Fluids can be either a gas or a liquid, where gases are highly compressible 
+and its volume being dependent upon pressure and temperature. Liquids, 
+on the other hand, are only slightly compressible, and their volume being 
+only slightly dependent upon temperature.

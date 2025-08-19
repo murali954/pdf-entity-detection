@@ -1,0 +1,3 @@
+•
+Calculate required BHA air weight for applications where drill pipe is 
+to be run in compression.

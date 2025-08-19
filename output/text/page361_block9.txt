@@ -1,0 +1,2 @@
+1.
+Maintain each WOB for 60 seconds

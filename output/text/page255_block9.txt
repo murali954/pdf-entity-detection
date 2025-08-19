@@ -1,0 +1,2 @@
+The effective dip angle is the angle at which the bit strikes the bedding 
+plane. The graph predicts that when the effective dip angle is less than 45°,

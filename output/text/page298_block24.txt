@@ -1,0 +1,4 @@
+If the annulus becomes overloaded, attempts to establish circulation must 
+be attempted. In addition, a downward force should be applied gradually 
+until circulation begins. Once circulation is established, the drillstring 
+should be rotated to further disturb the cuttings.

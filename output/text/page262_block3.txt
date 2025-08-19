@@ -1,0 +1,2 @@
+Bit tilt and offset allow directional (azimuth and/or inclination) changes to 
+be performed to keep the well bore on target.

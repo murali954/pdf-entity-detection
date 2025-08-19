@@ -1,0 +1,1 @@
+Tilt angle = Bit tilt in degrees

@@ -1,0 +1,3 @@
+If a kick occurs while a float valve is installed in the drillstring, both fluid 
+and pressure movement up the string will be prevented. It is therefore 
+impossible to read the SIDP when the well is shut-in.

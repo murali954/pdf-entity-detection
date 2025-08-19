@@ -1,0 +1,6 @@
+• Determine the nozzle size for a bit, using:
+- maximum pump pressure allowed
+- mud properties
+- drill string configuration
+- bit size
+- flow rate

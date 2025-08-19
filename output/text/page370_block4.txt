@@ -1,0 +1,8 @@
+The most efficient, and easiest, way to produce good written material is to 
+follow a proven procedure. Until you have enough experience to develop 
+the procedure that suits your, and Baker Hughes INTEQ's, particular 
+requirements, you must use the experience of other writers. The checklist 
+presented below summarizes the steps used by technical writers from 
+around the world. This list will be useful whether you are just beginning to 
+write technical reports or have written them for many years. By following 
+this checklist, you will be able to prepare for any technical writing task.

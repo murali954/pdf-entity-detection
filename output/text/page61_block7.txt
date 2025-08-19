@@ -1,0 +1,7 @@
+where: 
+Plf  =  Pressure Loss in Laminar Flow (psi) 
+L    =  Length of Section (feet) 
+VP =  Velocity in Section of drill string (ft/min) 
+d    =  Inside Diameter of drillstring (inches) 
+k    =  Consistency Index 
+n    =  Power Index

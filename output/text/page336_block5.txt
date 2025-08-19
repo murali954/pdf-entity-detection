@@ -1,0 +1,13 @@
+Kicks that occur while running liner can be handled in a similar manner to 
+a kick that occurs while drilling. If the liner is near bottom, an attempt 
+should be made to strip into the hole. The kick can then be circulated out, 
+the hole conditioned and the liner cemented in place. In some cases it may 
+be necessary to strip the liner back into the casing shoe to prevent the liner 
+from sticking. The annular pressure can be reduced by bullheading heavy 
+drilling fluid into the well to overbalance the kick pressure, but when 
+running of more liner into the hole, it may displace some of the heavy fluid 
+and may start the well flowing again. In addition, pumping high density 
+fluid into the annulus may result in lost circulation problems. Once the kick 
+is killed, the liner should be tripped out and the hole conditioned for 
+rerunning the liner. If the liner has not been run to the shoe, an attempt 
+should be made to strip to the shoe, but not into the open hole.

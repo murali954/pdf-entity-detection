@@ -1,0 +1,3 @@
+•
+On bottom, and just at stall, the turbine achieves maximum torque and 
+RPM is zero.

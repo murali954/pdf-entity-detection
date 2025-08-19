@@ -1,0 +1,8 @@
+A liner is a string of casing that does not reach the surface. They are usually 
+“hung” (attached to the intermediate casing using an arrangement of 
+packers and slips) from the base of the intermediate casing and reach to the 
+bottom of the hole. The major advantage of a liner is the cost of the string is 
+reduced, as are running and cementing times. During the course of the well, 
+if the liner has to be extended to the surface (making it another string of 
+casing), the string attaching the liner to the surface is known as a “tie-back” 
+string.

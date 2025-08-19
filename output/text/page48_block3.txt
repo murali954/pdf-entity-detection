@@ -1,0 +1,2 @@
+Gel Strength
+lbs/100 ft2 (10 sec/10min)

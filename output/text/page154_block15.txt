@@ -1,0 +1,8 @@
+Similarly, for an inclined section of the well where the inclination is 
+constant, the weight acting along hole will be the air-weight of the pipe 
+multiplied by the cosine of the average inclination. Notice again that in this 
+particular calculation we do not use a buoyancy factor. This is because 
+although the entire drillstring is subject to a buoyancy force, that force is 
+acting on the lower portion of the string and affects the weight pulling 
+down on the top joint of lower grade pipe from below, but not the weight of 
+the joints of higher grade pipe at the top of the string.

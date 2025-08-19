@@ -1,0 +1,3 @@
+f  =
+The coefficient of friction between the drillstring 
+and filter cake (dimensionless)

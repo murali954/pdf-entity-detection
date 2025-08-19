@@ -1,0 +1,8 @@
+The stabilizer is most commonly run directly above the motor. According 
+to the 3-point geometry, increasing “L” (by moving the first string 
+stabilizer higher in the BHA) reduces the Theoretical Geometric Dogleg 
+Severity. This does not always work in practice. It has been found that 
+moving the stabilizer higher can make it harder to get away from vertical in 
+a kick-off. However, once some inclination has been achieved, the rate of 
+build is often greater than the TGDS. For flat turns or for dropping angle, 
+increasing “L” does reduce the dogleg rate as theory predicts.

@@ -1,0 +1,7 @@
+In the mud system, we have solids that are an integral part of the mud 
+(bentonite, starch, CMC, etc.) and solids that are undesirable (sand, 
+limestone, dolomite, etc.). As the mud density is increased, by the addition 
+of barite or hematite (more solids), the PV will automatically increase. The 
+PV is also a function of the viscosity of the fluid phase of the mud (as 
+temperature rises, the viscosity of water decreases, and the PV will 
+decrease).

@@ -1,0 +1,5 @@
+Once the drill rate has been optimized and drilling has commenced, there 
+are several surface variables which should be monitored to ensure this drill 
+rate remains optimized and problems are avoided. Usually, problems with 
+the drill rate and well bore will show up on several surface indicators, and 
+cross-referencing will help to determine the cause.

@@ -1,0 +1,7 @@
+Generally, fluid flow can be considered the result of parallel fluid layers 
+sliding past one another. The layers adjacent to the conductor adhere to the 
+surface and each successive layer slides past its neighbor with increasing 
+velocity. This orderly flow pattern is known as laminar flow. At higher 
+velocities, these layers lose their order and crash randomly into one another 
+with an orderly flow occurring only adjacent to the conductor. This flow 
+pattern is known as turbulent flow.

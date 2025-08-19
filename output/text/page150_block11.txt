@@ -1,0 +1,3 @@
+By looking at the API RP 7G it can be determined that the air weight of 
+these 7.5-inch drill collars is 139 pounds per foot. If we have 700 feet of 
+collars, the total air weight would be 97,300 pounds.

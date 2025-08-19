@@ -1,0 +1,5 @@
+2.
+Adjust the choke to hold the maximum allowable casing pressure 
+and follow the low choke procedure until the well can be shut-in. 
+However, the control of a high volume gas flow using the low 
+choke method is extremely difficult.

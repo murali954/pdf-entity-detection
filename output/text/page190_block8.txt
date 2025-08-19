@@ -1,0 +1,2 @@
+Further discussion of the coordinate systems and map projections is 
+beyond the scope of this text.

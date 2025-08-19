@@ -1,0 +1,6 @@
+Exercise 1-8: If while drilling at 10,500 ft with a mud density of 14.4 ppg, 
+a leak-off test had been conducted, what would the leak-off 
+pressure (pump pressure) have been? Assume the formation 
+at the casing shoe began taking fluid when it experienced the 
+experienced the exact same pressure as in the previous 
+exercise.

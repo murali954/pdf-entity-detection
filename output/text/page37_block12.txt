@@ -1,0 +1,2 @@
+In oilfield units the fluid density will be the “mud density”, with a 
+conversion factor 0.0519. The conversion factor is derived from:

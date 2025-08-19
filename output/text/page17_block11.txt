@@ -1,0 +1,4 @@
+Cost-Per-Foot Analysis. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9-3
+Cost Per Foot Calculations Including Downhole Motors . . . . . . . . . . . . . . . . . . 9-5
+Target Cost Per Foot and Target ROP . . . . . . . . . . . . . . . . . . . . . . . . . . 9-7
+Calculation of Target ROP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9-8

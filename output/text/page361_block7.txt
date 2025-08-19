@@ -1,0 +1,2 @@
+5.
+Start rotary speed - wait ten seconds

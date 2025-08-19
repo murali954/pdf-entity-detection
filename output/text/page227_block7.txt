@@ -1,0 +1,4 @@
+Drill string design will also affect the extent of “drill string twist.” This 
+concept is important to understand because it can directly affect the tool 
+face orientation of the downhole motor. This twisting becomes more 
+critical at greater depths, especially when using smaller OD drillpipe.

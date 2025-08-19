@@ -1,0 +1,2 @@
+where: MW =  Mud Density (lb/gal)
+TVD =  True Vertical Depth (ft)

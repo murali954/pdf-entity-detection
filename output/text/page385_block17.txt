@@ -1,0 +1,4 @@
+7.
+Assume a flow rate of 920 gpm in a 17.5-inch hole with 4.5-inch 
+drill pipe. What is the annular velocity (ft/min and ft/sec) of the 
+mud?

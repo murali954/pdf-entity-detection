@@ -1,0 +1,8 @@
+The primary fluid loss agent in most water based muds are the clays. These 
+solids should have a size variation with a large percentage being under 1 
+micron. This will produce a filter cake with low porosity and permeability. 
+The use of centrifuges or cyclone solids removal equipment may cause 
+filtration problems by removing the small size solids. Starch is also used as 
+a fluid loss agent, the starch being treated is so that it will easily gelatinize 
+and swell. Water soluble polymers are commonly used as viscosifiers, 
+acting on the fluid phase which also reduces fluid loss.

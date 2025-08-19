@@ -1,0 +1,2 @@
+Basically, when the hole for surface casing is drilled, some angle is built at 
+a low rate (e.g. 1°/100') in the chosen direction.

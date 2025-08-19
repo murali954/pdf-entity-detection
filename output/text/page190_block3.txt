@@ -1,0 +1,8 @@
+Coordinates in the UTM system are measured in meters. North coordinates 
+being measured from the equator. For the Northern hemisphere, the 
+equator is taken as 0.00m North whereas for the Southern hemisphere the 
+equator is 10,000,000m North (to avoid negative numbers). East 
+coordinates for each sector are measured from a line 500,000m west of the 
+central meridian for that sector. In other words, the central meridian for 
+each zone is arbitrarily given the coordinate 500,000m East. Again, this 
+avoids negative numbers.

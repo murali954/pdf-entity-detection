@@ -1,0 +1,4 @@
+Hole Size
+(in)
+First String Stabilizer Gauge
+(in)

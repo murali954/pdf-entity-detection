@@ -1,0 +1,3 @@
+Inadequate hole cleaning causes overloading of the annulus. In highly 
+deviated or horizontal wells, this results in the formation of a cuttings bed 
+on the low side of the borehole. Preventive measures include:

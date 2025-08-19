@@ -1,0 +1,7 @@
+When all the calculations have been performed, the mud density is raised 
+immediately to the calculated kill mud density. When the kill mud volume 
+is ready, the pumps are started and the choke slowly opened, while keeping 
+the annular pressure constant until the pump has reached kill rate. The 
+choke is then regulated in such a way as to decrease the drillpipe pressure 
+until the kill mud reaches the bit, at which point the final circulating 
+pressure is reached.

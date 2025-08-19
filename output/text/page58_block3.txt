@@ -1,0 +1,5 @@
+constant, but varies to some maximum or minimum with the duration of 
+shear.) If the apparent viscosity decreases with flow time, the fluid is 
+termed “Thixotropic”. Once flow has ceased, a thixotropic fluid will show 
+an increase in apparent viscosity. When apparent viscosity increases with 
+flow time, the fluid is “Rheopectic”.

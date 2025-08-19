@@ -1,0 +1,4 @@
+It is important to realize that all pressures calculated on deviated wells 
+must use vertical depth and not measured depth. Measured lengths are used 
+for ECD calculations, so that the resultant pressure losses can be added to 
+the hydrostatic pressure (calculated from the vertical depths).

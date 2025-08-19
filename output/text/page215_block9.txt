@@ -1,0 +1,6 @@
+As stated earlier, the drive stages, or motor section, consists of a series of 
+stators and rotors of a bladed design. This stator and rotor combination 
+form a stage. Turbines are referred to as 90 stage, 250 stage, etc. The 
+number of stages determines the torque generated. Each stage, 
+theoretically, applies an equal amount of torque to the control shaft and it is 
+the sum of those torques which will be output to the bit.

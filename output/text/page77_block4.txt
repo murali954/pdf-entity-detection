@@ -1,0 +1,2 @@
+actual fluid velocity, because Va and vp are opposite signs and the clinging 
+constant is negative.

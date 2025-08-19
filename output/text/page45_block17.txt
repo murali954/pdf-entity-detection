@@ -1,0 +1,11 @@
+For Non-Newtonian fluids, the ratio of shear-stress to shear-rate is not 
+constant and varies for each shear rate. With a Bingham plastic fluid, a 
+finite force is required to initiate a constant rate of increase of shear-stress 
+with shear-rate. To obtain a value for this constant rate of increase, 
+readings are taken with a viscometer at 511 sec-1 and 1022 sec-1 (300 and 
+600 rpm). The 600 dial reading minus the 300 dial reading gives the slope 
+of the shear-stress/shear-rate curve. This is the Plastic Viscosity. The 
+“apparent viscosity” is given by the 600 reading divided by 2. This is a 
+measure of that part of resistance to flow caused by mechanical friction 
+between solids in the mud, solids and liquids and the shearing layers of the 
+mud itself.

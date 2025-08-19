@@ -1,0 +1,5 @@
+The motor has a multi-lobe (5/6) rotor/stator configuration, which 
+generates higher torque than the 1/2 lobe motors, permitting more weight-
+on-bit and increasing the drill rate. Because the motor develops its power at 
+low speeds, it can improve bit performance without accelerating wear on 
+the bearings or cones.

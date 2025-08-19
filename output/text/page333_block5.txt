@@ -1,0 +1,13 @@
+The system used for closing the BOP's is a high pressure hydraulic fluid 
+accumulator. Hydraulic fluid is stored under pressure, the pressure being 
+provided by stored nitrogen. When hydraulic oil is forced into the 
+accumulator by a small volume, high pressure pump, the nitrogen is 
+compressed, storing potential energy. When the BOP's are activated the 
+pressured oil is released, either opening or closing the BOP's. Hydraulic 
+pumps replenish the accumulator with the same amount of fluid that was 
+used to operate the BOP. The accumulator must also be equipped to allow 
+varying pressures. When stripping pipe through an annular preventer, a 
+constant pressure must be maintained as the tool joints pass through the 
+packing element. Accumulators commonly have minimum working 
+pressures of 1200 psi and maximum working pressures of between 1500 
+and 3000 psi.

@@ -1,0 +1,2 @@
+The amount of pressure lost at the bit, or bit pressure drop, is essential in 
+determining the hydraulic horsepower. Bit pressure drop is determined by:

@@ -1,0 +1,4 @@
+14.
+Regroup the data under “Introduction”, “Body”, and 
+“Conclusion”: This format will be used whether it pertains to a 
+specific hole section or to the entire Drilling Engineering section.

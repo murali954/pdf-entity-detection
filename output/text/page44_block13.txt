@@ -1,0 +1,7 @@
+The Fann viscometer consists of an outer rotating sleeve and an inner bob. 
+When the outer sleeve is rotated at a known speed, torque is transmitted 
+through the mud to the bob. The bob is connected to a spring and dial, 
+where the torque is measured. The shear rate is the rotational speed of the 
+sleeve and the shear stress is the stress (torque) applied to the bob, 
+measured as deflection units on the instrument dial. These measurement 
+values are not true units and need to be converted.

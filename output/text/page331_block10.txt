@@ -1,0 +1,6 @@
+Shear rams: These are a form of blind rams that are 
+designed to cut drill pipe when closed. This will result in the 
+dropping of the drillstring below the BOP stack unless the 
+stack is designed in such a way as to have a set of pipe rams 
+below the shear rams on which a tool joint can be supported. 
+They will stop the flow from the well. Shear rams are usually

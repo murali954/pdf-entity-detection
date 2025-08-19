@@ -1,0 +1,3 @@
+•
+Suggest the proper type of bit and drilling variables to obtain the 
+most cost-effective bit for the following run.

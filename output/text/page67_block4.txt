@@ -1,0 +1,2 @@
+the loading of the annulus with cuttings. In hard formations, the drill rate 
+should be proportional to the weight-on-bit, if hole cleaning is adequate.

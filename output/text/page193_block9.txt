@@ -1,0 +1,4 @@
+The advent of steerable systems has resulted in wells that are planned and 
+drilled with complex paths involving 3-dimensional turns. This is 
+particularly true in the case of re-drills, where old wells are sidetracked and 
+drilled to new targets.

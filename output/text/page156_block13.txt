@@ -1,0 +1,5 @@
+Required air weight of BHA
+Maximum WOB x safety factor
+buoyancy factor x cosθ
+---------------------------------------------------------------------------
+=

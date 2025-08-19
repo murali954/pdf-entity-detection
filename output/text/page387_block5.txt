@@ -1,0 +1,3 @@
+18.
+Design two specific NDS assemblies to drill the two well 
+sections defined by the plan below.

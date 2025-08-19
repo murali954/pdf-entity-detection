@@ -1,0 +1,2 @@
+The viscometer is designed to give the viscosity of a Newtonian fluid when 
+used at 300 rpm.

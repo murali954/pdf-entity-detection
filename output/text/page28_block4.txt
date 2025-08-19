@@ -1,0 +1,3 @@
+Used to control the effects of oxygen and hydrogen sulfide corrosion. 
+Hydrated lime and amine salts are often added to check this type of 
+corrosion. Oil-based muds have excellent corrosion inhibition properties.

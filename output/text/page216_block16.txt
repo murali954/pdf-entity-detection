@@ -1,0 +1,2 @@
+Stator
+Rotor

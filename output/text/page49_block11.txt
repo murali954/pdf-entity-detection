@@ -1,0 +1,6 @@
+These two properties shall be dealt with together, as it is the filtration of 
+mud that causes the build up of filter cake. Loss of fluid (usually water and 
+soluble chemicals) from the mud to the formation occurs when the 
+permeability is such that it allows fluid to pass through the pore spaces. As 
+fluid is lost, a build up of mud solids occurs on the face of the wellbore. 
+This is the filter cake.

@@ -1,0 +1,2 @@
+1.
+Properly gauge the bit and stabilizers after each run

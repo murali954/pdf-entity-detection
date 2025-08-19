@@ -1,0 +1,10 @@
+In INTEQ logging units, a DrillByte EAP program provides a range of pipe 
+pulling speeds and their corresponding swab and surge pressures. If 
+swabbing does occur, the pipe should be run back to bottom and the 
+invading fluid circulated out. Surge pressures, when running into the hole 
+(pipe or casing), may be sufficient to exceed the fracture pressure of a weak 
+formation. The swab/surge pressure printout should be consulted, and the 
+pipe run at a speed that produces surge pressures below the minimum 
+fracture pressure. It is important to remember that this is necessary 
+anywhere in borehole, as pressures are transmitted to the open hole even 
+when the bit is inside the casing.

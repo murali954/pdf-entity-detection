@@ -1,0 +1,3 @@
+Computers are playing an ever-increasing role in drilling operations and 
+the old adage is still true, if the data fed into computers is erroneous, then 
+the final “print out” will not be reliable.

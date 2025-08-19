@@ -1,0 +1,5 @@
+If the collars make contact with low side as shown in the Figure 5-41, then 
+the effective length of the pendulum and the side force on low side are both 
+reduced. This situation is also undesirable because the bit axis has been 
+tilted upwards in relation to the hole axis which will reduce the dropping 
+tendency.

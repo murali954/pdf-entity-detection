@@ -1,0 +1,3 @@
+Torque indications are very useful as a check on smooth operation. No 
+absolute values have been set up, but a steady torque is an indication that 
+the previous three factors are well coordinated.

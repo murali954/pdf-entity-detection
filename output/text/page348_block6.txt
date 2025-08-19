@@ -1,0 +1,4 @@
+This analysis can also be represented graphically (see below). As drilling 
+begins, the cost-per-foot will decrease rapidly. The longer the bit is in the 
+hole, the more straight the curve becomes. When the curve begins to 
+increase, it becomes necessary to pull the bit.

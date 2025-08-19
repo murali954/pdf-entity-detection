@@ -1,0 +1,3 @@
+This principle states that if there are three stabilizers in quick succession 
+behind the bit separated by short, stiff drill collar sections, then the three 
+stabilizers will resist going around a curve and force the bit to drill a

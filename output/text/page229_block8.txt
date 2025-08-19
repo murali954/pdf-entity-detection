@@ -1,0 +1,7 @@
+An alternative to using a bent sub is to use a PDM with a single bend in the 
+universal joint housing, described as a kick-off sub in the case of a Navi-
+Drill and a bent housing by some other PDM manufacturers. Historically, 
+these “single tilt” motors were used for difficult deviation jobs such as 
+sidetracking over a short section of hole into hard formation. Since the 
+bend is closer to the bit than when a bent sub is used, a smaller tilt angle 
+can be used but still give a strong deviation tendency.

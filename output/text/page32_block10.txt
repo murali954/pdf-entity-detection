@@ -1,0 +1,3 @@
+The electrical stability (E.S.) of an oil-based drilling fluid is the stability of 
+the emulsions of water in oil, or the amount of current required to break the 
+emulsifier down and allow the saline water to coalesce.

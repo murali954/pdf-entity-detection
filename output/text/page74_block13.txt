@@ -1,0 +1,7 @@
+This average velocity equation remains valid even when hole geometry 
+changes. This method is easy to apply and is in widespread use in the 
+oilfield. Its basic premise, that fluid levels in the drillstring and annulus 
+remain equal, is rarely justified. Because of the greater restrictions to flow, 
+caused by the bit nozzles and pipe bore, actual flow in the annulus will 
+nearly always exceed that calculated by this method. Calculated swab and 
+surge pressures are therefore usually too low.

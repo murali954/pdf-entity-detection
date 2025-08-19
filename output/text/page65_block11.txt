@@ -1,0 +1,1 @@
+In turbulent flow, the drag coefficient is 1.5.

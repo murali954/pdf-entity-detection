@@ -1,0 +1,3 @@
+3. Are there sequences of hard/soft formations 
+which may result in ledges?
+3. Relate doglegs to BHA configuration

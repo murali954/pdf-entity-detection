@@ -1,0 +1,2 @@
+or    
+YP = (2 x 300 rpm reading) - 600 rpm reading

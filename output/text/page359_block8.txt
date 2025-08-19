@@ -1,0 +1,6 @@
+2.
+Medium Formations: Increased RPM will not have the same 
+result as in soft formations. Moderate RPM with moderate WOB 
+should maximize the drill rate and reduce bit wear. As the cutters 
+begin to wear, the WOB should be increased to maintain the drill 
+rate.

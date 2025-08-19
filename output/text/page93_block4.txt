@@ -1,0 +1,2 @@
+their strength can be different than the casing. The API has specifications 
+for four types of couplings.

@@ -1,0 +1,8 @@
+Gel strength is measured with the viscometer by stirring the mud at high 
+speeds for about 15 seconds and then turning the viscometer off or putting 
+it into neutral (low gear if it's a lab model) and waiting the desired period, 
+(i.e., 10 seconds or 10 minutes). If the viscometer is a simple field model, 
+the “gel strength” knob is turned counter clockwise slowly and steadily. 
+The maximum dial deflection before the gel breaks is then recorded in lb/
+100 ft2. With a lab model, the procedure is the same except a low speed is 
+used. After a wait, the second gel can be taken in a similar manner.

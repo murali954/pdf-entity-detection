@@ -1,0 +1,5 @@
+a. Check for surface leaks
+b. Stop pumping; check float
+c. Stop pumping check float
+d. Stop pumping; check float
+e. Check leak

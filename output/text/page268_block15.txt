@@ -1,0 +1,3 @@
+The diameter of the first string stabilizer must not be greater than the 
+diameter of the UBHS and is usually less. It should have preferably the 
+same physical design as the UBHS.

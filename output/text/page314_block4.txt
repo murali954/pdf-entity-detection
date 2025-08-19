@@ -1,0 +1,1 @@
+Density of influx (ppg):       MW - [(SICP - SIDP)/(L x 0.0519)]

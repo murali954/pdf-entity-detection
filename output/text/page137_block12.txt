@@ -1,0 +1,8 @@
+Hole conditions may make it necessary to slack off more weight, but 
+caution should be used in this respect since excessive weight-on-bit will 
+shorten its life. Formations which drill by a chipping action produce an 
+impact load against the diamonds. Drilling weight should be increased in 
+increments of 2,000 pounds until increases in weight does not show a 
+comparable increase in the penetration rate. When this occurs, the weight 
+should be decreased to the lowest weight at which the best penetration rate 
+was obtained.

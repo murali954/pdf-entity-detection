@@ -1,0 +1,2 @@
+Material balance equations are used for calculating volumes and densities 
+when two or more insoluble materials are mixed together.

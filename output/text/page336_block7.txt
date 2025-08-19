@@ -1,0 +1,16 @@
+A kick that occurs while running casing can lead to extreme problems. 
+Stripping the casing to bottom should only be attempted if the guide shoe is 
+within a few joints of bottom. If only a short section of casing is in the hole, 
+the annular pressure will tend to force it upwards, in which case the casing 
+will need to be tied down and filled with drilling fluid immediately. With a 
+long section of casing, it becomes more likely that the combination of 
+tensional forces, the annulus pressure, and the pressure exerted by the 
+BOP's (in subsea wells) will collapse the casing. If it is possible, annular 
+preventers should be closed slowly with the choke wide open. Due to the 
+small annulus around the relatively large casing, pump rates will tend to be 
+slower and the fill up of the casing with kill fluid will take much longer. 
+Gas entering the bore hole and casing can continue migrating and may 
+complicate pressure calculations. The dangers of lost circulation and an 
+underground blowout are increased due to the small annulus. As a last 
+resort to gain control, a barite plug may be used or the casing cemented (if 
+not at bottom) at the present depth.

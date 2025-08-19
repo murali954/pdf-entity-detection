@@ -1,0 +1,2 @@
+With a surface stack, the slow circulating rate pressure is the sum of the 
+pressure losses in the system. These include:

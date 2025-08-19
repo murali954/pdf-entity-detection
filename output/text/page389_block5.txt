@@ -1,0 +1,4 @@
+32.
+When using PDC bits, there are many precautions and drilling 
+parameters that should be considered so the bit will run as 
+efficiently and economical as possible. List seven:

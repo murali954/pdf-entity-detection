@@ -1,0 +1,7 @@
+The point at which transition occurs from laminar to turbulent flow is 
+difficult to determine theoretically, and experimental data is lacking. It is 
+therefore recommended that, for swab and surge pressure calculations, 
+both laminar and turbulent pressure drops be calculated. The flow regime 
+giving the greater pressure drop may then be considered to be correct. This 
+procedure is conservative in that it will give a pressure equal to or 
+exceeding the true swab or surge pressure.

@@ -1,0 +1,5 @@
+1.
+The first indication is a drilling break. The fast drill-rate need not 
+necessarily indicate an increase in porosity, permeability and 
+pressure, but it is prudent to assume that it does. The magnitude 
+of the drilling break will vary, based on the formation

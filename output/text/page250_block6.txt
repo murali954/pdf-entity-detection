@@ -1,0 +1,4 @@
+When rotary drilling with roller cone bits, the type of bit makes very little 
+difference to whether an assembly builds, holds or drops angle. Mainly 
+because directional control is determined by the configuration of stabilizers 
+and collars and by varying the drilling parameters.

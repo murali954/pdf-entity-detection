@@ -1,0 +1,3 @@
+•
+RPM is directly proportional to flow rate, through somewhat affected 
+by torque output.

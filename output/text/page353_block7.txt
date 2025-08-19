@@ -1,0 +1,7 @@
+In this case, the operator does not have good offset well data and no 
+realistic value of cost per foot is available. The operator’s engineers agree 
+that the interval is PDC drillable, and it will be economical to run PDC bits 
+provided no more than two bits are required to drill the section and 
+provided an average ROP of 16 ft/hr can be achieved. The proposed well is 
+vertical and they are not persuaded that running a downhole motor will be 
+cost effective.

@@ -1,0 +1,2 @@
+The buoyed weight of the collars, or the Hookload, is equal to the air 
+weight minus the buoy force.

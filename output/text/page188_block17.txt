@@ -1,0 +1,5 @@
+One example of a grid system is the Universal Transverse Mercator (UTM) 
+System. In transverse mercator projection, the surface of the spheroid 
+chosen to represent the Earth is wrapped in a cylinder which touches the 
+spheroid along a chosen meridian. (A meridian is a circle running around 
+the Earth passing through both North and South geographic poles.)

@@ -1,0 +1,7 @@
+A diamond is extremely strong in compression, but relatively weak in 
+shear, and needs constant cooling when on bottom. The bit is designed and 
+the rake of the diamonds set, so that a constant vertical load on the bit 
+keeps an even compressive load on the diamonds, and even distribution of 
+coolant fluid over the bit face. If there is lateral movement or tilting of the 
+bit, an uneven shear load can be put on the diamonds with coolant leakage 
+on the opposite side of the bit.

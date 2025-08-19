@@ -1,0 +1,3 @@
+For these calculations, the particle density is found by multiplying the 
+cuttings density (gm/cc) by the density of fresh water (8.34). The drag 
+coefficient is the frictional drag between the fluid and the particle.

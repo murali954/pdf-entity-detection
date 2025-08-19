@@ -1,0 +1,5 @@
+The AKO places the bend close to the bit, and can be adjusted so the motor 
+housing tilt angle can be configured on the rig floor to settings from 0° - 
+2.5°. The resulting dogleg capability can be as high as 12°/100 ft. The 
+unique AKO design requires no shims to adjust the bent housing angle, so a 
+single motor can achieve a variety of build rates.

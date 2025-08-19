@@ -1,0 +1,11 @@
+It describes the thickness or pumpability of the fluid, and is somewhat 
+analogous to the apparent viscosity. The flow behavior index (n) indicates 
+the degree of non-Newtonian characteristics of the fluid. As the fluid 
+becomes more viscous, the consistency factors (k) increases; as a fluid 
+becomes more shear thinning “n” decreases. When “n” is 1 the fluid is 
+Newtonian. If “n” is greater than 1, the fluid is classed as Dilatant (the 
+apparent viscosity increases as the shear rate increases). If “n” is between 
+zero and 1 the fluid is classified as Pseudoplastic, exhibiting 
+shear-thinning; (i.e., the apparent viscosity decreases as the shear rate 
+increases). For drilling fluids, this is a desirable property and most drilling 
+fluids are pseudoplastics.

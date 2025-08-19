@@ -1,0 +1,3 @@
+•
+Friction factor(s) or actual hookload or torque values (for friction 
+factor calculation)

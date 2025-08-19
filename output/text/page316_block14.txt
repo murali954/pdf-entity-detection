@@ -1,0 +1,3 @@
+When the influx has been circulated out, the pumps are stopped and the 
+choke closed. At this time, the two surface pressures (SIDP & SICP) 
+should be the same.

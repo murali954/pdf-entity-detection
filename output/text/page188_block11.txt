@@ -1,0 +1,3 @@
+All “magnetic-type” tools give an azimuth (hole direction) referenced to 
+Magnetic North. However, the final calculated coordinates are always 
+referenced to either True North or Grid North.

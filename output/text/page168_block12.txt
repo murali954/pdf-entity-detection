@@ -1,0 +1,3 @@
+Example:
+Determine the neutral point in 7.25-inch x 2.25-inch collars 
+if the weight-on0bit is 30,000 lbs and mud density is 11 ppg.

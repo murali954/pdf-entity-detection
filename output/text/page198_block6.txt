@@ -1,0 +1,4 @@
+In practice, well trajectory can be calculated for several KOPs and build-up 
+rates and the results compared. The optimum choice is one which gives a 
+safe clearance from all existing wells, keeps the maximum inclination 
+within desired limits and avoids unnecessarily high dogleg severities.

@@ -1,0 +1,3 @@
+Phrase
+Group of related words without a subject or predicate; used 
+as a part of speech.

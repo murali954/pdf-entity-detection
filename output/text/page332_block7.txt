@@ -1,0 +1,7 @@
+In certain cases, it may be necessary to allow the well to blowout in a 
+controlled manner rather than be shut-in. This is common in shallow 
+sections due to insufficient casing to contain a kick. In these circumstances, 
+a diverter system will be used. This is a relatively low pressure system, 
+often using the annular preventer to seal off the annulus below the flow 
+line. The diverter line will then be opened below the annular preventer to 
+allow the flow to be directed away from the rig.

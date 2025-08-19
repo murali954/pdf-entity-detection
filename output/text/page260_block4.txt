@@ -1,0 +1,3 @@
+Most conventional directional drilling operations will require extra trips to 
+change the BHA for directional control. In addition, bit performance can be 
+reduced by those same conventional deflection techniques.

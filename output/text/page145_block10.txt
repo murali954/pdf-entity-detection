@@ -1,0 +1,2 @@
+•
+Calculate the buoyed weight (or hookload) in a vertical hole.

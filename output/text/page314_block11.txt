@@ -1,0 +1,1 @@
+Gas bubble migration rate (psi/hr):      ∆Pa / (0.0519 x MW)

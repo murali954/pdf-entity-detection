@@ -1,0 +1,4 @@
+Key seats are the result of the drillstring wearing an additional hole into the 
+side of the borehole. This “extra” hole will generally have the I.D. of the 
+drillpipe's tool joints and the drill collars will not pass through this extra 
+hole when tripping out. Preventive measures include:

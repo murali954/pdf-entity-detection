@@ -1,0 +1,5 @@
+where: 
+Pls  =  Surface Pressure Loss (psi) 
+ks   =  Surface Pressure Coefficient 
+MD =  Mud Density (lb/gal) 
+Q    =  Flow Rate (gal/min)

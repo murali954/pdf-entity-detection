@@ -1,0 +1,2 @@
+Figure 5-37: Rate equals 0.1° - 0.5°/100’ depending on various factors 
+such as formation characteristics, WOB, RPM, bit type, etc.

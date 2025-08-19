@@ -1,0 +1,2 @@
+Cement:
+70: 30: 4%(fly ash / cement / gel)

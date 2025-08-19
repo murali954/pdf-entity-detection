@@ -1,0 +1,2 @@
+3.
+Draw a straight line extending through points “A” and “B”

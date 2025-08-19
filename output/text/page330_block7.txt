@@ -1,0 +1,2 @@
+A BOP stack comprises various types of preventer elements, including ram 
+preventers, spools, and an annular preventer.

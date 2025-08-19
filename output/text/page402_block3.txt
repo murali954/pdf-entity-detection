@@ -1,0 +1,7 @@
+15.
+By moving the placement higher up in the BHA will make it 
+harder to get away from vertical in a kick-off, however, once an 
+initial inclination is achieved, the rate of build is often greater 
+than the TGDS. For flat turns or for dropping angle, increasing 
+the distance from the motor to the first string stabilizer will 
+reduce the dogleg.

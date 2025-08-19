@@ -1,0 +1,3 @@
+5.
+Run the temperature/noise logs to determine if the well is dead. If 
+it is dead, bleed off any casing pressure and rerun the logs.

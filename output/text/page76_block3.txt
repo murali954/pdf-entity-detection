@@ -1,0 +1,6 @@
+Calculating the pressure drop in the annulus is complicated by the motion 
+of the inner wall of the drillstring. This motion is in the opposite direction 
+to the displaced fluid, so the pressure drop will be greater than that for the 
+same flowrate in a stationary annulus (see Figure 1-4). Equations 
+describing the system can be formulated, but solutions are usually too 
+complicated for wellsite use.

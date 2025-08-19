@@ -1,0 +1,5 @@
+These meridians of longitude converge towards the North Pole and do not 
+produce a rectangular grid system. The grid lines on a map form the 
+rectangular grid system, the Northerly direction of which is determined by 
+one specified meridian of longitude. This “Grid North” direction will only 
+be identical to “True North” on a specified meridian.

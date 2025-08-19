@@ -1,0 +1,2 @@
+5.
+Design a BHA to minimize the risk of hitting a ledge

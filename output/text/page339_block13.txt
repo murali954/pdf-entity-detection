@@ -1,0 +1,9 @@
+Loss of fluid returns will lower the hydrostatic head of the drilling fluid in 
+the wellbore, thereby inducing a kick. The influx fluid will then flow to the 
+surface or into the zone of lower pressure. Lost circulation can occur in 
+naturally occurring fractured, vuggy, cavernous, sub-normally pressured or 
+pressure depleted formations. Induced losses can occur from mechanical 
+fracturing due to pressure surges while breaking circulation. In all cases of 
+lost circulation, attempts should be made to keep the hole full. The hole can 
+be filled with either light drilling fluid or water. A record of the amount of 
+fluid pumped should be made.

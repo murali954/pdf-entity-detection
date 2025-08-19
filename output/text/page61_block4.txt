@@ -1,0 +1,2 @@
+With this in mind, it will be necessary to know how much pressure will be 
+required to pump the fluid through the drillstring, at a given rate.

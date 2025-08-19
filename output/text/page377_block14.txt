@@ -1,0 +1,3 @@
+The report was written by the logger. 
+(The same thought expressed in active voice would be: 
+The logger wrote the report.)

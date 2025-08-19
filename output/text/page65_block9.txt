@@ -1,0 +1,6 @@
+where: 
+Vs  =  Slip Velocity (ft/min) 
+dp  =  Particle Diameter (inches) 
+pp  =  Particle density (lb/gal) 
+MD =  Mud Density (lb/gal) 
+CD  =  Drag Coefficient

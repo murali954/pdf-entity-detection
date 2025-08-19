@@ -1,0 +1,3 @@
+Hookload = Air Weight - Buoy Force
+= 97,300- 17,925
+= 79,375 pounds

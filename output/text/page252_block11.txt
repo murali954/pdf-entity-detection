@@ -1,0 +1,2 @@
+The component of weight/unit length tending to bend the drill collars and 
+contributing to the lateral forces at the bit and stabilizers is then:

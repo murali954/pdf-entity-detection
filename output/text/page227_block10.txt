@@ -1,0 +1,2 @@
+The reactive torque which motors generate will be in direct proportion to 
+the differential pressure across the motor. This in turn is influenced by:·

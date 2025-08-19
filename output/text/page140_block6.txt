@@ -1,0 +1,9 @@
+Diamond bits require hydraulics equivalent to, or greater than other bits in 
+order to stay clean and run cooler in softer, stickier formations. The smaller 
+the diamond bit, the better it performs - mainly because of hydraulics. 
+Since the cutting surface of a diamond bit runs very close to the formation, 
+the cuttings move from the center of the hole across the face of the bit to 
+the outside of the borehole. The larger the bit, the greater amount of 
+cuttings to be moved across the face, which may result in partial clogging 
+of the flow area and a decrease in penetration rate unless hydraulics are 
+maintained at high energy levels.

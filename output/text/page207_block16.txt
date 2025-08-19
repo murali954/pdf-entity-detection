@@ -1,0 +1,3 @@
+•
+Torque is directly proportional to the motor’s differential pressure. 
+This makes the tool a very simple to operate.

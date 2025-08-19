@@ -1,0 +1,9 @@
+One of the primary functions of a drilling fluid is to bring the drilled 
+cuttings to the surface. Inadequate hole cleaning can lead to a number of 
+problems, including hole fill, packing off, stuck pipe, and excessive 
+hydrostatic pressure. The ability of a drilling fluid to lift cuttings is affected 
+by many factors, and there is no universally accepted theory which can 
+account for all observed phenomena. Some of the parameters which affect 
+cuttings transport are the fluids density and viscosity, annular size and 
+eccentricity, annular velocity and flow regime, pipe rotation, cuttings 
+density, and the size and shape of the cuttings.

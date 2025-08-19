@@ -1,0 +1,5 @@
+A common method of deflecting wellbores is to use a downhole motor and 
+a bent sub. As illustrated in Figure 5-29, the bent sub is placed directly 
+above the motor and the bent sub which makes this a deflection assembly. 
+Its lower thread (on the pin) is inclined 1° - 3° from the axis of the sub 
+body.

@@ -1,0 +1,4 @@
+4.
+After the pumps are running at the kill rate and the casing 
+pressure regulated as at shut-in, the pressure on the drillpipe 
+while circulating should be recorded.

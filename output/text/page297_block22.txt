@@ -1,0 +1,5 @@
+If borehole geometry problems are suspected when tripping in, a gradual 
+upwards working force should be applied. If this occurs when tripping out, 
+upwards forces should be applied gradually to prevent the drillstring from 
+further jamming. If a ledge is suspected, then a combination of upward/
+downward forces should be used to try and remove the ledge.

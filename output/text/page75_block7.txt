@@ -1,0 +1,9 @@
+When the fluid level in the drillstring is below that of the annulus, a greater 
+hydrostatic pressure will exist in the annulus, and fluid will tend to flow 
+from the annulus up the drillstring. In this case, calculating flow 
+distribution by equating frictional losses gives a calculated annular flow 
+and surge pressure slightly higher than actually exists. Because this error is 
+small and conservative, and because at present there is no reliable way of 
+measuring the fluid level within the pipe, the practice of calculating flow 
+distribution by equating internal and external pressure losses is generally 
+accepted.

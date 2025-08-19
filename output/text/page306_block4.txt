@@ -1,0 +1,14 @@
+Lost Circulation: Raising the mud density to a value that exceeds the 
+lowest fracture pressure, for fear of a kick, is not nearly as prevalent as it 
+was in the 40's or 50's. A kick may still occur during drilling, but it is more 
+likely to be due to fracturing a formation of lower pore pressure than an 
+abnormally pressured zone. Rather than setting casing after drilling 
+through a geopressured zone, the mud density is kept high to balance these 
+formations. If the pore pressure decreases significantly, those lower 
+pressured formations become susceptible to fracturing. If fracturing occurs, 
+the fluid level in the annulus may drop due to lost circulation and the 
+resulting loss in hydrostatic pressure may allow an influx of formation 
+fluids, resulting in a kick. The existence of an abnormally pore pressured 
+zone and a lost circulation zone in the same hole section are ingredients for 
+a kick. The utmost care combined with diligent observation are necessary 
+to successfully drill this type of well.

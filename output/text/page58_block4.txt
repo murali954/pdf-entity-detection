@@ -1,0 +1,5 @@
+The shear stress developed in most drilling fluids is dependent upon the 
+duration of shear. A time lag exists between an adjustment of shear rate and 
+the stabilization of shear stress. This is due to the breaking up of clay 
+particles at high shear rates and the aggregation of clay particles when 
+shear rate is decreased, both occurrences take a noticeable length of time.

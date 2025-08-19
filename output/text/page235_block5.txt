@@ -1,0 +1,7 @@
+The rate of build increases as the inclination increases because there is a 
+larger component of the collars’ own weight causing them to bend. The 
+mechanics involved predicts that the rate of build should increase in direct 
+proportion to the sine of the inclination. In reality, the situation and the 
+actual response is more complicated. For example, a strong build assembly 
+which built at a rate of 1.5°/100’ when the inclination was only 15° might 
+build at 4°/100’ when the inclination was 60°.

@@ -1,0 +1,4 @@
+2.
+Driller and logging personnel should communicate before the 
+start of the test - logging unit to collect data in one second 
+intervals.

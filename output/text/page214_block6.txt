@@ -1,0 +1,6 @@
+For the Mach 1/AD motor, a cartridge data transmission (CDT) system has 
+been developed that allows orientation of the motor in a particular 
+direction, while still allowing drilling with drillstring rotation. This CDT 
+system uses a special heavy duty steering tool which provides continuous 
+surface readout of the drift angle and azimuth, as well as toolface 
+orientation while drilling ahead.

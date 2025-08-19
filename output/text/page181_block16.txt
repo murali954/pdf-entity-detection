@@ -1,0 +1,4 @@
+•
+Explain the concept of “three-point geometry” and calculate the 
+“Theoretical Geometric Dogleg Severity” (TGDS) of a 
+Navigation System.

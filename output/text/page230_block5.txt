@@ -1,0 +1,6 @@
+Magnetic or Gyro Toolface is the toolface orientation measured as a 
+direction on the horizontal plane. If measured by a “magnetic” type survey 
+tool, it is called magnetic toolface; whereas if it is measured by a 
+gyroscopic survey device, it is called gyro toolface. Toolface orientation is 
+measured and expressed in this way at low inclinations, generally less than 
+5°.

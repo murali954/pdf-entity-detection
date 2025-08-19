@@ -1,0 +1,8 @@
+The kill procedures that involve the least amount of initial waiting time are 
+the two circulation method (or driller's method) and the concurrent method. 
+In both of these procedures, pumping begins immediately after the shut-in 
+pressures are recorded. However, if the time taken to weight-up the mud is 
+less than one circulation then the engineers, or one circulation, method may 
+be preferred. In certain situations the extra time required for the two 
+circulation method may be seriously detrimental to hole stability or may 
+cause excessive BOP wear.

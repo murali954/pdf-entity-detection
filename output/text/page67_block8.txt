@@ -1,0 +1,7 @@
+The first is the flow rate range. As discussed earlier, the flow pattern in 
+the annulus should be laminar, therefore the upper limit for the flow rate is 
+a Reynolds Number of 2000. The highest velocity in the annulus will be 
+around the collars, and this velocity can be determined by calculating the 
+“critical velocity” over that section. In addition, running the pumps at that 
+upper range is not always advisable because there will be more wear and 
+tear on the pumps and much more fuel consumption.

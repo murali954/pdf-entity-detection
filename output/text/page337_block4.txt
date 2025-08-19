@@ -1,0 +1,4 @@
+2.
+Observe the SIDP and SICP. If the SIDP is not significantly 
+lower than the SICP the influx is still below the washout or bit (if 
+the bit is off bottom).

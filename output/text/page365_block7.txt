@@ -1,0 +1,4 @@
+This value, mentioned earlier, is a reliable guide in predicting when to pull 
+a bit. The cost per foot should continue to decrease. When the cumulative 
+cost per foot value begins to increase, it may be necessary to put a new bit 
+into the hole.

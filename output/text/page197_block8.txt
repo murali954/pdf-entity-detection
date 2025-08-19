@@ -1,0 +1,3 @@
+Although the catenary method has been tried, with some success, it is not 
+widely used and it IS NOT Baker Hughes INTEQ policy to recommend 
+this type of well profile.

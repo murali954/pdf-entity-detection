@@ -1,0 +1,12 @@
+Cavings
+ Dxc
+ Shale
+Density
+Gas
+Flowline
+ Temperature
+Shale 
+Swelling
+     Shale
+    Factor
+     (CEC)

@@ -1,0 +1,2 @@
+In practice, BHA weight for steerable assemblies on typical directional 
+wells is not a problem for the following reasons.

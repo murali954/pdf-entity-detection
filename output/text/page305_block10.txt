@@ -1,0 +1,8 @@
+Insufficient Mud Density: Fewer kicks result from too low a mud density 
+than the previous two causes. If a kick occurs while drilling, due to 
+insufficient mud density, it is possible that an oversight has occurred or that 
+poor engineering practices were employed. In any event, pressure trends 
+and plots will have to be re-evaluated. Penetration into a geopressured 
+formation without prior indication may have occurred, or a fault or 
+unconformity may have been crossed. Also changes in lithology or drilling 
+practices may have masked a transition zone.

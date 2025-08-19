@@ -1,0 +1,3 @@
+It must be pointed out that the term toolface commonly used is a shortened 
+version of “toolface orientation”. A magnetic or gyro toolface reading can 
+be converted to a high side toolface reading using:

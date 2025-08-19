@@ -1,0 +1,2 @@
+When the neutral point is in the drill collar section and the collars are all of 
+one diameter, the following formula should be used:

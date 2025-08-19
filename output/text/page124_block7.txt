@@ -1,0 +1,8 @@
+The first type of bearing system used with roller cone bits was a non-
+sealed, roller-ball-friction bearing arrangement, utilizing rollers on the heel 
+of the journal. The primary load, or stress was exerted on these rollers, and 
+drilling fluid was used to lubricate the bearings. Bearing size was 
+maximized, since room for a seal was not required. The bearing surfaces 
+were machined and ground to very close tolerances to ensure dependable 
+service. This type of bearing system is also available with modifications for 
+air circulation and for use with a percussion hammer (Figure 3-6a).

@@ -1,0 +1,2 @@
+Class #1 (Coefficient 19)
+Class #2 (Coefficient 7)

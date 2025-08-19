@@ -1,0 +1,2 @@
+When drilling a tangent or hold section with NDS, the following should be 
+observed:

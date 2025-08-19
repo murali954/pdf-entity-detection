@@ -1,0 +1,2 @@
+•
+Elimination of trips for directional assembly changes, saving rig time

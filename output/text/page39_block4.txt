@@ -1,0 +1,4 @@
+The hydraulic pressure (pump pressure) remaining at point E in the figure 
+is 225 psi. However, the system pressure loss at point E is 675 psi. That is, 
+675 psi is required to move the mud from point A to point E. (300 psi from 
+A to B and 375 psi from B to E.)

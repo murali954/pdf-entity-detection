@@ -1,0 +1,4 @@
+3.
+If trips are required that are not related to motor or bit 
+performance, the trip times will not be included in the cost per 
+foot calculation.

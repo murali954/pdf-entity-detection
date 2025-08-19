@@ -1,0 +1,3 @@
+The Baker Hughes INTEQ engineer decides the only way to persuade the 
+client to use a motor is to offer a performance deal based on the cost per 
+foot calculated above. The target ROP is calculated as follows.

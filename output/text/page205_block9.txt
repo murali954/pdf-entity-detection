@@ -1,0 +1,3 @@
+A typical positive displacement motor utilizes three sets of bearings 
+attached to a drive shaft. There are two sets of radial bearings (“upper” and 
+“lower”) with one set of axial thrust bearings.

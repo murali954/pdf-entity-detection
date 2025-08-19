@@ -1,0 +1,3 @@
+24.
+How can you obtain the SIDP when a float valve is in the 
+drillstring (assume the slow circulation rate pressure is known)?

@@ -1,0 +1,3 @@
+The suitability of any process is dependent on the ease with which it may 
+be reliably executed. If a kill procedure is difficult to comprehend and 
+implement, its reliability is negated.

@@ -1,0 +1,2 @@
+1.
+Shut in the well and record the SICP.

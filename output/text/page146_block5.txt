@@ -1,0 +1,8 @@
+Drill pipe and collars are designed to satisfy certain operational 
+requirements. In general, downhole tubulars must have the capability to 
+withstand the maximum expected hookload, torque, bending stresses, 
+internal pressure, and external collapse pressure. Operational capabilities 
+of different sizes and grades of drill pipe and collars are tabulated in the 
+API RP 7G to assist the drilling engineer in selection of pipe and collars for 
+a given drilling situation. Other concerns, such as the presence of H2S, 
+must also be considered in the selection process.

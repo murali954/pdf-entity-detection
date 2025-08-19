@@ -1,0 +1,2 @@
+A kick taken during a connection is signaled by a sequence of events much 
+the same as while drilling.

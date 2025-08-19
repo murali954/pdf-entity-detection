@@ -1,0 +1,3 @@
+4.
+Gradually increase the torque on the pumps until the pumps 
+begin to move fluid down the drill pipe.

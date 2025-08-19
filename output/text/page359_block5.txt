@@ -1,0 +1,8 @@
+One of the primary parameters which directly affects cost analysis is the 
+efficiency of the drilling operation, or the optimization of the drilling 
+variables. Those operating variables must be varied to achieve the best drill 
+rate for each drill bit, each application, and each formation. The two 
+primary variables which can be manipulated are the weight-on-bit (WOB) 
+and the rotary speed (RPM). Bit hydraulics may have to be manipulated, 
+but this should have been accomplished before the bit was tripped into the 
+borehole.

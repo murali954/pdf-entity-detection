@@ -1,0 +1,2 @@
+In this exercise calculate the client’s cost per foot for drilling with the 
+impregnated diamond bit.

@@ -1,0 +1,2 @@
+As can be seen from the previous examples, the ratio of shear-stress to 
+shear-rate is not constant but will vary with each shear-rate.

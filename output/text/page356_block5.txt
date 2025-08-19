@@ -1,0 +1,8 @@
+If it is known how many feet are to be drilled in the zone, a vertical reading 
+from the intersection of this value with the breakeven line will indicate the 
+required hours. If the best guess which can be made is penetration rate, a 
+line may be constructed from the “zero” point at this rate and its 
+intersection with the breakeven line provides readings of both footage and 
+hours. In this example, it is assumed that a 600 foot section will be drilled, 
+and the chart indicates the run will be economical if it takes 92 hours or 
+less.

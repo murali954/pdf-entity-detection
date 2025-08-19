@@ -1,0 +1,6 @@
+A modification to the Power Law Model, the OXY Model, was proposed 
+for use in oil-based muds. The major difference is the viscometer readings 
+used to determine the “k” and “n” values. Power Law uses the 300 and 600 
+rpm readings, the OXY Model uses the 6 and 100 rpm readings. In 
+addition, other models have been proposed that tend to exhibit behavior 
+between the Bingham and Power Law models at low shear rates.

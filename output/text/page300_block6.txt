@@ -1,0 +1,2 @@
+6.
+Restrict the drill rate when drilling out cement

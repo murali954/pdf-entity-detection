@@ -1,0 +1,4 @@
+The rock bit must be stronger than the rock it is to drill. The measurement 
+of hard steel is measured on the “Rockwell” hardness tester scale (Rc). The 
+tester uses a diamond pyramid indenter with a load of 150 kilograms. The 
+deeper the indentation in the steel, the softer it is.

@@ -1,0 +1,7 @@
+A rare occurrence of stuck pipe is one due to soft or “green” cement. This 
+occurs when the cement is not allowed to set properly, or because of 
+incorrect additives and bottomhole temperature gradients, the cement does 
+not set properly. After the normal time for WOC (Waiting On Cement) and 
+the drillstring is tripped in to drill out the plugs and float equipment, the 
+cement can “flash set” when pressure is applied. Preventive measures 
+include:

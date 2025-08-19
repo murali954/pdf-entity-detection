@@ -1,0 +1,5 @@
+Mud measurements are confined to the static filtration. Filtration 
+characteristics of a mud are determined by means of a filter press. The test 
+consists of monitoring the rate at which fluid is forced from a filter press 
+under specific conditions of time, temperature and pressure, then 
+measuring the thickness of the residue deposited upon the filter paper.

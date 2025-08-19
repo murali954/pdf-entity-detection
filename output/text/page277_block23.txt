@@ -1,0 +1,3 @@
+9.
+Explain what is meant by reactive torque of downhole motors 
+and why it causes problems for directional drillers.

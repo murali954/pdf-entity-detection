@@ -1,0 +1,2 @@
+The Plain End Weight, and the Threaded and Coupled Weight are 
+calculated using API formulas. These can be found in API Bulletin 5C3.

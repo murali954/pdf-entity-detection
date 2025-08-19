@@ -1,0 +1,4 @@
+is known as the clinging constant (Kc). It represents the proportion of pipe 
+velocity which must be added to fluid velocity in order to find the 
+equivalent or effective velocity, which must be used in the stationary 
+annulus calculation. The effective velocity is numerically greater than the

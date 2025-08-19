@@ -1,0 +1,3 @@
+Hookload = Air Weight x Buoyancy Factor
+= [(6,000 x 20.89) + (600 x 127)] 0.817
+= 164,658 pounds

@@ -1,0 +1,4 @@
+H 
+Total bit cost all bits being compared (of B) 
+$1,100.00 
+$3,350.00

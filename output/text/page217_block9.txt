@@ -1,0 +1,3 @@
+•
+Pressure drop through the tool is typically high and can be anything 
+from 500 psi to over 2000 psi.

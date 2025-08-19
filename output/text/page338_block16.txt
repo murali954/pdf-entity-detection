@@ -1,0 +1,5 @@
+b.
+Calculate the mud density required to kill the well between 
+the point of entry and the point of exit. The calculated mud 
+density may exceed 20 ppg. In this case, use the highest 
+mud density that can be mixed and pumped.

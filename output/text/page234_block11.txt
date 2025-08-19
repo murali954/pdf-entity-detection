@@ -1,0 +1,6 @@
+The distance from the near-bit stabilizer to the first string stabilizer is the 
+main design feature in a fulcrum assembly which will affect the build rate. 
+The build rate increases as this distance is increased, because a longer 
+fulcrum section will bend more, which will increase the fulcrum effect and 
+the side force on high side. There is a limit, however. Once the upper 
+stabilizer is more than 120 feet from the near-bit stabilizer (depending on

@@ -1,0 +1,2 @@
+In the center of a pipe, the shear-rate will be low and hence particle 
+interaction high, giving it a flattened flow profile. This profile has an

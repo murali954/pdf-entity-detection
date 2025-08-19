@@ -1,0 +1,4 @@
+B.
+Suppose you have 100 feet of 8-inch tubulars weighing 150 
+lbs/ft and 93 feet of 6.5-inch tubulars weighing 99 lbs/ft. 
+How many joints of 5-inch HWDP are required?

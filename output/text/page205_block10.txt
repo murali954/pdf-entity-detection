@@ -1,0 +1,4 @@
+The axial thrust bearing section supports the on and off bottom loading and 
+hydraulic thrust. It consists of a series of ball bearings stacked one on top 
+of the other, each set being contained in its own race (groove). The number 
+of these bearings will vary, depending on the size of the tool.

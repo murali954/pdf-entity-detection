@@ -1,0 +1,7 @@
+c. 
+Never let the drilled wellpath get too far from the planned 
+trajectory, because “drilling on the line” can be significantly 
+more expensive. As surveys are obtained, calculate and plot 
+the position on both horizontal and vertical plans. At all 
+times there must be a feasible course to drill from the 
+current location to the intended target.

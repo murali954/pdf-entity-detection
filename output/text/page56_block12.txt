@@ -1,0 +1,4 @@
+Note that the apparent viscosity decreases with increased shear rate. This 
+phenomenon is known as “shear thinning”. As shear rates approach 
+infinity, the apparent viscosity reaches a limit known as the Plastic 
+Viscosity. This viscosity is the slope of the Bingham plastic line. The

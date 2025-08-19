@@ -1,0 +1,6 @@
+On highly deviated wells, operators have been running drillpipe in 
+compression for years. Analysis of drillpipe buckling in inclined wells, by 
+a number of researchers (most notably Dawson and Paslay), has shown that 
+drillpipe can tolerate significant levels of compression in small diameter, 
+high inclination boreholes. This is because of the support provided by the 
+“low-side” of the borehole.

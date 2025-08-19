@@ -1,0 +1,1 @@
+where: Pla = Annular Pressure Loss (psi)

@@ -1,0 +1,5 @@
+The air weight of the higher grade pipe is used because the buoy force 
+acting on the drillstring is acting on the bit and components of the BHA. 
+The hydrostatic pressure which the mud exerts on the drill pipe in the upper 
+(vertical) section of the hole does not create a resultant force acting 
+upwards.

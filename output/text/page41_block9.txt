@@ -1,0 +1,8 @@
+• Fracture Test: Pumping proceeds until the formation is fractured. 
+Although this type of test is occasionally done, it is not a normal 
+way of conducting a shoe test.
+Exercise 1-6: After setting 13-3/8 inch casing, at 8,500 feet, the casing 
+shoe was drilled out and a casing shoe test was run. Leak-off 
+pressure was determined to be 1,100 psi. The test was 
+conducted with a mud density of 12.8 ppg in the hole. 
+Calculate the following:

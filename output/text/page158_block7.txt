@@ -1,0 +1,1 @@
+If the compressive load reaches the FCR, then sinusoidal buckling occurs.

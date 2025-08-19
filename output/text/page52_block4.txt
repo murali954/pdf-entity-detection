@@ -1,0 +1,1 @@
+Chlorides(ppm) = (ml of silver nitrate x 1000) / ml filtrate

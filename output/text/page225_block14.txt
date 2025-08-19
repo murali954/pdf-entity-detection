@@ -1,0 +1,4 @@
+In jetting, high dogleg severities are often produced. Deviation is produced 
+in a series of sudden changes, rather than a smooth continuous change. For 
+this reason, it is normal practice to jet an undergauge hole and then open it 
+out to full gauge, which smooths off the worst of the doglegs.

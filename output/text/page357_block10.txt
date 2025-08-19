@@ -1,0 +1,2 @@
+Any footage and hour combination on this line is a breakeven point; above 
+the line is the lower cost/ft, below is the higher cost/ft.

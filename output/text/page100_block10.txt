@@ -1,0 +1,3 @@
+Spacers are fluids of controlled viscosity, density and gel strength used to 
+form a buffer between the cement and drilling fluid. They also help in the 
+removal of drilling fluid during cementing.

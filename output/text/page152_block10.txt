@@ -1,0 +1,4 @@
+For a horizontal well proposal, the maximum tensile loads have been 
+calculated using a Torque and Drag program assuming that 5-inch drill 
+pipe will be used. In the 8.5-inch hole section, the anticipated loads at the 
+end of the build and at TD of the horizontal section are:

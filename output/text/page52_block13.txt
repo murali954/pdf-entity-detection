@@ -1,0 +1,6 @@
+The Marsh Funnel is the field instrument used to measure viscosity. It is 
+graduated so that one quart (946 cc) of water will flow through the funnel 
+in 26 seconds. To run a test, the bottom orifice is covered and drilling fluid 
+is poured over a screen until the funnel is full. When the bottom is 
+uncovered, the time required to fill one quart is recorded (in seconds) along 
+with the temperature.

@@ -1,0 +1,2 @@
+2.
+Total drilling cost; drilling cost-per-foot.

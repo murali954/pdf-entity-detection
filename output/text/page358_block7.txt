@@ -1,0 +1,2 @@
+1.
+Plot “J” value to left of zero on “X” (Horizontal) axis.

@@ -1,0 +1,7 @@
+Mechanical failure or formation breakdown can occur if excessive casing 
+pressure is allowed to build up. Mechanical failure at the surface can be 
+catastrophic, while formation breakdown can lead to lost circulation, an 
+underground blowout and/or possible surface fracturing. A “maximum 
+allowable casing pressure” must be determined and if casing pressure rises 
+to this maximum level during the initial closing of the well, a decision must 
+be made whether or not to shut-in the well.

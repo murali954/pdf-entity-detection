@@ -1,0 +1,5 @@
+The overall physical properties that are needed (strength and toughness) 
+are achieved by heating the parts to a high temperature, then quenching 
+them in oil. The maximum surface hardness of the carbonized section gets 
+about 60 - 64 Rc (the hardness of a file). The core hardness will be about 25 
+- 40 Rc, remaining tough and ductile.

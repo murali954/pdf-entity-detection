@@ -1,0 +1,3 @@
+In summary, the choke line pressure loss is always added to the annular 
+pressure loss whenever circulation is from the bottom of the hole to the 
+surface, through the choke line.

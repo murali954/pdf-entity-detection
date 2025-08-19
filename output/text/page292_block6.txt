@@ -1,0 +1,4 @@
+3.
+A greater upward force “F2” is applied, causing the free portion 
+of the drillstring to stretch by an amount “e”. The stretch is 
+measured above the reference point.

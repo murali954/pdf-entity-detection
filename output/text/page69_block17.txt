@@ -1,0 +1,2 @@
+A very important parameter in fixed cutter bits is “Hydraulic Power Per 
+Square Inch” or HSI. It is calculated using Hhp (hydraulic horsepower):

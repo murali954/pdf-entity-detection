@@ -1,0 +1,2 @@
+... where WBHA is the total air weight of the BHA and WBIT is the weight 
+on bit.

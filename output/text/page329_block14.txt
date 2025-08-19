@@ -1,0 +1,3 @@
+2.
+The margin between leak-off and mud weight decreases with 
+water depth.

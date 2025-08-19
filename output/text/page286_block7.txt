@@ -1,0 +1,4 @@
+The types and causes of stuck pipe have been mentioned and described in 
+the “Advanced Logging Procedures” workbook (P/N 80269H). This 
+section will center around using the logging unit's analysis of the 
+information available and their response to potential stuck pipe situations.

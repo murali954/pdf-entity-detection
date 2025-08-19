@@ -1,0 +1,2 @@
+Grid North - the northern direction as depicted on a flat surface 
+(i.e. a map)

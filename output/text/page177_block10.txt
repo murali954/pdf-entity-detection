@@ -1,0 +1,4 @@
+3.
+In all the following examples, assume that no drill pipe is to be 
+run in compression and ignore drag in the calculation. Find the 
+air weight required to get the desired weight on the bit.

@@ -1,0 +1,8 @@
+This is an uncontrolled flow of formation fluids from a high pressure zone 
+into a lower pressure zone. The loss of drill pipe pressure with changes in 
+annular pressure, the loss of large volumes of drilling fluid, or the total loss 
+of drilling fluid returns, characterizes underground blowouts. A common 
+cause is the fracturing of formations below the casing shoe by excessive 
+annular pressures. If the flow is not too severe, it may be possible to pump 
+LCM in a light fluid, or a “gunk squeeze” down the annulus while killing 
+the high pressure zone down the drillpipe with heavy mud.

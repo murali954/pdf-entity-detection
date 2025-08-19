@@ -1,0 +1,5 @@
+For cementing operations to be successful, all annular spaces must be filled 
+with cement, and the cement properly bonded to the previous casing and 
+formation. In order for this to occur, all the drilling fluid must be displaced 
+by the cement slurry. This is not always an easy matter, because there are 
+several factors which affect the removal of the drilling fluid:

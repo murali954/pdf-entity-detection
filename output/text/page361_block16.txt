@@ -1,0 +1,2 @@
+After the completion of the drill-off test, select the RPM and WOB which 
+provided the best penetration rate. A graph like that shown below should be

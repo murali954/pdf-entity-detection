@@ -1,0 +1,3 @@
+Figure 5-55: Hole inclination = 35°; 
+Real dip angle = 35°; Effective dip angle = 0; 
+There will be no deviation force.

@@ -1,0 +1,4 @@
+The skew direction is always “positive”, or in the direction of rotation. This 
+permits the tips of the teeth to “ream” the hole to full gauge. “Negative” 
+skew would have the gauge face rubbing the hole wall, increasing gauge 
+wear.

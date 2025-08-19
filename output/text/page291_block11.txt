@@ -1,0 +1,5 @@
+The coefficient of friction is the ratio of the force necessary to initiate 
+sliding of the plate to the normal force on the plate. The core face of the 
+stickometer is 3.14 inches, the radius of the plate is 1 inch, and the 
+differential pressure used is 500 psi. Because of the geometry of the core 
+face the torque is multiplied by 1.5. The formula then becomes:

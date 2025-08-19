@@ -1,0 +1,3 @@
+where PC is the chord length or circumference of the pipe stuck against the 
+formation (inches), TF is the thickness of the formation causing the stuck 
+pipe (feet) and 12 is the conversion from feet to inches.

@@ -1,0 +1,5 @@
+As illustrated in Figure 5-31, the collars above the near-bit stabilizer bend, 
+partly due to their own weight and partly because of the applied WOB. The 
+near-bit stabilizer acts as the pivot, or fulcrum, of a lever and the bit is 
+pushed to the high side of the hole. The bit therefore drills a path which is 
+gradually curving upwards (the assembly builds angle).

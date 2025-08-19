@@ -1,0 +1,5 @@
+3.
+Hookload may be seen to increase as a result of the lower density 
+invading fluid and fluid-cut mud. If the mass flow of invading 
+fluid is great enough, it may result in a decrease in hookload, as 
+the drillstring is lifted by the invading fluid.

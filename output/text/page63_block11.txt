@@ -1,0 +1,3 @@
+where:
+ReL = Laminar/Transitional Reynolds Number 
+(3470-1370n).

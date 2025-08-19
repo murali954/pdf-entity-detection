@@ -1,0 +1,9 @@
+Decisions made under kick situations depend upon the knowledge, attitude 
+and judgement of the supervisor. These can be confused by crew change 
+problems and the divided responsibilities between the rig superintendent/
+toolpusher and the oil company representative/drilling engineer. One of the 
+most important elements of a well control program is the establishment of 
+policies and procedures outlined in detail. This procedure must be made 
+known to Baker Hughes INTEQ personnel. It is the responsibility of the 
+senior person or Field Supervisor to obtain this information as soon as 
+possible.

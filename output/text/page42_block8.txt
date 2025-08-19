@@ -1,0 +1,3 @@
+• If no influx of formation fluid occurs, then the hydrostatic pressure 
+in the drill string, and in the annulus, will be the same; resulting in 
+equal drillpipe and casing pressures.

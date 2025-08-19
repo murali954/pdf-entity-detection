@@ -1,0 +1,2 @@
+This can be converted to salt (NaCl) ppm by multiplying the chlorides by 
+1.65, or to grains per gallon by multiplying the salt ppm by 0.0583.

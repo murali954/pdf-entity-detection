@@ -1,0 +1,4 @@
+The hydraulic horsepower equation is the same (Pb x Q/1714), however in 
+fixed cutter bits, resistance to fluid flow is created by the diamonds, 
+nozzles, flow area restrictions, cuttings and the uneven hole pattern. 
+Pressure losses at the bit are calculated using:

@@ -1,0 +1,2 @@
+Determination of the amount of Bottom Hole Cleaning necessary to 
+maximize the drill rate is based upon:

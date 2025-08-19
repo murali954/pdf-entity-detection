@@ -1,0 +1,4 @@
+Figure 5-44: 30 foot Pendulum Assembly 
+with under-gauge near bit stabilizer. This will give a slightly lower 
+rate of drop than the previous BHA, but should reduce bit walk 
+and thereby give better azimuth control.

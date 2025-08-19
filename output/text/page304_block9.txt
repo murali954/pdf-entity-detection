@@ -1,0 +1,5 @@
+Choke Control: This includes the correct calculation of pressures and time 
+relationships, as well as operating the choke and monitoring 
+the pump rate. The choke operator should be the best trained 
+man on the rig in kick control. He will be required to give 
+guidance during the kill operations.

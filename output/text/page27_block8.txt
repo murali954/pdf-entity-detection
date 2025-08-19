@@ -1,0 +1,7 @@
+These “lower than hydrostatic pressure” systems are of four types: 1) dry 
+air or gas is injected into the borehole to remove cuttings and can be used 
+until appreciable amounts of water are encountered, 2) mist drilling is then 
+used, which involves injecting a foaming agent into the air stream, 3) foam 
+drilling is used when large amounts of water is encountered, which uses 
+chemical detergents and polymers to form the foam, and 4) aerated fluids is 
+a mud system injected with air to reduce the hydrostatic pressure.

@@ -1,0 +1,4 @@
+The amount of cement slurry used is determined by calculating the annular 
+volume between the casing and open hole, and expressing this value in 
+cubic feet. To this value, the volume of cement in the casing below the 
+plugs must be added.

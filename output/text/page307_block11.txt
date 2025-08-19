@@ -1,0 +1,3 @@
+During drilling operations, it is important that alarms be set on as many 
+sensors as possible. However, since there are sufficient exceptions, it is 
+unwise to depend on only one factor in these sequence of events. For

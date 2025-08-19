@@ -1,0 +1,6 @@
+Those who have observed a solids tracer emerging over the shale shaker 
+will realize the large spread of “cuttings” that occurs. Therefore, any 
+calculated estimation of slip velocity will only be an approximation. The 
+reason for this “spread” of solids is the particles ability to be carried by the 
+drilling fluid. It is a function of its position in the mud stream and the size 
+of the particle.

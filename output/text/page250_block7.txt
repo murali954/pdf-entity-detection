@@ -1,0 +1,4 @@
+However, the type of bit has a significant influence on walk rates. 
+Conventional tri-cone bits cause right-hand walk in normal rotary drilling. 
+Generally speaking, long tooth bits drilling soft to medium hard formations 
+give a greater right walk tendency than short tooth bits drilling a harder

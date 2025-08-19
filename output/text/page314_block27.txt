@@ -1,0 +1,3 @@
+6.
+Formula for calculating the change in circulating pressure due to 
+the effect of the heavier mud

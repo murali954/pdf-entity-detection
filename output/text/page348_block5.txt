@@ -1,0 +1,5 @@
+It has been demonstrated that by using this cost-per-foot formula, a bit can 
+be pulled when it no longer becomes economical to drill. When the drilling 
+time-per-foot begins to increase, and the footage drilled-per-time 
+decreases, the cost-per-foot will begin to increase. When that increase is 
+first noticed, it would be economical to pull the bit.

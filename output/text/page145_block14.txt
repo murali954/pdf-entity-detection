@@ -1,0 +1,3 @@
+•
+Calculate critical buckling force and explain the factors involved 
+when running drill pipe in compression.

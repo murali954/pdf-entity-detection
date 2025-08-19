@@ -1,0 +1,6 @@
+A.
+Desired maximum WOB = 50,000 lbs; 
+Borehole Inclination = 55°; 
+Mud Density = 13ppg; 
+Hole Size = 12.25-inch. 
+Use a safety factor of 10%.

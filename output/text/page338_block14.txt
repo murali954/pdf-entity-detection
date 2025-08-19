@@ -1,0 +1,3 @@
+2.
+Rig up the wireline logging unit and run the temperature log 
+going down the drillpipe and the noise log while pulling out.

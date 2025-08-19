@@ -1,0 +1,6 @@
+Baker Hughes INTEQ personnel can be valuable members of the drilling 
+team in diagnosing potential stuck pipe problems. Having access to the 
+drilling information (via the DrillByte network), the geological data (from 
+the Logging Geologist), and using the right analytical approach, INTEQ 
+personnel can assist the client in keeping stuck pipe problems to a 
+minimum.

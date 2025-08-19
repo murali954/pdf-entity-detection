@@ -1,0 +1,12 @@
+Bit 
+No.
+Bit 
+Cost
+Depth 
+Out (ft)
+Footage
+Rotating 
+Hours
+Penetration
+(ft/hr)
+Cost/foot

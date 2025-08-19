@@ -1,0 +1,6 @@
+For a well to be killed successfully, the pressure in the formation must be 
+kept under control during the entire kill operation. The only exception is in 
+cases when the maximum allowable annular pressure will be exceeded. 
+The simplest method of doing this is to control the drillpipe pressure by 
+running the kill pump at a constant rate and controlling the pressure by 
+regulating the choke on the choke line.

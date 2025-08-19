@@ -1,0 +1,6 @@
+4.
+An increase in pit volume may be the result of two separate 
+mechanisms: (1) the increased flow rate translates into an 
+increase in mud volume, and (2) if the kick contains gas, its 
+expansion in the annulus will increase the flow rate and pit 
+volume.

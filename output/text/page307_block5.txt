@@ -1,0 +1,9 @@
+This is done by: (1) picking up the kelly so the kelly bushings are 
+about 10 ft above the rig floor, (2) stopping the pumps, and (3) 
+observing the fluid level in the annulus to see if the well is 
+flowing. This may be difficult on floating rigs as the level will 
+fluctuate with the heave of the rig. In these instances the 
+flowcheck should continue for at least 5 minutes, or be 
+conducted by circulating through the trip tank and the trip tank 
+volume observed for a gain. If the well is flowing, it should be 
+shut-in and any resultant pressures checked.

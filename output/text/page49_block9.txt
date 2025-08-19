@@ -1,0 +1,5 @@
+pH is commonly measured with pHydrion paper. This paper is impregnated 
+with dyes that render a color which is pH dependent. The paper is placed 
+on the surface of the mud which wets the paper. When the color has 
+stabilized, it is compared with a color chart. An electronic pH meter may 
+also be used.

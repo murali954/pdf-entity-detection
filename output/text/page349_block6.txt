@@ -1,0 +1,2 @@
+When downhole motors are used and charged at an hourly rate, they can be 
+included in the cost equation:

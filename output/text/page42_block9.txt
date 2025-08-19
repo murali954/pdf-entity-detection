@@ -1,0 +1,12 @@
+• Usually, any formation fluid influx will have a density less than the 
+drilling fluid, and will only go into the annulus. In this case, the total 
+hydrostatic pressure in the annulus will be less than the hydrostatic 
+pressure in the drill string. Since the formation pressure is constant 
+for the bottom of the hole (both under the drill string and the 
+annulus) the resulting pressures on the drill pipe and casing will 
+differ. The surface drillpipe pressure will be less than the annular 
+pressure since its hydrostatic is greater.
+Exercise 1-9: While drilling at 11,000 ft., with a mud density of 14.4 ppg, 
+the well kicked. It was immediately shut in. After the system 
+stabilized, the drill pipe pressure was 250 psi. (No influx 
+entered the drill string)

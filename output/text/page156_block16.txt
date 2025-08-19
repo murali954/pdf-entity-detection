@@ -1,0 +1,2 @@
+Force = W (BF) cos θ
+Buoyed Weight = W(BF)

@@ -1,0 +1,5 @@
+Assume that the well in Exercise #1-4  on page 1-21 is shut in (annular 
+preventer & choke are closed) and a small amount of mud is pumped into 
+the well using the cementing unit. The pressure will begin to increase 
+immediately. This pressure is an imposed pressure, and is felt uniformly 
+throughout the well bore.

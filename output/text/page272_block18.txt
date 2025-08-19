@@ -1,0 +1,3 @@
+•
+When using a steerable motor assembly in vertical or near vertical 
+holes, the actual dogleg may be less than the calculated TGDS.

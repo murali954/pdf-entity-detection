@@ -1,0 +1,4 @@
+1.
+Soft Formations: Increasing the rotary speed can improve the 
+penetration rate with little effect on bit cutter wear. Relatively 
+low WOB is recommended.

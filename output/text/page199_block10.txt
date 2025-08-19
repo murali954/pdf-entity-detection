@@ -1,0 +1,2 @@
+The technique of “nudging” is used on platforms in order to “spread out” 
+conductors and surface casings, which minimizes the chance of a collision.

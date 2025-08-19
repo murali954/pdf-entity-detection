@@ -1,0 +1,6 @@
+5.
+In the following examples, assume that drill pipe may be run in 
+compression but the compressive force must not exceed 90% of 
+the critical buckling force. In all cases assume 5-inch new, S-135 
+drill pipe with 4.5-inch IF connections is being used. Find the 
+BHA air weight required.

@@ -1,0 +1,9 @@
+The advantage of using this system, instead of the normal method of 
+milling a section and sidetracking, is that the operation usually takes less 
+time. The main disadvantage is that it gives a sharp dogleg, and as such the 
+casing whipstock assembly is not recommended if there is a considerable 
+distance to drill below the sidetrack. This is because problems can occur 
+when trying to pull stabilizers, etc back into the casing through the 
+window. On the other hand, if there is only a short distance to be drilled 
+below the sidetrack point, then the casing whipstock is well worth 
+considering.

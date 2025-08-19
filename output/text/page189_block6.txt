@@ -1,0 +1,7 @@
+The reference meridians are 6 degrees apart, starting at the Greenwich 
+meridian, which means the world is divided into 60 zones. The zones are 
+numbered 0 to 60 with zone 31 having the 0 degree meridian (Greenwich) 
+on the left and the 6 degree East on the right. Each zone is then further 
+divided into grid sectors - a grid sector covering 8 degrees latitude starting 
+from the equator and ranging from 80° South to 80° North. The sectors are 
+given letters ranging from C to X (excluding I and O).

@@ -1,0 +1,1 @@
+where: ∆Pa = pressure change over time interval / time interval (hr)

@@ -1,0 +1,2 @@
+a.
+Determine the point of fluid entry and fluid exit

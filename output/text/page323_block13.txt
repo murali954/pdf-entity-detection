@@ -1,0 +1,10 @@
+The major difference with these rigs is that the BOP stack is on the seafloor 
+and pipe movement relative to the drill floor can occur (even with a motion 
+compensator). To solve this problem, a tool joint is lowered onto a set of 
+closed rams and the weight of the drillstring is hung on these rams. With 
+the BOP stack so far from the drill floor, the problem of a tool joint 
+interfering with the closing of the preventers always exists. To compensate 
+for this problem, a spacing out procedure is performed prior to the 
+possibility of taking a kick. The rams are closed and the drill string lowered 
+until a tool joint contacts the ram. The position of the kelly is then 
+recorded.

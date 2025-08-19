@@ -1,0 +1,6 @@
+Collar OD
+(in)
+Moment of Inertia
+(in4)
+Weight/Length
+(lb/ft)

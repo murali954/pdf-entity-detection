@@ -1,0 +1,4 @@
+The lower limit is a range where there is sufficient hole cleaning. This is 
+determined by using the velocity around the drillpipe and the largest 
+annular section (normally the upper hole section or drillpipe/riser section). 
+A normal range is around 50 ft/min.

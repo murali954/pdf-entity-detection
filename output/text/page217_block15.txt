@@ -1,0 +1,3 @@
+•
+Torque is a function of flow rate, mud density, blade angle and the 
+number of stages, and varies if weight-on-bit varies.

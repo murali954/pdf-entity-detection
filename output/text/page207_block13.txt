@@ -1,0 +1,5 @@
+In general, drilling fluids with a low aniline point can damage the rubber 
+stator. As a rule, the nailine point in oil based muds should be around 
+150°F (60°C). Usually, this is related to the aromatic content which should 
+be equal to or less than 10%. Contact the local supplier if there is any 
+doubt.

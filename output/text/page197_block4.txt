@@ -1,0 +1,5 @@
+On multi-well platforms, only a few wells are given deep kick-off points, 
+because of the small slot separation and the difficulty of keeping wells 
+vertical in firmer formation. Most wells are given shallow kick-off points 
+to reduce congestion below the platform and to minimize the risk of 
+collisions.

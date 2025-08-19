@@ -1,0 +1,2 @@
+When using a packed assembly, reducing collar OD may give a slight build 
+tendency because the collars can bend more.

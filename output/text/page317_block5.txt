@@ -1,0 +1,12 @@
+When kill mud reaches the bit, it is good practice to shut-in the well. The 
+drillpipe pressure should fall to zero; if it doesn't, a few more barrels 
+should be pumped to ensure that the kill mud has reached the bit. If the 
+drillpipe pressure is still greater than zero when the pump is stopped and 
+the choke closed, the kick control figures should be rechecked. When 
+satisfied, pumping is restarted, but now the drillpipe pressure is kept 
+constant as the kill mud displaces the mud in the annulus. When the kick 
+fluids and original mud have been displaced, the choke should be wide 
+open. The pump should be shut down and both SIDP & SICP should read 
+zero. If so, the well should then be observed for flow. The kick is now 
+killed and mud should be circulated to condition the hole, and at the same 
+time the trip margin (if any) should be added.

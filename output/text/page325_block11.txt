@@ -1,0 +1,4 @@
+5.
+The SIDP is the amount of pressure required to initiate the fluid 
+movement. It is assumed that this is the amount needed to 
+overcome the pressure acting on the lower side of the valve.

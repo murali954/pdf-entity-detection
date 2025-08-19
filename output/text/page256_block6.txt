@@ -1,0 +1,5 @@
+The unwanted deviation in vertical wells has borne out the predictions of 
+the graph shown in Figure 5-49. Drilling through alternately hard and soft 
+formations with low dip angles, using a well stabilized bit and weights high 
+enough to cause collar flexure, usually results in a course perpendicular to 
+the bedding planes.

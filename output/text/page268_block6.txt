@@ -1,0 +1,5 @@
+•
+When tangent section or straight hole drilling, a lower tilted tool may 
+be more desirable to reduce bit wear and increase ROP. However, this 
+depends on the extent to which orientation may be necessary and the 
+anticipated ease of oriented drilling.

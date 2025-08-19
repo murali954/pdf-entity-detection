@@ -1,0 +1,6 @@
+One suggestion for an efficient well path for directional wells would be to 
+plan the well as a continuous smooth curve, all the way from KOP to 
+target. This is the catenary method. A catenary curve is the natural curve 
+that a cable, chain or any other line of uniform weight assumes when 
+suspended between two points. A similar suspension of drill string would 
+also form a catenary curve.

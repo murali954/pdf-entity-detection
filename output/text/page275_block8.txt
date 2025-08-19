@@ -1,0 +1,3 @@
+•
+The NDS assembly should be designed such that the TGDS is at least 
+125% of the required drop rate.

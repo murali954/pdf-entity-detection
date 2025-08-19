@@ -1,0 +1,3 @@
+the hydraulic pressure (pump pressure) remaining at point B in the figure is 
+600 psi. However, the system pressure loss at point B is 300 psi. That is, 
+300 psi is needed to pump the mud from point A to point B.

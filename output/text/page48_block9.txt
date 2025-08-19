@@ -1,0 +1,3 @@
+The corrosion of metal is increased if it comes into contact with an acidic 
+fluid. From this point of view, the higher pH would be desirable to protect 
+pipe and casing.

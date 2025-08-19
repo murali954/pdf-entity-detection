@@ -1,0 +1,9 @@
+Recognition of kicks during connections requires careful monitoring of the 
+return flow sensor. After the pumps have been shut down, the flow sensor 
+should indicate an absolute “no flow” condition. However, on some rigs a 
+long sloping flowline may cause mud to slowly trickle down after the 
+pumps have been shut down. If this is the case, an increase above this slow 
+trickle will indicate a kick. Also, a record of flowline mud density will 
+disclose small mud cuts caused after connections, and may be accompanied 
+by connection gases, but connection gases alone are not an indication of a 
+kick during a connection.

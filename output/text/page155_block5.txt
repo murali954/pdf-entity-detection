@@ -1,0 +1,8 @@
+One important consideration in designing the BHA is determining the 
+number of drill collars and heavy-weight pipe required to provide the 
+desired weight-on-bit. When drilling vertical wells, standard practice is to 
+avoid putting ordinary drill pipe into compression (recommended by 
+Lubinski in 1950). This is achieved by making sure that the “buoyed 
+weight” of the drill collars and heavy-weight pipe exceed the maximum 
+weight-on-bit. This practice has also been adopted on low inclination, 
+directionally drilled wells.

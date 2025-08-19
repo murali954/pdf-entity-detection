@@ -1,0 +1,6 @@
+In conventional development, wells cannot be drilled until the platform has 
+been constructed and installed. This can mean a delay of several years 
+before production begins. Such delay scan be considerably reduced by pre-
+drilling some of the wells through a subsea template while the platform is 
+being constructed. These wells are directionally drilled from a semi-
+submersible rig and tied back to the platform once it has been installed.

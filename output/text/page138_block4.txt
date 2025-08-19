@@ -1,0 +1,4 @@
+Rotary speed should be relatively high, with 100 rpm being average, 
+although 200 to 1000 rpm is not uncommon when downhole motors are 
+used. Penetration rate should increase at high speeds if hydraulics are good 
+and no roughness in drilling occurs.

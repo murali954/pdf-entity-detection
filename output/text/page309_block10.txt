@@ -1,0 +1,3 @@
+Kick tolerance is defined as the maximum Pore Pressure Gradient that may 
+be encountered if a kick is taken at the present depth, with the present mud 
+density and the well is shut-in, without downhole fracturing occurring.

@@ -1,0 +1,3 @@
+It is important to establish the choke line friction because this pressure is 
+imposed on all portions of the hole below the BOP stack, even back up to 
+the drillpipe pressure gauge.

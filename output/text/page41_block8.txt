@@ -1,0 +1,3 @@
+• Pressure Integrity Test: Pumping proceeds until a predetermined 
+imposed (pump) pressure is obtained  without any loss of mud 
+into the formation.

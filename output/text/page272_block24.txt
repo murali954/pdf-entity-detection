@@ -1,0 +1,2 @@
+An estimate of the required footage to be drilled in oriented mode can be 
+determined using:

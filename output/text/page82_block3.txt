@@ -1,0 +1,2 @@
+Minimum Recommended Flow is 539 gal/min to maintain laminar flow in section with Diameter 12.250 and Pipe OD 8.00 in 
+Minimum Recommended Flow is 382 gal/min to maintain cuttings transport in section with Diameter 20.000 and Pipe OD 5.000 in

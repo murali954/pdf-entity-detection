@@ -1,0 +1,2 @@
+For example, the buoy force exerted on 7.5-inch x 2-inch drill collars in a 
+700 ft vertical hole with 12 ppg mud would be 17,925 pounds.

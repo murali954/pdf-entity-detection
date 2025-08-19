@@ -1,0 +1,1 @@
+di  =  Drillstring Inside Diameter (inches)

@@ -1,0 +1,4 @@
+If the drillstring becomes key seated, the drillstring should be worked 
+upwards gradually, this will depend on how long the key seat is, and if the 
+BHA is not jammed into the key seat. The drillstring should try to be 
+rotated up and out of the key seat with minimum tension.

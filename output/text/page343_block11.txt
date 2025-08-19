@@ -1,0 +1,3 @@
+2.
+What is the typical sequence of events that may be observed if a 
+kick is taken during a connection?

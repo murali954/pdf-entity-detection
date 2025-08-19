@@ -1,0 +1,6 @@
+The drive sub is simply the bit connection and bearing shaft. Radial 
+bearings protect the shaft from lateral loading and the thrust bearings 
+support the downwards hydraulic thrust from mud being pumped through 
+the tool and the upward thrust of weight being applied to the bit. 
+Theoretically, weight on bit should be applied to equalize the hydraulic 
+thrust, which unloads the bearings and prolongs their life.

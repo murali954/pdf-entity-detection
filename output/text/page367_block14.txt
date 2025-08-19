@@ -1,0 +1,1 @@
+Trip Time = 1.2 hr/1000 ft

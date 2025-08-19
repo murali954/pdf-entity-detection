@@ -1,0 +1,8 @@
+When using a fulcrum (build) assembly, reducing the collar OD will 
+dramatically increase the build tendency, because the collars will be more 
+limber and will bend more. Another factor is the clearance between the 
+outside of the drill collars and the wall of the hole. The greater the 
+clearance, the more the collars can bend before they contact the low side of 
+the hole. Once the collars contact the low side of the hole, further increases 
+in WOB will have only a marginal effect on build rate by moving the 
+contact point down the hole.

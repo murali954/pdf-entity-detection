@@ -1,0 +1,2 @@
+What air weight of BHA is required if we are to avoid running any drill 
+pipe in compression? Use a 15% safety margin.

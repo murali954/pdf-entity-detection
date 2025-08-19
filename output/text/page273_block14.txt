@@ -1,0 +1,5 @@
+Tangent or hold sections can prove to be very economical using NDS, 
+although NDS performance drilling will not usually match that of straight 
+motor performance drilling. Long sections of hole can be drilled faster than 
+with conventional rotary assemblies, and corrections can be performed, if 
+required, to keep the well on course. Basic design principles include:

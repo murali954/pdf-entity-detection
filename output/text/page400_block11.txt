@@ -1,0 +1,5 @@
+9.
+Reactive torque is created by the drilling fluid pushing against 
+the stator, which forces the motor and BHA to twist counter-
+clockwise (turn to the left). This twisting effect changes the tool 
+face orientation of bent subs and other directional drilling tools.

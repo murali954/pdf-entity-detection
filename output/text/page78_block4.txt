@@ -1,0 +1,3 @@
+This function is graphed in Figure 1-7. It is an approximation for closed 
+pipe and it appears to be similar to turbulent flow clinging constants 
+derived by other authors.

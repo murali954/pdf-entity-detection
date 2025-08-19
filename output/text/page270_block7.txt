@@ -1,0 +1,2 @@
+During kick-off operations, two basic factors will determine general NDS 
+assembly design:

@@ -1,0 +1,3 @@
+Test #4: 
+RPM 90
+WOB 24, 36, 48 klbs

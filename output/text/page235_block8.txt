@@ -1,0 +1,3 @@
+Rotary Speed: A higher rotary speed will tend to `straighten’ the drill 
+collars and hence reduce the rate of build. For this reason, low rotary 
+speeds (70 - 100 RPM) are generally used with fulcrum assemblies.

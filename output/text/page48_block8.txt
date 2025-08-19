@@ -1,0 +1,7 @@
+Drilling muds are always treated to be alkaline (i.e., a pH > 7). The pH will 
+affect viscosity, bentonite is least affected if the pH is in the range of 7 to 
+9.5. Above this, the viscosity will increase and may give viscosities that are 
+out of proportion for good drilling properties. For minimizing shale 
+problems, a pH of 8.5 to 9.5 appears to give the best hole stability and 
+control over mud properties. A high pH (10+) appears to cause shale 
+problems.

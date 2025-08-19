@@ -1,0 +1,5 @@
+The plastic viscosity (PV) is calculated by measuring the shear rate and 
+stress of the fluid. These values are derived by using a Fann viscometer, 
+which is a rotating-sleeve viscometer, and may be a simple hand operated 
+two speed model or a more complex variable speed electric model. The two 
+speed model operates at 300 and 600 rpm.

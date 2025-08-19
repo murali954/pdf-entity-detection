@@ -1,0 +1,2 @@
+Weight-on-Bit: Increasing the weight on bit will bend the drill collars 
+behind the near-bit stabilizer more, so the rate of build will increase.

@@ -1,0 +1,3 @@
+During wellsite operations, the mud’s density is checked by filling the cup 
+with drilling fluid and moving the rider until the level bubble indicates the 
+beam is balanced. The density is then read using the position of the rider.

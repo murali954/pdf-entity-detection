@@ -1,0 +1,4 @@
+will be a sudden decrease in the penetration rate and torque, and 
+an increase in standpipe pressure. If the wear is on the gauge 
+portion, there will be very high on-bottom torque with little 
+weight-on-bit and a decrease in the penetration rate.

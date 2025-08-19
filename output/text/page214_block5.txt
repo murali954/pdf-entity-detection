@@ -1,0 +1,4 @@
+All directional wells require steering during initial kick offs, correction 
+runs, sidetracks, and re-drills. Once the desired direction in which the tool 
+should be faced is determined, the next step is to actually face the tool in 
+that direction in order to drill the predetermined course.

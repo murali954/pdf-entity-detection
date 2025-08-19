@@ -1,0 +1,2 @@
+When extrapolating, bear in mind that increased lengths will increase the 
+coefficient, while increased I.D.'s will decrease the coefficient.

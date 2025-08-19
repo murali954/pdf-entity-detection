@@ -1,0 +1,5 @@
+Exercise 1-7: After running the leak-off test in the previous exercise, 
+drilling proceeded to 11,000 ft during which time the mud 
+density was increased to 14.4 ppg. Another leak-off test was 
+conducted. The leak-off pressure was 393 psi. Calculate the 
+following:

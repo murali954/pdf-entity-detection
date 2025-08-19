@@ -1,0 +1,4 @@
+Shut-in procedures will vary from rig type to rig type and between well site 
+operations. The main variations in procedures are dependent upon whether 
+the rig is floating or fixed. The following is a summary of the various shut-
+in procedures.

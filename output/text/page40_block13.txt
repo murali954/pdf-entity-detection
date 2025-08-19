@@ -1,0 +1,4 @@
+As an example: Pumping is stopped and 900 psi is held on the pump. This 
+pressure (900 psi) is felt inside the BOP stack, inside the drill string, at the 
+bottom of the hole, at the casing shoe, and everywhere else in the 
+circulating system.

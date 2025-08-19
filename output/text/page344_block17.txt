@@ -1,0 +1,4 @@
+SIDP =  600 psi
+MD
+=
+10.0 ppg

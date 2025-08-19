@@ -1,0 +1,8 @@
+If one or more bit jets become plugged, the SIDP will increase suddenly 
+while a constant pump rate is maintained. The choke should not be opened 
+to maintain a constant drillpipe pressure, as this will allow the influx of 
+more fluid. The pump should be stopped and the well shut in. The SPR 
+should be redetermined and this new pressure maintained as the pumps are 
+brought up to the new slow circulating rate, without encountering 
+excessive drill pipe pressures. These new pressures should be used to 
+continue the kill operation.

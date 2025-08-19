@@ -1,0 +1,4 @@
+The American Petroleum Institute (API) has developed certain standards 
+and specifications for oil-field related casing and tubing. One of the more 
+common standards is weight per unit length. There are three “weights” 
+used:

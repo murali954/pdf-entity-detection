@@ -1,0 +1,4 @@
+Cone offset (Figure 3-2b), is caused by the journal centerline not 
+intersecting the bit centerline (or bit center of rotation). The distance that 
+the journal centerline misses the bit centerline (measured perpendicular to 
+the journal centerline at the center of rotation) is the offset.

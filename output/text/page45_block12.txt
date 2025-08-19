@@ -1,0 +1,3 @@
+The Fann viscometer reading is therefore multiplied by 1.067 to obtain 
+shear stress in lb/100ft2; or multiplied by 478.8, and divided by the shear 
+rate in second-1 to get Dynes/cm2.

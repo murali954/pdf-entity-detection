@@ -1,0 +1,2 @@
+PDC TFA (Total Flow Area) determined by nozzle area times
+number of nozzles.

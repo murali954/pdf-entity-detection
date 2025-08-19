@@ -1,0 +1,4 @@
+When a drop section is drilled, the gauge of the first string stabilizer can be 
+increased to produce more of a dropping tendency in the rotary mode. The 
+recommended diameter is no larger than the UBHS. Increasing the 
+diameter of this stabilizer can increase hole drag and stabilizer hang up.

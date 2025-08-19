@@ -1,0 +1,3 @@
+These are used to control the hydration, caving and disintegration of clay/
+shale formations. Commonly used are gypsum, sodium silicate and 
+calcium lignosulfonates.

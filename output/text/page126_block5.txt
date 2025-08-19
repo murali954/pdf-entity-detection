@@ -1,0 +1,6 @@
+The first and still most popular seal is the radial seal (used mainly on the 
+sealed roller bearing bits). The radial seal is a circular steel spring encased 
+in rubber, which seals against the face of the shank and the face of the 
+cone. The newer “O” ring seal is considered the most effective seal. The 
+major problem confronting the “O” ring is tolerance, which must be precise 
+in order to maintain an effective seal.

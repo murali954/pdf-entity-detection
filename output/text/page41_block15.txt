@@ -1,0 +1,2 @@
+Pressure @ 10,000 ft = _______ psi
+Pressure @ 11,000 ft. = _______ psi

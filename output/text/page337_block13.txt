@@ -1,0 +1,7 @@
+If the bit becomes completely plugged, drillpipe pressure cannot be used to 
+maintain a constant bottomhole pressure and the casing pressure will 
+increase slowly as gas percolates up the annulus. The casing pressure 
+should be allowed to rise 100 psi above the initial SICP and small amounts 
+of fluid should be bled off into a tank to monitor fluid volume. The 
+procedures for a migrating gas bubble are then followed. Consideration 
+may be given to running a string shot or perforating to regain circulation.

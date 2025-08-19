@@ -1,0 +1,2 @@
+When the neutral point is in the HWDP but all the drill collars are of the 
+same diameter, the following formula should be used:

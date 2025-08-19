@@ -1,0 +1,8 @@
+1.
+Determine the static hookload of a drillstring consisting of 9,000 
+ft of 4.5-inch new, Grade E drill pipe with a nominal weight of 
+16.6 lbs/ft (approximate weight of 17.1 lbs/ft) plus 600 feet of 5 
+inch heavy-weight drill pipe weighing 49.3 lbs/ft and 120 feet of 
+eight 2.5-inch collars in a vertical hole with 12 ppg mud. 
+Disregard effects of hole drag and assume that the drillstring is 
+full of fluid

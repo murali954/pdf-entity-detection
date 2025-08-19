@@ -1,0 +1,7 @@
+Drillstring components located in this “transition zone” may, therefore, 
+alternately experience compression and tension. These cyclic oscillations 
+can damage downhole tools. A prime example is drilling jars, whose life 
+may be drastically shortened if the jars are located in the transition zone. It 
+is also important, as previously explained, to know if any drill pipe is being 
+run in compression. Therefore it is important to know the location of the 
+neutral point.

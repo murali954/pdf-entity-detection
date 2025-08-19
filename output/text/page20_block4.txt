@@ -1,0 +1,4 @@
+A drilling fluid is any fluid which is circulated through a well in order to 
+remove cuttings from a wellbore. This section will discuss fluids which 
+have water or oil as their continuous phase. Air, mist and foam, which can 
+be used as drilling fluids, will not be discussed at this time.

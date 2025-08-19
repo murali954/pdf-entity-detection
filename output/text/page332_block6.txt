@@ -1,0 +1,3 @@
+The BOP stack will be attached to the casing string via a “casing head”. 
+This casing/BOP connection will have a pressure rating similar to the rest 
+of the BOP components.

@@ -1,0 +1,3 @@
+Torque is a function of the RPM and hole conditions and will be induced 
+into the drillstem when the pipe is rotated. Some of the torque comes from 
+the bit, the rest from the BHA and drillpipe interaction with the borehole.

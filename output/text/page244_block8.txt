@@ -1,0 +1,2 @@
+Careful selection of drilling parameters is required to prevent this. High 
+rotary speed (120 - 160+) helps keep the pendulum straight to avoid the

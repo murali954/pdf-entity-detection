@@ -1,0 +1,3 @@
+11.
+% Footage in Oriented Mode = [(DL - DLR) / (DLO - DLR)] x 
+100

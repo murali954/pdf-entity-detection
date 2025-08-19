@@ -1,0 +1,9 @@
+Another explanation, proposed by McLamore and others, is that of 
+preferential chip formation. This considers the mode of chip formation at a 
+single tooth. Anisotropic formations have preferential planes of failure. As 
+it impacts the formation, the bit tooth sets up a compressive stress in a 
+direction perpendicular to the face of the tooth. Shear failure will then 
+occur more readily along the bedding planes. When the bit is drilling an 
+anisotropic rock, larger chips will be cut rapidly on one side of the bit and 
+smaller chips will be cut more slowly on the other. Unequal chip volumes 
+will therefore be generated on each side of a bit tooth.

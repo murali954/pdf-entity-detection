@@ -1,0 +1,4 @@
+Person
+Relation between the verb and subject showing whether a 
+person is speaking (first person), spoken to (second person), 
+or spoken of (third person).

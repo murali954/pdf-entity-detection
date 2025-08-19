@@ -1,0 +1,7 @@
+The desired metallurgical properties and physical strengths are developed 
+through heat treating. As mentioned above, the strength is improved by 
+increasing the carbon content at the surface by carbonizing, commonly 
+known as “case hardening”. This is essential for the teeth on milled tooth 
+bits, and necessary for strength and wear resistance on the bearing surfaces. 
+Toughness (resistance to impact and crack propagation) is attained by 
+leaving the inner part or the “core steel” unchanged.

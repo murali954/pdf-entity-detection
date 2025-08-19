@@ -1,0 +1,4 @@
+There will be no deflection of the bit caused by the formation at 0° or 90° 
+dip. This is because the bit is cutting into a structure that is essentially 
+uniform and is constantly cutting into the same layers at the same time or 
+constantly drilling between layers.

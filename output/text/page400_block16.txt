@@ -1,0 +1,4 @@
+where: 
+DL = required dogleg (°/100')
+DLO = actual dogleg when oriented (°/100')
+DLR = actual dogleg when rotary drilling (°/100')

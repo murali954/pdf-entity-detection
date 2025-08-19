@@ -1,0 +1,3 @@
+• Leak-Off Test: Pumping into the shut-in well continues until mud is 
+lost to the formation. It is noted by a non-linear relationship 
+between volume pumped and pressure increase.

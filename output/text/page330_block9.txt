@@ -1,0 +1,8 @@
+The initial recommended hydraulic pressure for closing most types of 
+annular preventers is 1,500 psi. Once the packer is closed, the pressure 
+should be reduced slightly to reduce damage to the rubber portion of the 
+packer. One special feature of the annular preventer is that it will allow 
+stripping operations to be carried out while maintaining pressure as the tool 
+joints pass through the preventer. When stripping-in, the tool joints should 
+be moved slowly through the preventer to avoid damage to the packing 
+element.

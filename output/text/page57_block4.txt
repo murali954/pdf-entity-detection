@@ -1,0 +1,3 @@
+commonly used Fann V-G meter was specifically designed to measure 
+viscosities for this model. As can be seen in the above illustration, this 
+model does not accurately represent drilling fluids at low shear rates.

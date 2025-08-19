@@ -1,0 +1,5 @@
+Parts of Speech
+Names of the words used in a sentence. There are eight parts 
+of speech-noun, pronoun, verb, adjective, adverb, 
+preposition, conjunction, and interjection. The interjection is 
+probably the least used in technical writing.

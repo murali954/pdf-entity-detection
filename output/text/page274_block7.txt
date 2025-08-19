@@ -1,0 +1,4 @@
+•
+Oriented drilling intervals should be minimized. Oriented drilling in a 
+tangent or hold section is performed to correct the present wellpath 
+and to compensate for anticipated trends.

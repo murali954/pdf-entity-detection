@@ -1,0 +1,3 @@
+Soft Shut-In:
+The choke is opened prior to shutting the annular preventers. 
+The choke is then closed.

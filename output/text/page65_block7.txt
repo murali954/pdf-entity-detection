@@ -1,0 +1,4 @@
+The rheological properties of the drilling fluid will affect cuttings transport, 
+in as much as they affect the flow profile. Lowering the “n” value or an 
+increases in the YP/PV ratio will generally flatten the flow profile and 
+increase carrying capacity.

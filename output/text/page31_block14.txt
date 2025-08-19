@@ -1,0 +1,2 @@
+Calculate how much water and barite are required to make 800 barrels of a 
+10.5 lb/gal water-based drilling mud.

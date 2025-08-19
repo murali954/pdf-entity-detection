@@ -1,0 +1,6 @@
+The by-pass valve allows fluid to fill the drill string while tripping in the 
+hole and to drain while tripping out. When mud is pumped, the valve closes 
+causing fluid to move through the tool. Most valves are of a spring piston 
+type which closes under pressure to seal off ports to the annulus. When 
+there is no downward pressure, the spring forces the piston up so fluid can 
+channel through the ports to the annulus. (Figure 5-20).

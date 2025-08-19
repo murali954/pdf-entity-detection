@@ -1,0 +1,4 @@
+The hydraulics for fixed cutter bits is based on the drilling fluids ability to 
+remove cuttings beneath the cutters and to cool the bit. Fluid volume is 
+critical to PDC bit performance. Fluid volume and fluid velocity is critical 
+to diamond bit performance.

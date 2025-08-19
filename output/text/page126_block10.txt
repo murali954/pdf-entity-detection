@@ -1,0 +1,5 @@
+To complete the journal-cone assembly, a positive seal is required to keep 
+drilling fluid out, while allowing the graphite lubricant in, which keeps the 
+bearings from overheating. The positive seal requires a relief valve to allow 
+escape of excess pressure, which can overload the seal and cause seal 
+failure.

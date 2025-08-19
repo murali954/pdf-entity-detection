@@ -1,0 +1,5 @@
+The only real advantage of turbines is that they can operate at higher 
+temperatures than PDMs. Also turbines DO NOT have a dump valve. 
+Years ago, short deviation turbines could handle higher flow rates than 
+PDMs, but this is no longer the case. Nowadays, it is quite rare to use a 
+turbine with a bent sub.

@@ -1,0 +1,3 @@
+Drill pipe class defines the physical condition of the drill pipe in terms of 
+dimension, surface damage, and corrosion. Drill pipe class is indicated by 
+paint bands on the drill pipe according to the following code:

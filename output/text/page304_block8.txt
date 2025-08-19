@@ -1,0 +1,5 @@
+Mud Control: This involves the addition of weighting material (most 
+commonly barite) to the mud to increase its density, but also 
+includes the correct operation of the mixing system and 
+chemical additions. These are generally the responsibility of 
+the mud engineer and derrickman.

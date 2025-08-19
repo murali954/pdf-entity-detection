@@ -1,0 +1,6 @@
+The formation attitudes will have a similar effect on directional tendencies. 
+For dip angles less than 45°, if the direction is up-dip, the bit will tend to 
+maintain direction, but build angle. If the borehole direction is left of up-
+dip, the bit may tend to walk to the right; whereas if the direction is right of 
+up-dip the bit tends to walk to the left. Both phenomena are just special 
+cases of the up-dip tendency.

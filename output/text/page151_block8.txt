@@ -1,0 +1,6 @@
+Note: The formula above for hookload does not take into 
+account axial drag. Hookload, as determined in the 
+formula above is the approximate static surface hookload 
+that would be displayed by the weight indicator in a 
+vertical hole with no drag, excluding the weight of the 
+traveling block, drill line etc.

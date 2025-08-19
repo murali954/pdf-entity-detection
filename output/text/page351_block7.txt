@@ -1,0 +1,9 @@
+Cost per foot calculations can also be used in generating performance 
+proposals for clients. A target cost per foot can be calculated based on 
+information from offset well performance that used competitor products. 
+This target cost per foot is underwritten by Baker Hughes INTEQ by 
+applying a sliding-scale hourly rate for motor operations. If the target is 
+met or exceeded, the motor is charged at normal list price; if it is not, then 
+the hourly rate is adjusted downwards (to an agreed minimum) until the 
+target figure is reached. This type of proposal has been used several times 
+to persuade clients to run INTEQ motors.

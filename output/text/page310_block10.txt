@@ -1,0 +1,4 @@
+Each of the previous points must be assessed and their relative importance 
+to the kick situation evaluated before implementing the selected kill 
+method. In the following paragraphs, elaboration of these points will 
+illustrate the reasoning behind the importance of individual situations.

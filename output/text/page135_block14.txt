@@ -1,0 +1,4 @@
+As with any bit selection, the decision to run a diamond bit should be based 
+on a detailed cost analysis. There are, however, certain drilling situations 
+which indicate the likelihood of an economical application for diamond 
+bits.

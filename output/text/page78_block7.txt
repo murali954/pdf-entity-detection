@@ -1,0 +1,2 @@
+Finally, when calculating swab or surge pressures for Power Law fluids, 
+the calculated pressure loss should be checked against the pressure

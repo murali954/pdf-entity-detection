@@ -1,0 +1,4 @@
+The cost of the bit and trip is the converted into feet of hole at the “target” 
+cost and plotted vertically as point “B”. (In this example, combined bit cost 
+of $3,317 and trip cost of $1750 (7 x $250) is $5,067. This divided by 
+$53.45 is 95 feet).

@@ -1,0 +1,5 @@
+Since kick control procedures are greatly simplified when the bit is near the 
+bottom of the hole, as such kicks during tripping operations have the 
+greatest potential danger. With the pipe standing on the rig floor, it is 
+impossible to get heavy mud to the bottom of the hole. During trips, the 
+same annular pressure drop occurs as when the pumps are shut off.

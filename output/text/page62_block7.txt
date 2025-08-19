@@ -1,0 +1,8 @@
+where: 
+k   =   Consistency index 
+L   =   Length of section (feet) 
+d1  =   Hole or Casing I.D. (inches) 
+d2  =   Pipe or Collar O.D. (inches) 
+V   =   Annular Velocity in Section (ft/min) 
+n   =   Power Index 
+G   =   Geometric Factor

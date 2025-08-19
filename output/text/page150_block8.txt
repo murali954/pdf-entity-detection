@@ -1,0 +1,4 @@
+Hydrostatic Pressure 
+= 0.0519 x MW x TVD 
+= 0.0519 x (12) x (700) 
+= 436.8 psi

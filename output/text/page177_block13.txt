@@ -1,0 +1,6 @@
+C.
+Find the number of joints needed to get the air weight. 
+62,000 lbs air weight needed; six 7-inch OD, 2-inch ID drill 
+collars are available. How many joints of 4.5-inch heavy 
+weight are needed (joint of HWDP=1230 lbs)? 
+_______________

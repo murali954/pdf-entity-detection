@@ -1,0 +1,11 @@
+Additional WOB and RPM considerations must be kept in mind. A very 
+high rotary speed can drastically reduce the life of many roller cone bits, 
+thereby increasing their cost per foot (because of the cost of extra bits and 
+extra trips). Similarly, running excessively high weight-on-bit may buckle 
+the drill pipe as well as damage the bit, and will almost certainly cause 
+problems because of excessive drilling torque. It would be best, therefore, 
+to use values of WOB and rotary speed corresponding to the top end of the 
+linear portions of the previous graph. The actual values of WOB and RPM 
+at the point at which the graph departs from linearity depends on the type 
+of bit and the hardness of the formation (as well as on the efficiency of the 
+hydraulics in cleaning the bit and the bottom of the hole).

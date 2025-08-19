@@ -1,0 +1,3 @@
+Torque is usually measured in foot pounds. When diesel or SCR rigs are 
+being used, torque will be measured in amperes (amps), which is the 
+amount of electrical power required by the motors to rotate the drillstring.

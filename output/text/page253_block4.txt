@@ -1,0 +1,2 @@
+For example, if the inclination was 50° and the mud density was 10 ppg 
+then the value of Wx for 8-inch drill collars would be:

@@ -1,0 +1,4 @@
+Though this type of drilling fluid is easy to describe, it is hard to define and 
+even more difficult to find. In the field, a normal fluid generally means 
+there is little effort expended to control the range of properties. As such, it 
+is simple to make and control. General rules include:

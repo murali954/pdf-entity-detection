@@ -1,0 +1,5 @@
+This will consist of a series of bladed stators, fixed to the outer tool housing 
+and bladed rotors fixed to the central rotating shaft. Mud flow is deflected 
+at a pre-determined angle off the stator blades to hit the rotor blades and 
+cause the shaft to rotate. The angle of the blades will affect the torque and 
+speed output of the turbine (Figure 5-24).

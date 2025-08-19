@@ -1,0 +1,3 @@
+The total amount of time taken to implement and complete kill procedures 
+is important, especially if the kick is gas. This is because the “gas bubble” 
+will percolate up the annulus, increasing annular pressures.

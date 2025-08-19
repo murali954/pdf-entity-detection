@@ -1,0 +1,4 @@
+If these methods fail, then back-off operations, using a free-point indicator, 
+must be considered. The fish can then be recovered using washover pipe, 
+or a DST tool can be used to reduce the hydrostatic pressure followed by 
+the washover pipe.

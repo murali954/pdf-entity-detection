@@ -1,0 +1,7 @@
+6.
+A reduction in flowline mud density occurs as the invading fluids 
+reach the surface. This reduction is severe with a gas kick, but 
+may be large or unnoticeable with a water kick (depending on the 
+mud density). Large amounts of gas can be dissolved in the kick 
+fluids and as the kick fluid reach the surface, high gas shows will 
+occur.

@@ -1,0 +1,7 @@
+6.
+Get additional data from other sources: During the course of the 
+well much information can be collected from discussions with 
+others at the wellsite, by observing equipment and/or operations 
+as they are in progress, by studying the well prognosis, and 
+visiting the Baker Hughes INTEQ or clients office for 
+discussions.

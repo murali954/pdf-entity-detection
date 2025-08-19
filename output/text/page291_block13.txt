@@ -1,0 +1,7 @@
+If the driller is unable to free the stuck pipe or the force necessary to free 
+the pipe is greater than the force that can be applied by the blocks, then 
+other remedial measures must be used. Normally a lubricating fluid is 
+“spotted” in the troublesome area and is used to dissolve the filter cake. 
+Spotting procedures and calculations have been mentioned in the 
+“Advanced Logging Procedures” manual, under “Additional Volume 
+Calculations”.

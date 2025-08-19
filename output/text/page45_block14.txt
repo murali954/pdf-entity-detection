@@ -1,0 +1,3 @@
+511 x dial reading / shear rate (sec-1) 
+since
+511 sec-1 = 300 rpm

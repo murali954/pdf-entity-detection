@@ -1,0 +1,1 @@
+Kill Mud Weight (lb/gal):      MW + (SIDP / (TVD x 0.0519))

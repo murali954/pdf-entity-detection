@@ -1,0 +1,6 @@
+1.
+An open, full-opening safety valve should be installed onto the 
+pipe. This is easier to install than a float valve, because any flow 
+up the pipe will tend to close the float during installation (a float 
+valve can always be added to the string later to allow stripping 
+back to bottom).

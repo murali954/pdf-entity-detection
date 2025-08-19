@@ -1,0 +1,3 @@
+The relationship between True North and Grid North is indicated by the 
+angles 'a' in Figure 5-9. Convergence is the angle difference between grid 
+north and true north for the location being considered.

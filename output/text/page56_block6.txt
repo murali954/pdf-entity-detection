@@ -1,0 +1,2 @@
+The two most common models used at the wellsite are the Bingham Plastic 
+Model and the Power Law Model.

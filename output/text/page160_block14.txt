@@ -1,0 +1,2 @@
+•
+The WOB is usually fairly low, especially when a PDC bit is used.

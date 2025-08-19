@@ -1,0 +1,6 @@
+When using a pendulum assembly, it is best that the pendulum portion be 
+as stiff as possible, so it is preferable to use large diameter collars. 
+Reducing collar OD increases the likelihood that the collars will bend 
+towards the low side of the hole, which will reduce the pendulum effect 
+and the rate of drop. Also, reducing the collar OD reduces the weight of the 
+bottom collars which reduces the pendulum force and the rate of drop.

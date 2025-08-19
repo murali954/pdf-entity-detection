@@ -1,0 +1,3 @@
+where:
+Q = Pump flow rate (gpm)
+d1 = pipe I.D. (inches)

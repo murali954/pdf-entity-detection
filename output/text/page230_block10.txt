@@ -1,0 +1,6 @@
+The following chart is a rule of thumb which can be used when orienting 
+deflection tools or steerable motors. The chart is applicable to steerable 
+systems in most situations. It may not be applicable to slick motor and bent 
+sub assemblies, used at higher inclinations (over 30o) in soft or medium 
+soft formations.It will give the qualitative changes in inclination and 
+azimuth which should result from drilling with the given tool face settings.

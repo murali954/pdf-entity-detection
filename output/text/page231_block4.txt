@@ -1,0 +1,2 @@
+It should be noted that the tool face settings are based on the high side of 
+the hole.

@@ -1,0 +1,3 @@
+If flow in the annulus is transitional, common in the drill collar/open hole 
+annulus, then the pressure losses are determined using a friction factor (f), 
+calculated using:

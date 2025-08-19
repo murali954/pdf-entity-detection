@@ -1,0 +1,7 @@
+The most common application of directional drilling techniques is in 
+offshore drilling. Many oil and gas deposits are situated well beyond the 
+reach of land based rigs. Drilling a large number of vertical wells from 
+individual platforms is both impractical and uneconomical. The obvious 
+approach for a large oilfield is to install a fixed platform on the seabed, 
+from which many directional boreholes can be drilled. The bottomhole 
+locations of these wells are carefully spaced for optimum recovery.

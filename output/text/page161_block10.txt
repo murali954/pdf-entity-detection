@@ -1,0 +1,8 @@
+The majority of the preceding discussion concerned rotary assemblies. 
+However, it would also apply to steerable motor systems used in the 
+rotary mode, with only minimal oriented drilling anticipated, the 
+required BHA weight could be calculated the same way. If a 
+significant amount of oriented drilling was likely, then the drag in the 
+hole should be evaluated using Torque and Drag computer programs. 
+In this type of situation, a proper engineering analysis of BHA weight 
+requirements is advised.

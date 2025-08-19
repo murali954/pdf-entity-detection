@@ -1,0 +1,11 @@
+A recent development in connecting rod assembly technology has been the 
+utilization of flexible steel or titanium “flex rods” (Figure 5-22b). While 
+flex rods are limited by the degree of allowable lateral bending, they have 
+the advantage of low maintenance, since they do not require lubricants or 
+rubber sleeves. Flex rods are now standard on most smaller Navi-Drills. 
+One recent approach has been to mount the flex rod inside the hollow rotor 
+of a short, high torque steerable PDM, rather than connecting it to the 
+bottom of the rotor. By connecting a long flex rod to the inside of the top 
+end of the rotor and extending it through the rotor, to connect to the top of 
+the drive sub assembly, the overall rate of bend is decreased due to its 
+increased length.

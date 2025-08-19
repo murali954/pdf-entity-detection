@@ -1,0 +1,2 @@
+In soft formations, the value will be relatively low. The harder the 
+formation, the higher the torque values.

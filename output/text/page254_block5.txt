@@ -1,0 +1,7 @@
+The nature and hardness of the rock being drilled can have a pronounced 
+influence on directional tendencies, although in many cases the importance 
+may be exaggerated. A main point is whether the rock is isotropic or 
+anisotropic. An isotropic rock is one which has the same properties, or 
+behaves in the same way, regardless of its direction. Most sandstones are 
+isotropic. Conversely, anisotropic rocks, such as shales, do not have the 
+same properties in all directions.

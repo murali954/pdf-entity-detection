@@ -1,0 +1,4 @@
+Using Figure 5-48 as an example, the forces between the bit tooth and the 
+rock will be greater on the right side of the tooth. Therefore, there will be a 
+resultant force on the bit acting to the left. This is Fd, the deviation force. It 
+follows that the deviation force will depend on the angle of dip.

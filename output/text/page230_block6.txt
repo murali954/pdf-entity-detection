@@ -1,0 +1,2 @@
+High Side Toolface is the toolface orientation measured from the high side 
+of the borehole in a plane perpendicular to the axis of the hole.

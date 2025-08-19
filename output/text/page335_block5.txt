@@ -1,0 +1,8 @@
+The Low Choke procedure consists of circulating and weighting up the 
+mud at its maximum density, while maintaining the maximum allowable 
+casing pressure on the choke. The influx will continue to flow into the well 
+until the mud has been sufficiently weighted and this may take several 
+circulations. The required kill mud density will not be known as the 
+drillpipe pressure is not allowed to stabilize upon initial closure. After 
+some heavier fluid has been circulated, the well may be shut-in and an 
+estimate of the required kill mud density can be made.

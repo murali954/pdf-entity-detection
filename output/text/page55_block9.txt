@@ -1,0 +1,9 @@
+Drilling fluids are generally Non-Newtonian in behavior, and are defined 
+by more complex relationships between shear-stress and shear-rate. When 
+fluids contains colloidal particles (or clays), these particles tend to increase 
+the shear-stress or force necessary to maintain a given flow rate. This is due 
+to electrical attraction between particles and to them physically “bumping” 
+into each other. Long particles, randomly oriented in a flow stream, will 
+display high interparticle interference. However, as shear-rate is increased, 
+the particles will tend to develop an orderly orientation and this interaction 
+will decrease.

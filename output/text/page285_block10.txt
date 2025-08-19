@@ -1,0 +1,2 @@
+•
+Calculate the stuck pipe location.

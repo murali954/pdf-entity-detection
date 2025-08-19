@@ -1,0 +1,2 @@
+obtained if the time taken to drill off each decrement is plotted against the 
+average WOB in each case.

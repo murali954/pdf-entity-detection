@@ -1,0 +1,9 @@
+Failure To Keep The Hole Full: The majority of kicks occur when the bit 
+is off bottom, while tripping. When the pumps are shut down prior to 
+tripping, there is a pressure reduction in the borehole equal to the annular 
+pressure losses. If the equivalent circulating density and the pore pressure 
+are nearly equal, flow may occur when circulation stops. As pipe is 
+removed, the mud-level in the borehole falls, causing a reduction in 
+hydrostatic pressure. Pipe displacement volume must be converted into 
+pump strokes so the correct number of strokes to fill the bore-hole is 
+known.

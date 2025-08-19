@@ -1,0 +1,6 @@
+The selection of both the kick-off point and the build-up rate depends on 
+many factors. Several being hole pattern, casing program, mud program, 
+required horizontal displacement and maximum tolerable inclination. 
+Choice of kick-off points can be limited by requirements to keep the well 
+path at a safe distance from existing wells. The shallower the KOP and the 
+higher the build-up rate used, the lower the maximum inclination.

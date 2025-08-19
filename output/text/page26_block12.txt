@@ -1,0 +1,2 @@
+This mud system consists of spud muds, “natural” muds, and other lightly 
+treated systems. Generally used in the shallower portions of a well.

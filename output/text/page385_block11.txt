@@ -1,0 +1,3 @@
+5.
+There are 500 barrels of an 18.0 lb/gal mud with the following 
+composition: Oil = 51%, Water = 9%, Solids = 40%

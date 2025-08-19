@@ -1,0 +1,3 @@
+This method for determining the buoyed weight is not normally used. 
+Instead, the following formula, which incorporates a buoyancy factor, is 
+used and recommended by the API.

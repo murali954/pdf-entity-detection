@@ -1,0 +1,4 @@
+The Drilling Engineering Workbook is a correspondence (distributed learning) course 
+which covers the important elements of drilling a well. The emphasis is on the theory 
+behind these drilling elements in order to develop a greater understanding of the principles 
+involved in drilling a well.

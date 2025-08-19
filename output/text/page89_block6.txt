@@ -1,0 +1,2 @@
+•
+Understand the limitations of various casing strings.

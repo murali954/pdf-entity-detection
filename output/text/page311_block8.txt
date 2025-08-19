@@ -1,0 +1,4 @@
+The first difference is noted immediately after the drillpipe is displaced 
+with kill mud. When keeping the drillpipe pressure constant (with the 
+constant pump rate) the casing pressure begins to decrease as a result of the 
+kill mud hydrostatic pressure in the one circulation procedure.

@@ -1,0 +1,8 @@
+Proponents of the catenary method argue that it results in a smoother 
+drilled wellbore, that drag and torque are reduced and that there is less 
+chance of key seating and differential sticking. However, in practice it is 
+hard to pick BHAs which will continuously give the required gradual rate 
+of build. It is in reality no easier to follow a catenary curve well plan than a 
+traditional well plan. Also, the catenary curve method produces a higher 
+maximum inclination than would result from the build and hold or S type 
+patterns.

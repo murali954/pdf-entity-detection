@@ -1,0 +1,6 @@
+Hydraulic Calculations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1-41
+Surface Pressure Losses. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1-41
+Pressure Loss in the Drillstring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1-42
+Drillstring Pressure Losses  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1-43
+Annular Pressure Losses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1-44
+Reynolds Number and Critical Velocity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1-45

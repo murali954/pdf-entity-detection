@@ -1,0 +1,3 @@
+6.
+What is the velocity (ft/min and ft/sec) of the mud inside drill 
+collars with an I.D. of 2 inches and a pump rate of 300 gpm?

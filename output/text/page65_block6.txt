@@ -1,0 +1,5 @@
+Cuttings will travel up the annulus more efficiently if they travel flat and 
+horizontally. If the cutting turns on its edge, it will slip more easily. 
+Smaller cuttings are more prone to do this. Rotation of the drillpipe will 
+result in a helical motion of the fluid, which will aid transport for those 
+cuttings nearest the pipe.

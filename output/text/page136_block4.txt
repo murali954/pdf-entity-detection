@@ -1,0 +1,9 @@
+•
+Low penetration rates with roller cone bits: Frequently, when roller 
+cone bits drill at slow rates (especially 5 ft/hr or less), due to high mud 
+weights or limited rig hydraulics, diamond bits can provide a savings. 
+The “plowing” type cutting action of diamond bits generally produces 
+higher penetration rates when using heavy muds. Since the drilling 
+fluid is distributed between the bit face and the formation in a smooth 
+uniform sheet, it takes less hydraulic horsepower per square inch to 
+clean under a diamond bit than under the same size roller cone bit.

@@ -1,0 +1,4 @@
+During the course of a well, many drilling and non-drilling operations can 
+potentially cause stuck pipe. Careful observation of the various parameters 
+monitored by DrillByte can pin-point many troublesome zones. Several of 
+the more common are illustrated below.

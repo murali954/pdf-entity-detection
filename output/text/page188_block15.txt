@@ -1,0 +1,5 @@
+Drilling operations occur on a curved surface (i.e, the surface of the Earth) 
+but when calculating horizontal plane coordinates a flat surface is assumed. 
+Since it is not possible to exactly represent part of the surface of a sphere 
+on a flat well plan, corrections must be applied to the measurements. To do 
+this, different projection systems which can be used.

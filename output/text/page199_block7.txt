@@ -1,0 +1,5 @@
+In the old days (pre 1985) it was normal practice to allow a “lead angle” 
+when kicking off. Since roller cone bits used with rotary assemblies tend to 
+“walk to the right”, the wells were generally kicked off in a direction 
+several degrees to the left of the target direction. In extreme cases the lead 
+angles could be as large as 20°.

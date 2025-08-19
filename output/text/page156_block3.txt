@@ -1,0 +1,2 @@
+Consider a short element of the BHA which has a weight “W” (see 
+following figure). Neglecting drag in the hole:

@@ -1,0 +1,5 @@
+Cross Sectional Area 
+= π/4 x (OD2 - ID2) 
+= π/4 x (7.52 - 22) 
+= π/4 x (56.25 - 4) 
+= 41.04 in2

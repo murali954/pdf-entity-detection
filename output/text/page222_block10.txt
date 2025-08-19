@@ -1,0 +1,5 @@
+•
+Adequate rig hydraulic horsepower must be available. For jetting to 
+be successful there must be adequate hydraulic energy available at the 
+bit to erode the formation. A rule of thumb for jetting is that mud 
+velocity through the large jet should be at least 500 ft/sec.

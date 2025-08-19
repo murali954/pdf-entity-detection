@@ -1,0 +1,3 @@
+The majority of problems which occur during well control operations are 
+caused by equipment failure, formation breakdown or improper operating 
+procedures.

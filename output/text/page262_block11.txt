@@ -1,0 +1,5 @@
+Only the DTU housing, universal joint, and upper bearing housing 
+components will be discussed; other components are standard Navi-Drill 
+parts. Navi-Drill performance or operating specifications are not altered by 
+the addition of these two special components. The DTU steerable motor is 
+shown in Figure 5-57.

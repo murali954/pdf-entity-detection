@@ -1,0 +1,6 @@
+Based on local drilling conditions and the expertise of wellsite personnel, it 
+is possible to estimate with reasonable accuracy either the hours which can 
+be expected or the probable penetration rate. If probable hours are 
+estimated, this value can be found along the breakeven line and a 
+horizontal reading on the footage scale indicates the required footage to 
+breakeven.

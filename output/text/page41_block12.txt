@@ -1,0 +1,2 @@
+Pressure @ Shoe = _______ psi
+Pressure @ 9,000 ft. = _______ psi

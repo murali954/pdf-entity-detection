@@ -1,0 +1,7 @@
+Most oilfield drilling is done in sedimentary rocks. Due to the nature of 
+their deposition, sedimentary rocks have layers or bedding planes, causing 
+most sedimentary rocks to show some degree of anisotropy. Drilling into 
+dipping (tilted) formations has shown that the drill bit is forced towards a 
+preferential direction related to the dip angle and direction of the bedding. 
+The trends are most prevalent in low angle, medium to hard drilling, 
+especially in formations with pronounced structure.

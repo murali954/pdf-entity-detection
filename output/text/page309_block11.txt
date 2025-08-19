@@ -1,0 +1,3 @@
+During drilling, kick tolerance must not be exceeded because if a kick 
+occurs there is a considerable chance that an underground blowout will 
+occur when the well is shut-in.

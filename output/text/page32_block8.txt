@@ -1,0 +1,3 @@
+The effectiveness of an emulsifier depends on the alkalinity and 
+electrolytes (chloride content) of the water phase, and the temperature of 
+the drilling fluid.

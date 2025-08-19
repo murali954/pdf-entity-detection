@@ -1,0 +1,6 @@
+The force holding the drillstring against the borehole wall can be calculated 
+very quickly. This force will have to be exceeded to free the drillstring. If 
+the force is greater than the pull of the blocks or the tensile strength of the 
+drillstring, the general practice is to add some compound (i.e. diesel, “black 
+magic”, etc.) to the drilling fluid to reduce the friction between the 
+drillstring and filter cake.

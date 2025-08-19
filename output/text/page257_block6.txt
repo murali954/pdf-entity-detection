@@ -1,0 +1,4 @@
+In cases where the dip angle is greater than 60°, if the hole direction is right 
+of down-dip direction then the bit tends to walk to the left. If the hole 
+direction is left of down-dip direction, the bit tends to walk to the right. 
+Again, these are simply special cases of the down-dip tendency.

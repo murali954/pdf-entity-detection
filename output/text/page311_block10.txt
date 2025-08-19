@@ -1,0 +1,4 @@
+Also, after one complete circulation has been made, the one circulation 
+method has killed the well, resulting in zero surface pressure, whereas the 
+two circulation method still has pressure on the casing, equal to that of the 
+shut in drillpipe pressure (SIDP).

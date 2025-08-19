@@ -1,0 +1,6 @@
+Depth
+12000.0 ft
+Mud Density
+12.00 lb/gal
+Cuttings Density
+2.30 gm/cc

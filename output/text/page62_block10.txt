@@ -1,0 +1,4 @@
+A “geometric factor” is used to take into account the friction factor (a ratio 
+of the actual shear stress imposed on the borehole wall to the dynamic 
+pressure imposed on the system) and is determined by calculating two 
+dimensionless variables (y and z).

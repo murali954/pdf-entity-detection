@@ -1,0 +1,2 @@
+WBIT (SF) = WBHA (BF) COSθ + 0.9FCR
+Therefore,

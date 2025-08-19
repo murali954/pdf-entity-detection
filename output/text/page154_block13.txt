@@ -1,0 +1,1 @@
+Weight acting along borehole = weight of stand x cos (ave. inc.)

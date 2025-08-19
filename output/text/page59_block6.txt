@@ -1,0 +1,5 @@
+This model fits the actual flow properties more closely, although at low 
+shear rates, it will predict slightly low shear stresses. The model describes a 
+fluid in which the shear stress increases as a function of shear rate, raised to 
+some power. As mentioned earlier, the equation for the Power Law model 
+is:

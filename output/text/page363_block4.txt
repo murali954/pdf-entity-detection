@@ -1,0 +1,2 @@
+There is no “baseline” value for torque, but deviations from an established 
+baseline which is constant for that particular bit run.

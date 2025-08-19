@@ -1,0 +1,6 @@
+As stated earlier, when the drillstring is rotated, the component of sliding 
+friction (drag) is small and may be compensated for by using a safety factor 
+in BHA weight calculations. Drillstring friction for rotary assemblies will 
+mainly affect torque values. When the drillstring is not rotated (a steerable 
+motor system in the oriented mode) axial drag can become very significant 
+and drillstring friction should be evaluated.

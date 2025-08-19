@@ -1,0 +1,2 @@
+A proper analysis of drillstring friction is more complex and must take into 
+account a number of factors, including wellbore curvature.

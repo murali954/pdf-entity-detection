@@ -1,0 +1,3 @@
+6.
+Why is the “concurrent method” usually not chosen to kill a 
+well?

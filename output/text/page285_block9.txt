@@ -1,0 +1,2 @@
+•
+Calculate the pulling force required to free stuck pipe.

@@ -1,0 +1,6 @@
+For some fluids the relationship is linear (i.e., if the shear-stress is doubled 
+then the shear-rate will also double, or if the circulation rate is doubled then 
+the pressure required to pump the fluid will double). Fluids such as this are 
+known as “Newtonian fluids”. Examples of Newtonian fluids are water, 
+glycerine and diesel. The Newtonian fluid model is defined by the 
+following relationship:

@@ -1,0 +1,6 @@
+Both swab and surge pressures are caused by moving the drillstring axially, 
+and can be calculated using a method similar for calculating annular 
+pressure losses. The greatest difficulty is determining the fluid flow 
+velocity in the annulus when the pipe is opened-ended, because the 
+distribution of flow between the drillstring and annulus cannot be 
+determined by a simple method.

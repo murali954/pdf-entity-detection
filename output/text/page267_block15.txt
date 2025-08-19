@@ -1,0 +1,4 @@
+Maximum allowable deflection angle on the AKO sub may be limited 
+when contact of the tool with the borehole wall exceeds mechanical 
+limitations. This maximum angle is called “recommended Maximum 
+Angle”.

@@ -1,0 +1,4 @@
+Alkalinity or acidity of a mud is indicated by the pH. The pH scale is 
+logarithmic and hence a high pH mud may vary considerably without a 
+noticeable change in pH. The filtrate and mud can both be measured to 
+show the phenolphthalein alkalinity.

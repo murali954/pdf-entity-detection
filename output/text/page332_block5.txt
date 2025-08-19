@@ -1,0 +1,4 @@
+Other Components:
+In addition to the annular and ram type components, the BOP stack must 
+contain some mud access line, and a drilling spool will be inserted into the 
+stack to allow for the connection of these choke and kill lines.

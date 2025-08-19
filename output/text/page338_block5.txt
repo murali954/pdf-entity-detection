@@ -1,0 +1,7 @@
+The direction of fluid flow is an important concern when choosing a 
+control procedure. The cause of the blowout will often indicate the 
+direction of flow. If the cause is thought to be the fracturing of a formation 
+due to shutting in a kick, the direction of fluid flow will generally be 
+upward (assuming that shallow zones are more likely to fracture than 
+deeper zones and that the initial kick zone is the primary source of 
+formation fluid).

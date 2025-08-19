@@ -1,0 +1,3 @@
+In order to compare individual wells within the same field, a common 
+depth reference must be defined and referred to (e.g. When drilling a relief 
+well into a blow-out well, the difference in elevation between the

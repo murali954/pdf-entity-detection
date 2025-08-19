@@ -1,0 +1,3 @@
+This condition is optimized when circulating rates and bit nozzle sizes are 
+chosen which will cause 48% of the pump pressure to be used to force fluid 
+through the jet nozzles.

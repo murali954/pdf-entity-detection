@@ -1,0 +1,3 @@
+3.
+for higher volumes of fluid pumped, horizontal velocities will 
+increase, but not necessarily HSI

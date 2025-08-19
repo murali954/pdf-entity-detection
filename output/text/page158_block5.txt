@@ -1,0 +1,4 @@
+where
+E is Young's modulus.
+I is axial moment of inertia.
+W is buoyed weight per unit length.

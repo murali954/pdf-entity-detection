@@ -1,0 +1,5 @@
+9.
+After making a connection, the bit should be washed back down 
+to bottom. Dropping and then stopping the drillstring suddenly 
+can cause the bit to hit bottom and be damaged due to pipe 
+stretch.

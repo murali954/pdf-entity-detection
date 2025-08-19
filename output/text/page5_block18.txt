@@ -1,0 +1,4 @@
+Upon satisfactory completion of the “Return” assignment, an “End-of-Project” test will be 
+necessary to comply with IN-FACTS requirements. Passing requirement for this test is 
+70%. This test can be provided and administrated by the training department or the local 
+administrator.

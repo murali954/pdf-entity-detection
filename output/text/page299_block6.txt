@@ -1,0 +1,3 @@
+Junk is a foreign object in the borehole, which is not meant to be there. 
+Since the clearance between casing and collars/stabilizers is not great, even 
+a small piece of junk can stick the drillstring. Preventive measures include:

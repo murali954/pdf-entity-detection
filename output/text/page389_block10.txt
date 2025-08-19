@@ -1,0 +1,6 @@
+37.
+A recommended bit program is being prepared for a new well 
+using bit performance records from nearby wells. Drilling 
+performance records for three bits are shown for a thick 
+limestone formation at 9,000 ft. Determine which bit would be 
+the best choice.

@@ -1,0 +1,2 @@
+Denoting the total air weight of the BHA by WBHA the weight on bit by 
+WBIT and the critical buckling load by FCR, we have:

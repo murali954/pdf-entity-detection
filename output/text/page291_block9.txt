@@ -1,0 +1,5 @@
+Though very seldom quantitatively defined in field operations, “f” will 
+normally vary between 0.07 (for invert emulsion muds) and 0.40 (for low 
+solids native muds). As the mud density increases, the amount of solids 
+(barite, sand, bentonite, etc.) also increases, which increases the coefficient 
+of friction.

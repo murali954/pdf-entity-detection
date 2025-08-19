@@ -1,0 +1,9 @@
+Turbulent Flow is the type of flow regime found inside the drill string 
+during drilling operations. Since high mud velocities are required to 
+achieve turbulent flow, this results in high pressure drops. This type of 
+flow is generally not desired in the annulus due to its tendency to cause 
+excessive hole erosion and high “equivalent circulating densities”. 
+However, turbulent flow can move the mud like a plug, causing the mud to 
+move at approximately the same rate. This provides for better hole cleaning 
+and is sometimes required on high angle holes. Pressure drop calculations 
+for turbulent flow are empirical rather than mathematically derived.

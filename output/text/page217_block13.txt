@@ -1,0 +1,3 @@
+•
+Torque and RPM are inversely proportional (i.e. as RPM increases, 
+torque decreases and vice versa).

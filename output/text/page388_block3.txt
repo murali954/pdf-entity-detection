@@ -1,0 +1,3 @@
+26.
+Calculate the hydrostatic pressure reduction when pulling ten, 93 
+ft stands of drill pipe from the hole without filling the hole.

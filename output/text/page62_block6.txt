@@ -1,0 +1,3 @@
+Hydraulic calculations continue with a determination of the amount of 
+pressure lost in the annulus. Assuming laminar flow, the Power Law Model 
+“pressure loss” equation is:

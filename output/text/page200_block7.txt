@@ -1,0 +1,4 @@
+•
+if the required horizontal displacement of a well is large compared to 
+the total vertical depth, then it is necessary to build angle right below 
+the surface conductor to avoid having to use a high build rate

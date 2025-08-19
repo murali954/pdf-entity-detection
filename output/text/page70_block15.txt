@@ -1,0 +1,2 @@
+The horizontal fluid velocity is the key element in diamond bit life and bit 
+performance. It can be determined using:

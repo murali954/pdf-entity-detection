@@ -1,0 +1,4 @@
+c
+Desired WOB 20,000 lbs; mud density 13 ppg; hole angle 
+20°; safety factor 10%.
+Air Weight Required = ____________________

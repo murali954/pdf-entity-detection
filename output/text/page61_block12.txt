@@ -1,0 +1,2 @@
+Flow behavior, with the Power Law Model, will vary depending on the “n” 
+value of the fluid. The critical Reynolds Number (Rec) is found using:

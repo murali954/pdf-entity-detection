@@ -1,0 +1,8 @@
+This procedure is known as a “running kill”. Even though the pumped mud 
+will be cut, the annular density will increase as more mud is pumped. As 
+the annular density increases, so will the back pressure on the formation, 
+resulting in a decreased kick flow rate. A kill can be accomplished with a 
+limited volume of mud if the mud is MUCH heavier, and pumping is fast 
+and continuous. A running kill of an underground blowout cannot be 
+accomplished if the mud weight is only 1 to 2 ppg heavier than the 
+estimated bottomhole pressure.

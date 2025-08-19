@@ -1,0 +1,7 @@
+In shallow water operations (300 - 500 ft.), well control is very similar to 
+that on land, with respect to the circulating pressure. As water depths 
+increases, it becomes increasingly difficult to maintain the desired drillpipe 
+pressures (initial circulating pressure and final circulating pressure) due to 
+the small choke line ID from the subsea BOP stack to the rig floor. A 
+thorough understanding of choke line pressure drop (frictional pressure 
+loss) is an important aspect of subsea well control.

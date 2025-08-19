@@ -1,0 +1,4 @@
+•
+True Vertical Depth (TVD) is the vertical distance from the depth 
+reference level to a point on the borehole course. This depth is always 
+calculated from the deviation survey data.

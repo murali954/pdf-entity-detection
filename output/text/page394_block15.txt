@@ -1,0 +1,3 @@
+21.
+Water-Based: 2.5 to 4.5 HSI
+Oil-Based: 1.5 to 3.0 HSI

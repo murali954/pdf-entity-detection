@@ -1,0 +1,4 @@
+Supervision: This is the final element of control. This task will normally 
+be assigned to the rig superintendent or toolpusher. They will 
+supervise the previous three elements of well control 
+operations.

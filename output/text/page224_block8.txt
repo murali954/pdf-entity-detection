@@ -1,0 +1,8 @@
+The principle is that, during the initial spudding and washing process, a 
+pocket is produced in the formation opposite the jet nozzle. When high 
+WOB is then applied and the drill string rotated, the bit and near bit 
+stabilizer work their way into the pocket (the path of least resistance). The 
+collars above the NB stabilizer bend and contact the low side of the hole. 
+This causes a bending moment about the NB stabilizer which acts as a 
+pivot or fulcrum, and the bit is pushed harder into the pocket (i.e. the 
+direction in which the large jet nozzle was originally orientated).

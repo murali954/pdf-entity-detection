@@ -1,0 +1,1 @@
+Lnp = distance from bit to neutral point in feet

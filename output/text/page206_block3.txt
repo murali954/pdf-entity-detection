@@ -1,0 +1,10 @@
+The upper and lower radial bearings are lined with tungsten carbide inserts. 
+These bearings support the concentrically rotating drive shaft against 
+lateral loads. The inherent design of the upper radial bearing limits the 
+amount of fluid flow diverted to cool and lubricate the bearing package. 
+This diversion of flow is typically 2 - 10%, depending on motor and bit 
+pressure drop. The major portion of the drilling fluid is collected by ports 
+in the drive shaft and exits through the bit. In some motors, diamond 
+bearings are used, which need up to 20% of the flow to be diverted, 
+depending upon conditions. Figure 5-23 illustrates typical bearing sections 
+found in PDMs.

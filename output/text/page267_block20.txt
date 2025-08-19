@@ -1,0 +1,2 @@
+By getting higher dogleg severities than specified, the directional driller 
+can “get ahead” of the well plan build requirements and begin utilizing the

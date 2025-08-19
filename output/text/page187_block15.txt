@@ -1,0 +1,5 @@
+•
+Measured Depth (MD) is the distance measured along the actual 
+course of the borehole from the surface reference point to the survey 
+point. This depth is always measured in some way, for example, pipe 
+tally, wireline depth counter, or mud loggers depth counter.

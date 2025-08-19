@@ -1,0 +1,4 @@
+Due to the stabilization of the steerable motor, the toolface can be 
+orientated 90° right or left of high side for maximum turn without dropping 
+inclination (a typical problem with motor and bent sub assemblies in soft 
+formations).

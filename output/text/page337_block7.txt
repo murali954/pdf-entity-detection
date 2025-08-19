@@ -1,0 +1,1 @@
+KMD (ppg) = SIDP / TVD (of washout/bit/end of string) x 0.0519

@@ -1,0 +1,10 @@
+where:  V1  = 800 bbls 
+W1 =
+12.7 lb/gal 
+V2  =
+unknown volume of barite 
+W2  = 34.9 lb/gal (density of barite) 
+VF  =
+V1 + V2  (or 800 + V2 )
+WF =
+14.5 lb/gal

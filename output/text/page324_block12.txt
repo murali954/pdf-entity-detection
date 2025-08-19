@@ -1,0 +1,4 @@
+When kicks occur with the drillstring off bottom, it sometimes becomes 
+necessary to lower the string into the well while maintaining the proper 
+surface pressures to prevent further influx of formation fluids. The correct 
+procedure is to either strip or snub into the well with the BOP closed.

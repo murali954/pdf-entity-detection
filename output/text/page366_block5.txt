@@ -1,0 +1,16 @@
+Record 
+No
+Depth 
+ft
+Interval 
+ft
+Bit Time
+min
+Interval
+min
+Average ROP
+ ft/hr
+Instantaneous 
+Cost $/ft
+Cumulative 
+Cost $/ft

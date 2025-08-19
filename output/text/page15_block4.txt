@@ -1,0 +1,6 @@
+Downhole motor and bent sub . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-46
+Reactive torque  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-47
+Running Procedures  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-48
+PDMs vs Turbines with a Bent Sub . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-48
+Downhole Motor and Bent Sub Combination . . . . . . . . . . . . . . . . . . . . 5-49
+PDM with Kick-Off Subs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-49

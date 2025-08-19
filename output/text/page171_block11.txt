@@ -1,0 +1,4 @@
+The last formula can be expanded in the case of a “tapered” BHA with drill 
+collars of more than one diameter. For example, if there were two sizes of 
+drill collars but the neutral point was in the heavy weight, the formula 
+would become:

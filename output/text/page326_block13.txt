@@ -1,0 +1,4 @@
+The annular pressure loss is the only pressure exerted on the formation. 
+When killing a well from a floater, the annular pressure loss will include 
+the choke line friction pressure, because the well must be killed using the 
+choke and the additional pressure loss must be added to the list:

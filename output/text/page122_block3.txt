@@ -1,0 +1,3 @@
+Orifice sizes are stated in 1/32 inch increments, with the most common 
+being between 10/32 to 14/32 sizes. Directional bit jets are available in 
+sizes from 18/32 to 28/32.

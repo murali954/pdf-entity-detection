@@ -1,0 +1,2 @@
+Factors which can affect the directional behavior of rotary assemblies 
+include:

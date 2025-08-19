@@ -1,0 +1,2 @@
+Component of weight acting along borehole = W (BF) cosθ
+... where Θ is the borehole inclination

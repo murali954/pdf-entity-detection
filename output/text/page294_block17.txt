@@ -1,0 +1,6 @@
+If geopressured formations are causing stuck pipe problems, great care 
+must be taken to ensure well control problems do not develop. The first 
+step in correcting the situation is to establish circulation. If possible, pipe 
+movement should be downwards, gradually increasing these applied 
+forces. Once full circulation is established and pipe movement is 
+unrestricted, an increase in the mud density is advisable.

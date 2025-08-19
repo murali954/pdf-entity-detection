@@ -1,0 +1,2 @@
+Rig Cost = $400/hour 
+Trip Time = 1 hr/1000 feet

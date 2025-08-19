@@ -1,0 +1,1 @@
+High side toolface = mag/gyro toolface - hole azimuth

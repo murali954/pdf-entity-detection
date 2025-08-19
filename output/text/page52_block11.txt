@@ -1,0 +1,5 @@
+A retort is used to determine the quantity of liquids and solids in a drilling 
+fluid. A measured sample of fluid is heated until the liquid portion is 
+vaporized. The vapors are passed through a condenser and measured as a 
+percentage by volume. The solids are then calculated by subtracting the 
+total from 100.

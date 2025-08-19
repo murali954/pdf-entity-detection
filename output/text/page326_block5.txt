@@ -1,0 +1,5 @@
+Having calculated the pressure losses for circulating up both the riser and 
+choke line, it is necessary to decide which to use in calculating the initial 
+and final circulating pressures. Although the circulating of a kick will be 
+done through the choke, the pressure used to establish the ICP and FCP is 
+that derived from the slow circulation up the riser, not the choke!

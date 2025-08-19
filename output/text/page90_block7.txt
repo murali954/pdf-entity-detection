@@ -1,0 +1,5 @@
+Conductor pipe or drive pipe if it is hammer-driven to depth, is the first 
+string of casing to be used. The setting depth can vary from 10 ft to around 
+300 ft. The normal size range for conductor pipe is from 16 to 36 inches 
+(outside diameter). The conductor pipe must be large enough to allow the 
+other casing strings to be run through it. Purposes of conductor pipe are to:

@@ -1,0 +1,4 @@
+Field results have shown that an undergauge first string stabilizer is 
+required to produce a holding tendency when NDS is run in the rotary 
+mode. The requirements for the first string stabilizer gauge diameter will 
+be a function of formation trends and hole inclination.

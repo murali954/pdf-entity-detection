@@ -1,0 +1,1 @@
+The weight per unit length, W, is calculated from:

@@ -1,0 +1,7 @@
+While Bit is in Cased Hole
+Recommended Maximum Running Speed:0.67 sec/stand
+Maximum Surge EQMD:
+10.21 lb/gal
+Recommended Maximum Pulling Speed:0.67 sec/stand
+Maximum Swab EQMD:
+9.79 lb/gal

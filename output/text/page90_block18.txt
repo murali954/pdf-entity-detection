@@ -1,0 +1,3 @@
+Intermediate casing is set after surface casing, normally to seal off a 
+problem formation. The size of intermediate casing, will depend on the size 
+of the surface casing and the grade required to withstand the subsurface

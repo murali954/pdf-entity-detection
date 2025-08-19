@@ -1,0 +1,6 @@
+•
+In smaller hole sizes on high-angle wells (over 45°), drill pipe may be 
+run in compression to contribute to the weight on bit, provided the 
+maximum compressive load is less than the critical buckling force. 
+This critical buckling force is the minimum compressive force which 
+will cause sinusoidal buckling of the drill pipe.

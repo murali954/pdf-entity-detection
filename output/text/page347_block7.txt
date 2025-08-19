@@ -1,0 +1,6 @@
+The decision concerning which bit to use often based on some performance 
+criteria, such as total rotating hours, total footage, or maximum penetration 
+rate. Other times, the least expensive bit is chosen. This approach may be 
+satisfactory in areas where practices and costs are constants but it may not 
+be satisfactory where drilling costs are changing, and drilling practices and 
+bit selection vary.

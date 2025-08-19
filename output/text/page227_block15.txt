@@ -1,0 +1,2 @@
+Estimation of reactive torque has always been a problem for directional 
+drillers. Several charts and rules of thumb have evolved. One is:

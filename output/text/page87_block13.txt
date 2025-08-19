@@ -1,0 +1,4 @@
+24.
+Turbulent flow has greater cuttings cleaning and carrying 
+capacity than laminar flow. Why is it not normally the flow 
+regime of choice?

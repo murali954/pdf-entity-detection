@@ -1,0 +1,4 @@
+3.
+Water can be used if the solid content is very high, but it is 
+generally ineffective and may alter other properties drastically 
+(i.e., mud density).

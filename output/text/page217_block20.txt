@@ -1,0 +1,3 @@
+•
+Optimum performance is at half the stall torque and at half the 
+runaway speed, the turbine then achieves maximum horsepower.

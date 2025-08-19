@@ -1,0 +1,1 @@
+d   =  Inner diameter (inches)

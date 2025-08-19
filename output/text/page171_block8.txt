@@ -1,0 +1,1 @@
+LDC is the total length of the drill collar section.

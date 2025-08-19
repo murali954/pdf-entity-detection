@@ -1,0 +1,2 @@
+The Navi-Drill Mach 1 P/HF motor has a multi-lobe rotor/stator 
+configuration which generates more torque than other motors.

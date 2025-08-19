@@ -1,0 +1,4 @@
+We shall be dealing with only liquids in this text. Since drilling muds are 
+commonly referred to as drilling fluids, the term “fluid” will be used 
+throughout the text. The effects of temperature and pressure on a volume of 
+drilling fluid will be ignored.

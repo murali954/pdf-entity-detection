@@ -1,0 +1,3 @@
+The lowest point on the graph indicates the optimum WOB. A variation of 
+the drill off test is to mark off the kelly in one inch segments and (with the 
+brake locked) measure the time and weight for each inch drilled off.

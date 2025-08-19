@@ -1,0 +1,6 @@
+where: 
+Hp = hydrostatic pressure. 
+Dv = vertical depth. 
+Fl = flowline depth. 
+MD  = fluid density. 
+g  = gravitational constant.

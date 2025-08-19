@@ -1,0 +1,7 @@
+U-joint assemblies (Figure 5-22a) have been utilized by the industry and 
+are still used in most positive displacement motors. The assembly consists 
+of two universal joints, each grease filled, and sealed with oil-resistant 
+reinforced rubber sleeves to protect them from drill fluid contamination. A 
+drawback of the U-joint assembly is the lack of sufficient strength for 
+higher torque applications, such as those encountered with recent 
+generations of high torque PDM’s, particularly when used with PDC bits.

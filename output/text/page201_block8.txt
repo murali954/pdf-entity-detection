@@ -1,0 +1,3 @@
+A positive displacement motor (PDM) is a hydraulically driven downhole 
+motor that uses the Moineau principle to rotate the bit, independent of drill 
+string rotation. The PDM is made up of several sections:

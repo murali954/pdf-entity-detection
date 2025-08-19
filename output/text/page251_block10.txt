@@ -1,0 +1,3 @@
+The behavior of bottom-hole assemblies, particularly fulcrum and 
+pendulum assemblies, is affected considerably by the stiffness of the drill 
+collars used in the lowest portion of the BHA.

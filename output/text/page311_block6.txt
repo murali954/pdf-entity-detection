@@ -1,0 +1,7 @@
+If a gas kick is taken, annular pressures may become alarmingly high 
+during the course of the kill operation. This is due to gas expansion as it 
+nears the surface. This is normal. If expansion is not allowed to occur, 
+severe pressures will be placed on the annulus and surface equipment. For 
+this reason, the most reliable well killing procedures utilize a constant 
+drillpipe pressure and a variable annular pressure (through a variable 
+choke) during circulation.

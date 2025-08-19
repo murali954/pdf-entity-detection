@@ -1,0 +1,2 @@
+Non-Newtonian fluids may show a degree of time-dependent behavior. 
+(For example, the apparent viscosity for a fixed shear rate does not remain

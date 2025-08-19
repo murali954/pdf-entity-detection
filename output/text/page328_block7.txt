@@ -1,0 +1,8 @@
+Note that the choke line pressure drop is greater than the SICP. In this 
+instance, it is impossible to open the choke to substitute all of the choke 
+pressure loss for the casing pressure. The surface choke pressure will read 
+zero but 100 psi would still be imposed below the BOP stack. This is in 
+effect an “overkill” of 100 psi. This will result in the drillpipe pressure 
+increasing by 100 psi also. This cannot be adjusted to the desired pressure 
+as the choke is still already open. Figures 8-9c through 8-9e illustrate this 
+overkill. To reduce the “overkill”, the choke line pressure drop must be

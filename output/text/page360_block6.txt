@@ -1,0 +1,3 @@
+A drill-off test is designed to determine the most appropriate WOB and 
+RPM, using the above listed considerations. This test is a step by step 
+process to achieve the maximum drill rate.

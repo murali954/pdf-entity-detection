@@ -1,0 +1,2 @@
+All pressure losses, at first, assume a laminar flow regime. Power Law 
+Model calculations begin with:

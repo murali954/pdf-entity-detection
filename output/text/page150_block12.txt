@@ -1,0 +1,3 @@
+Total Air Weight = weight per foot x length
+= 139 x 700
+= 97,300 pounds

@@ -1,0 +1,1 @@
+Rotary drilling with NDS usually exhibits an azimuth hold tendency.

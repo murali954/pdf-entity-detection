@@ -1,0 +1,3 @@
+The directions in which the wells are “nudged'' should be chosen to achieve 
+maximum separation. Wells may not necessarily be nudged in their target 
+directions.

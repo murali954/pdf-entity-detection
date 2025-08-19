@@ -1,0 +1,2 @@
+The training programs are modular, and are composed of formal course work, self-paced 
+distributed learning packages, and on-the-job training.

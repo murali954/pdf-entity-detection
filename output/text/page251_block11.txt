@@ -1,0 +1,3 @@
+It is generally accepted that drill collars are considered as thick walled 
+cylinders. Their stiffness depending on the axial moment of inertia and the 
+modulus of elasticity of the steel.

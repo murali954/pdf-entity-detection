@@ -1,0 +1,7 @@
+The neutral point is usually defined as the point in the drillstring where the 
+axial stress changes from compression to tension. The location of this 
+neutral point depends on the weight-on-bit and the buoyancy factor of the 
+drilling fluid. In practice, since the WOB fluctuates, the position of the 
+neutral point changes. It is therefore quite common to refer to a “transition 
+zone” as the section where axial stress changes from compression to 
+tension.

@@ -1,0 +1,8 @@
+The gauge length of a PDC bit can significantly affect the build rate in a 
+rotary assembly. A bit with a short gauge length can result in a build rate 
+greater than that would be expected with a tri-cone bit. On the other hand, a 
+longer gauge stabilizes the bit, which tends to reduce the rate of build. The 
+low WOB typically used with PDC bits can also reduce the build rate, since 
+collar flexure decreases with decreasing WOB. When used with packed 
+assemblies, longer gauged PDC bits seem to aid in maintaining inclination 
+and direction due to the increased stabilization at the bit.

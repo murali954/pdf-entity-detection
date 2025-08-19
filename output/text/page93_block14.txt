@@ -1,0 +1,3 @@
+Many companies have their own couplings, in addition to the API 
+standards, which offer additional features not available on the API 
+couplings.

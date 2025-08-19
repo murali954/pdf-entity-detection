@@ -1,0 +1,2 @@
+Gauge protection is specified in roller cone bits by adding a “G” to the 
+IADC code.

@@ -1,0 +1,3 @@
+3.
+Centrifuge; these separate the solids by size and mass, reducing 
+total solids concentration.

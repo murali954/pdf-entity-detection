@@ -1,0 +1,16 @@
+Casing
+Section
+Length
+Number
+of Joints
+Average 
+Joint
+Casing
+OD
+ID
+Casing Weight
+Steel Per Joint
+In Air
+In Mud
+Empty
+Full

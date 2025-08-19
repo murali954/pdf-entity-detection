@@ -1,0 +1,4 @@
+The Mach 1C is a positive-displacement motor that develops high torque at 
+the bit at relatively low speed ranges (80-340 rpm). This makes it ideal for 
+directional applications, drilling with high weight-on-bit, navigation 
+drilling with roller cone or large cutter PDC bits, and coring operations.

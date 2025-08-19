@@ -1,0 +1,3 @@
+In either of the above cases, the more undergauge the first string stabilizer, 
+the greater the effect. The same basic effect is seen with both the AKO and 
+the DTU steerable systems.

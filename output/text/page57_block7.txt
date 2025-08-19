@@ -1,0 +1,1 @@
+Shear Stress = Consistency Factor x Shear Rate flow behavior index

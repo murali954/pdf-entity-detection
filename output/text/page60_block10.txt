@@ -1,0 +1,5 @@
+The pressure required to circulate fluid in turbulent flow varies by 
+approximately 1.8 power of the flowrate. Doubling the flowrate would 
+increase the pressure drop in the drillstring by approximately 3.5 times. 
+Typically, the pressure losses in the drillstring are about 35 percent of the 
+total pump pressure.

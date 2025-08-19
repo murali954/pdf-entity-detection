@@ -1,0 +1,7 @@
+We can see that control of the solids will give us control over our PV! This 
+leads to “Why are we controlling the solids?” Since the viscosity of the 
+mud is one of the principal factors contributing to the carrying capacity of 
+the mud, the suspension of weighting materials, and pressure surges 
+applied to the formation through frictional pressures in the annulus, it is 
+obvious that increased solids will increase these annular pressures (and 
+may increase the mud density), so a balance must be found in which the

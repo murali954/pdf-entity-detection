@@ -1,0 +1,2 @@
+The increased horizontal velocities provide better cuttings removal, better 
+cooling, and possibly better drill rates.

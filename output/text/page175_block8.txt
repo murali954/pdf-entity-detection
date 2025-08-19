@@ -1,0 +1,2 @@
+Software accuracy has been verified against actual field data, with inputs 
+and outputs handled in user selected units.

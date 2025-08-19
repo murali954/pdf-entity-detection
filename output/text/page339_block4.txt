@@ -1,0 +1,3 @@
+3.
+Mix a minimum of 3 times the hole volume of either the required 
+mud density or the maximum pumpable density.

@@ -1,0 +1,4 @@
+The high pressure and high temperature test is conducted to simulate 
+downhole conditions, since the degree of filtration may vary, depending 
+upon the compressibility of the filter cake. A mud sample may be tested at 
+standard temperatures and pressures, increased temperature and 100 psi, or

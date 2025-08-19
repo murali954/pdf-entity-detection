@@ -1,0 +1,5 @@
+where: 
+%Viw  =  initial % of water by volume (%) 
+%Vfw  =  final % of water in liquid phase (%) 
+%Vt    =  initial total liquid volume (%) 
+Vm      =  total mud volume (bbls)

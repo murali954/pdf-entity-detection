@@ -1,0 +1,2 @@
+In the azimuth system, directions are expressed as a clockwise angle from 
+0° to 359.99°, with North being 0°.

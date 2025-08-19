@@ -1,0 +1,3 @@
+Sentence
+Group of words expressing a complete thought; contains a 
+subject and a predicate.

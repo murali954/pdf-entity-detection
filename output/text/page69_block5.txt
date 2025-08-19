@@ -1,0 +1,2 @@
+where:
+MD =   Mud Density (lb/gal)

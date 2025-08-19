@@ -1,0 +1,2 @@
+where: SICP= Shut in casing pressure (psi)
+L   = Length of influx (ft)

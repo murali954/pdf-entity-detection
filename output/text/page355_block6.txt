@@ -1,0 +1,10 @@
+The standard cost-per-foot formula makes no allowance for the variations 
+in operating costs when comparing runs of greatly different lengths. These 
+variations stem from safety factors (working hazards are greater during 
+trips), time for rig maintenance, need for additional mud treatment prior to 
+trips, severity of operating conditions (more WOB requires more collars), 
+and hole conditions which may be aggravated during trips. Nevertheless, it 
+is the best approach we have for a generalized comparison, and lends itself 
+well to the need for a prior analysis to determine when to run a higher 
+priced bit. Those factors not included in the formula invariably favor using 
+the bit which makes the most hole.

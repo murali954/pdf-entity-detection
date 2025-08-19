@@ -1,0 +1,7 @@
+If the SICP is greater than the choke line friction pressure loss, it is possible 
+to circulate out the kick with conventional techniques and not worry about 
+the choke friction pressure loss. However, when the old mud is in the 
+choke line, the pressure loss will be equal to that as measured by the slow 
+circulating rate. As the kill mud reaches the choke line, the choke line 
+friction pressure loss will increase by the ratio of the kill mud density to the 
+original mud. For example:

@@ -1,0 +1,4 @@
+The greatly increased use of steerable motors and PDC bits for rotary 
+drilling have drastically reduced the need for wells to be given a “lead 
+angle”. Many wells today are deliberately kicked off with no lead angle 
+(i.e. in the target direction).

@@ -1,0 +1,4 @@
+A.
+Desired weight 40,000 lbs; mud density 13 ppg; hole angle 
+20°; safety margin 10%. AIR WEIGHT REQUIRED = 
+_______________

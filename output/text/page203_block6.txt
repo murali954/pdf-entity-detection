@@ -1,0 +1,6 @@
+This is a reverse application of Rene Moineau’s pump principle. The motor 
+section consists of a rubber stator and steel rotor. The simple type is a 
+helical rotor which is continuous and round. This is the single lobe type. 
+The stator is molded inside the outer steel housing and is an elastometer 
+compound. The stator will always have one more lobe than the rotor. 
+Hence motors will be described as 1/2, 3/4, 5/6 or 9/10 motors.

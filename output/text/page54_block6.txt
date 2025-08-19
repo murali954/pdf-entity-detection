@@ -1,0 +1,5 @@
+Laminar Flow is usually found in the annulus during drilling operations. 
+This type of flow is generally desired in the annulus since it does not lead 
+to hole erosion and does not produce excessive pressure drops. These 
+pressure drop calculations can be mathematically derived according to the 
+type of flow behavior.

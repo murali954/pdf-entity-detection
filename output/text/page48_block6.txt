@@ -1,0 +1,4 @@
+Gels are described as progressive/strong or fragile/weak. For a drilling 
+fluid, the fragile gel is more desirable. In this case, the gel is initially quite 
+high but builds up with time only slightly. This type of gel is usually easily 
+broken and would require a lower pump pressure to break circulation.

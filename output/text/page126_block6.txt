@@ -1,0 +1,7 @@
+An understanding of lubricants and lubricating systems is necessary for 
+successful drilling operations. The lubricating systems are essentially the 
+same, and are composed of an external equalizer located under the bit or on 
+back of the shanks, a grease reservoir with some sort of expandable 
+diaphragm to distribute the grease, and some sort of distribution system to 
+the bearings. In addition, there is a pressure relief valve to release any 
+trapped pressure, which might otherwise rupture the seals.

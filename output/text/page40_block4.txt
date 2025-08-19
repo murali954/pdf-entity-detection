@@ -1,0 +1,6 @@
+• Determine the total pressure being exerted at the casing shoe 
+(generally the weakest point in the circulating system); the bottom 
+of the hole; or any other point (such as a lost circulation zone). After 
+this pressure is determined, it is often converted into a mud density 
+equivalent and reported as the E.C.D. (Equivalent Circulating 
+Density) for that depth.

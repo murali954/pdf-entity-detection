@@ -1,0 +1,8 @@
+Another phenomenon which occurs with natural diamond bits is called 
+hydraulic pump-off. The hydrodynamic pressure of the mud at the bit acts 
+over the bit face area (between the cutting face of the bit and the formation) 
+and tends to lift the bit off the bottom of the hole. For example, the pump-
+off force on a 8-1/2 inch radial flow diamond bit (having a pressure drop of 
+900 psi) would be approximately 8600 pounds. It will require at least this 
+much bit weight to keep the face of the bit in contact with the bottom of the 
+hole.

@@ -1,0 +1,10 @@
+where: V1  =
+unknown volume of water 
+W1 =
+8.33 lb/gal 
+V2  =
+unknown volume of barite or (800 - V1) 
+W2  = 34.9 lb/gal 
+VF  = 800 bbls 
+WF =
+10.5 lb/gal

@@ -1,0 +1,2 @@
+In laminar flow, the equivalent viscosity (µ) will effect the slip velocity. In 
+this case the slip velocity is:

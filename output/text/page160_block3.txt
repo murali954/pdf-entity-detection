@@ -1,0 +1,2 @@
+Continuing example 4.5, recalculate the weight of the BHA required 
+(assuming some drill pipe is to be run in compression).

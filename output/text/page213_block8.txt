@@ -1,0 +1,5 @@
+The Navi-Drill Mach 1/AD motor is designed specifically for use in holes 
+drilled with air and mist. With an AKO, the steerable motor drilling system 
+combines directional and straight hole drilling capabilities to provide 
+precise directional control. Generally, in one run it can establish the desired 
+direction and inclination for the surface interval of a directional well.

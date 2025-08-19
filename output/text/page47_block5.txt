@@ -1,0 +1,2 @@
+As stated earlier, at low shear rates, the Bingham model does not give 
+particularly good readings.

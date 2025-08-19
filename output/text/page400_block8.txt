@@ -1,0 +1,5 @@
+6.
+This is a positive displacement motor based on the reverse of the 
+Moineau principal. It employs a power section which consists of 
+a rotor and stator. The stator will have one more lobe than the 
+rotor.

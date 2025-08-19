@@ -1,0 +1,3 @@
+Both rotor and stator have certain pitch lengths and the ratio of the pitch 
+length is equal to the ratio of the number of lobes on the rotor to the 
+number of lobes on the stator.

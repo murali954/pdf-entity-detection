@@ -1,0 +1,2 @@
+Possible Plots: Pressure Losses (Flow rates, annular velocity) 
+Rheology Changes and Property Changes

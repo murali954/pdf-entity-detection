@@ -1,0 +1,3 @@
+2.
+E.S. is recorded as the voltage reading and temperature of the 
+drilling fluid sample

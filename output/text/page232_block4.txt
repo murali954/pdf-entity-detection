@@ -1,0 +1,5 @@
+An important aspect of directional drilling is the BHA design which is to 
+drill the planned trajectory. In this section we shall concentrate on the basic 
+principles used in directional control when drilling with rotary assemblies, 
+and the typical assemblies used for each section. The effects of drilling 
+parameters (weight-on-bit) and formation (anisotropy) will be considered.

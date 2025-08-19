@@ -1,0 +1,9 @@
+These programs have a wide range of applications, but have mainly been 
+used to evaluate drillstring design integrity and alternative well plans for 
+horizontal wells or complex, unusual directional wells. However, the 
+program can be used to check BHA weight calculations for normal 
+directional wells. The program will calculate axial drag for a non-rotated 
+assembly and also calculates the position of the neutral point in the 
+drillstring. In addition, the program calculates the forces on the drill pipe 
+and will “flag” any values of compressive load which exceed the critical 
+buckling force for the drill pipe.

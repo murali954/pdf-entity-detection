@@ -1,0 +1,3 @@
+where WDC1 and LDCI are the weight per foot and total length of the first 
+size of drill collar and WDC2 and LDC2 are the weight per foot and total 
+length of the second size of drill collar.

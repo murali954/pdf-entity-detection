@@ -1,0 +1,5 @@
+Tricalcium Silicate - 3CaO:SiO2   -   C3S
+1. The major compound in Portland cement
+2. Contributes to strength development, especially during the first 28 days
+3. Hydration equation: 
+2(3CaO:SiO2) + 6H2O ---> 3CaO:2SiO2:3H2O + 3Ca(OH)2

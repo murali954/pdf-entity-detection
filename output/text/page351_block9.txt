@@ -1,0 +1,3 @@
+Note: All terms in the following formulas are our targets. For 
+example, C is the target cost per foot agreed upon with 
+the client. ROP is the target ROP necessary, and so forth.

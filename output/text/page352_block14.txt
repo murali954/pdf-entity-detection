@@ -1,0 +1,2 @@
+The performance proposal calls for two bit runs (2 HCC PDC bits) using a 
+Mach 1C Navi-Drill. The section length is established at 3,753 feet.

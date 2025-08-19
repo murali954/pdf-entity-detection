@@ -1,0 +1,5 @@
+There are no specific rates at which bullheading should be performed. At 
+slow rates (the pressures are within the boundaries of casing burst pressure) 
+the pump rate can be increased until the higher pressure will become 
+detrimental to the operation. The higher pump rates are desirable to pump 
+the influx away as soon as possible, and to overcome any gas migration.

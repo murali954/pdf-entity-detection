@@ -1,0 +1,2 @@
+or    
+(300 x dial reading) / Fann shear rpm

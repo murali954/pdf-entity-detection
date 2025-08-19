@@ -1,0 +1,2 @@
+the direction of the deviation force is up-dip. When the effective dip angle 
+is greater than 45° the direction of the deviation force is down-dip.

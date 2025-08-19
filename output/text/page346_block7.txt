@@ -1,0 +1,4 @@
+Dull bit evaluation can be valuable information, when the grading is 
+objectively performed. It can, at times, reveal erroneous entries in other 
+parts of the form, such as gross errors in weight-on-bit, rotary speed, or 
+rotating time.

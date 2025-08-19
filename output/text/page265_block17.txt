@@ -1,0 +1,3 @@
+Note: The above formula for calculating Theoretical Geometric 
+Dogleg Severity is based on a system which contains full 
+gauge stabilizers.

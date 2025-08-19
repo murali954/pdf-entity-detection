@@ -1,0 +1,1 @@
+% Footage Oriented = [(DL - DLR) ÷ (DLO - DLR)] x 100

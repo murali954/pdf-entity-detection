@@ -1,0 +1,8 @@
+If the cuttings are of irregular shape (and most are) they are subjected to a 
+torque caused by the shearing of the mud. If the drillpipe is rotating, a 
+centrifugal effect causes the cuttings to move towards the outer wall of the 
+annulus. The process is further complicated because the viscosity of non-
+Newtonian fluids varies according to the shear rate, and therefore the 
+velocity of the cutting changes with radial position. Finally, transport rates 
+are strongly dependent on cutting size and shape, which as stated above, 
+are both irregular and variable.

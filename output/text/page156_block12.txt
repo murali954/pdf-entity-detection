@@ -1,0 +1,4 @@
+A.
+Drilling 17.5-inch hole with a roller cone bit, we want to use 
+45,000 lbs WOB in the tangent section at 30° inclination. What 
+air weight of BHA is required to avoid running any drill pipe in

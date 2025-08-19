@@ -1,0 +1,7 @@
+The concept that a fluid cannot maintain a rigid shape is a basic, but 
+important characteristic, which means that fluids cannot sustain a shear-
+stress (a tangential force applied to the surface). Any tangential force will 
+cause the fluid to deform and continuous deformation is known as “flow”. 
+Fluid flow is always considered to take place within a conductor. A 
+conductor may be the annulus created by casing for drilling fluid or a 
+volcano’s slope and the atmosphere, in the case of a lava flow.

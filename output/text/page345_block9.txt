@@ -1,0 +1,3 @@
+•
+Perform a graphical “breakeven” analysis and determine when a 
+bit is no longer cost-effective.

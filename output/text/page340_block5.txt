@@ -1,0 +1,3 @@
+If circulation has not been lost, the weight plug must be run under a back 
+pressure and the influx must be held by casing pressure or hydrostatic 
+pressure to allow the plug time to settle.

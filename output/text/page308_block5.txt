@@ -1,0 +1,8 @@
+When drilling close to balance (between equivalent circulating density and 
+pore pressure), flow into the annulus may occur when the pumps are shut 
+off. This is caused by the removal of the annular pressure loss, which 
+increases the bottomhole pressure while circulating. When the kelly is 
+lifted, swab pressures can further reduce bottomhole pressure. An increase 
+in hookload may indicate that a lighter fluid has invaded the hole as the less 
+dense invading fluid reduces the buoyancy effect on the drillstring, hence 
+the higher hookload.

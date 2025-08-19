@@ -1,0 +1,4 @@
+•
+Is available in various tilt angles and identified by the tilt angle, 
+which is the mathematical resultant angle computed from the two 
+opposing tilt angles.

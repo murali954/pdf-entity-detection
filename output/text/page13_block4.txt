@@ -1,0 +1,6 @@
+The E*C TRAK Torque and Drag Module . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-31
+General Uses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-31
+Inputs Required . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-31
+Outputs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-31
+Typical Drillstring - Wellbore Friction Factors. . . . . . . . . . . . . . . . . . . . . . . . . 4-32
+Use Of Torque & Drag Programs For BHA Weight Evaluation. . . . . . . . . . . . 4-32

@@ -1,0 +1,2 @@
+Pressure drop or pressure loss is the amount of pressure needed to move the 
+fluid over a given distance, for example,

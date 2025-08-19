@@ -1,0 +1,7 @@
+Pumping is continued, holding the drillpipe pressure constant by adjusting 
+the choke. When the kick fluids have been displaced, and further volume 
+has been displaced equal to the pipe volume, the SIDP should be zero. The 
+kick should be killed and the well checked for flow. Further circulations 
+can be performed to condition the hole and to add any trip margin. Figure 
+8-6 shows the variations in drillpipe and casing pressures as the kill 
+procedure is implemented.

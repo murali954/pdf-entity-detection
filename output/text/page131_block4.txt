@@ -1,0 +1,2 @@
+plastic formation would require higher rpm; a hard formation, lower rpm. 
+Most applications require rotary speeds less than 120 rpm.

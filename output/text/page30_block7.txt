@@ -1,0 +1,10 @@
+where:
+V1   =   Volume of first material to be mixed together 
+W1  = Density of first material 
+V2   = Volume of second material to be mixed together 
+W2  = Density of second material 
+VF  =
+Total or sum of all volumes mixed together 
+WF =
+Density of total mixture. Proportional average of all 
+volumes mixed together

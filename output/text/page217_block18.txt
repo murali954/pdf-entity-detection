@@ -1,0 +1,3 @@
+•
+Off bottom, the turbine RPM will reach “run away speed” and torque 
+is zero.

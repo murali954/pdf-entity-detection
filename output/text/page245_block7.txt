@@ -1,0 +1,7 @@
+Figure 5-42 is possible for certain lengths of pendulum when there is no 
+near-bit stabilizer and only one string stabilizer. The collars above the 
+upper stabilizer will sag towards the low side of the hole causing a fulcrum 
+effect about the string stabilizer and tilting the upper portion of the 
+pendulum towards the high side of the hole.Experienced has shown 
+instances of pendulum assemblies dropping faster with high WOB and low 
+rotary speed.

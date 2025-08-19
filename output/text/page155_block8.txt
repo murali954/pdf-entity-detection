@@ -1,0 +1,2 @@
+Drillpipe is always run in compression in horizontal wells, without 
+apparently causing damage to the drillpipe.

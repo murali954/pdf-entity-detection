@@ -1,0 +1,3 @@
+5.
+Nudging is used on platforms to “spread out” the surface and 
+conductor casings to minimize the chance of collisions.

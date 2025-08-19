@@ -1,0 +1,6 @@
+The difference between the two is based on the relationship between the 
+string weight and the formation pressure acting upon it. If the resultant 
+upward force exerted by the kick acting on the string is greater than the 
+weight of the string, the pipe will have to be snubbed into the hole. That is, 
+pressure will have to be applied to the string to run it in. If the string weight 
+is greater than the upward forces, the string is stripped in.

@@ -1,0 +1,6 @@
+13.
+List the available data in random order: This will include; types 
+of bits, casing types and weights, drillstring configurations, 
+drilling problems and remedies, survey calculations, drilling 
+parameters and modifications. These, and other data, should be 
+entered under the headings in the rough outline.

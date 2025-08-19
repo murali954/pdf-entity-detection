@@ -1,0 +1,4 @@
+The “Toolface” of a deflection tool, or a steerable motor system, is the part 
+(usually marked with a scribe line) which is oriented in a particular 
+direction to make a desired deflection within the wellbore. There are two 
+ways of expressing toolface orientation:

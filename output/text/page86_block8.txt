@@ -1,0 +1,3 @@
+16.
+In hard formations, what must be efficient for the drill rate to be 
+proportional to weight-on-bit?

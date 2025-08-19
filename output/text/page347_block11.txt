@@ -1,0 +1,4 @@
+The example below illustrates how this formula evaluates the performance 
+of two different bits. From the bit record, 15 and 16 are evaluated. Bit 
+number 15 is a journal-bearing milled-tooth bit. Bit number 16 is a 
+journal-bearing insert bit.

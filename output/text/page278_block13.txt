@@ -1,0 +1,3 @@
+13.
+Explain the effect of varying WOB and RPM on the drop rate of 
+a pendulum assembly.

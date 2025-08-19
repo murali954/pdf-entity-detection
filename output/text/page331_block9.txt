@@ -1,0 +1,3 @@
+Blind rams: These are designed to close off the hole when 
+no pipe is in the hole. If they are shut on drill pipe, they will 
+flatten the pipe, but not necessarily stem the flow.

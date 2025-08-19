@@ -1,0 +1,4 @@
+Therefore, if BHA weight requirements are evaluated as for rotary drilling, 
+the results should be valid for steerable systems in the oriented mode 
+except for unusual well paths which create exceptionally high values of 
+axial drag.

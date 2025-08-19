@@ -1,0 +1,5 @@
+Experience over the years has shown that directional control problems are 
+aggravated when tangent inclinations are less than 15°. This is because 
+there is more tendency for the bit to walk (i.e. change in azimuth) so more 
+time is spent keeping the well on course. As such, most run-of-the-mill 
+directional wells are still planned with inclinations in the range 15° - 60°.

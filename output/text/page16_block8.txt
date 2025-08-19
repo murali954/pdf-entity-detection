@@ -1,0 +1,6 @@
+Stuck Pipe Problems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7-2
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7-2
+Recognizing Problem Situations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7-3
+Mechanics of Differential Sticking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7-5
+Determining the Variables in the Stuck Pipe Equation . . . . . . . . . . . . . . . . . . . . 7-6
+Preventing Stuck Pipe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7-9

@@ -1,0 +1,9 @@
+In its most basic form a drilling fluid is composed of a liquid (either water 
+or oil) and some sort of viscosifying agent. If nothing else is added, 
+whenever the hydrostatic pressure is greater than the formation pore 
+pressure (and the formation is porous and permeable) a portion of the fluid 
+will be flushed into the formation. Since excessive filtrate can cause 
+borehole problems, some sort of filtration control additive is generally 
+added. In order to provide enough hydrostatic pressure to balance abnormal 
+pore pressures, the density of the drilling fluid is increased by adding a 
+weight material (generally barite).

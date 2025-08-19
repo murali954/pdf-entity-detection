@@ -1,0 +1,1 @@
+This angle is defined by three points on a drilled arc:

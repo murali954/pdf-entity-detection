@@ -1,0 +1,5 @@
+4.
+When the influx rises above the washout (or bit) the SICP will be 
+higher than the SIDP. The influx may then be circulated out 
+conventionally and the density of the kill fluid can be calculated 
+using the following equation:

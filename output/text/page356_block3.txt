@@ -1,0 +1,7 @@
+Finally, a line is drawn through points “A” and “B” and projected through 
+the grid to represent performance which will give the breakeven drilling 
+cost. Any combination of feet and hours on the line equals the “target” 
+cost, a combination under the line is more expensive and above the line is 
+cheaper. In this example, the breakeven line represents $53.45/ft. Some 
+combinations, (for instance of 400 feet in 80 hours), would exceed this 
+cost; if a bit drilled 500 feet in 60 hours, it would be less expensive.

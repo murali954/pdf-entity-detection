@@ -1,0 +1,5 @@
+8.
+You need a solid tracer with properties similar to cuttings. The 
+cuttings will take longer to reach the surface because they will 
+roll along the borehole “low side” in the build and horizontal 
+sections.

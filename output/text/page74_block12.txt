@@ -1,0 +1,2 @@
+The minus sign is in the equation because the drillstring velocity is in the 
+opposite direction to the fluid velocity.

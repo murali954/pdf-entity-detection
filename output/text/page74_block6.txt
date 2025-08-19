@@ -1,0 +1,2 @@
+The first assumes that fluid levels in the annulus and drillstring remain 
+equal at all times. Annular fluid velocity then becomes:

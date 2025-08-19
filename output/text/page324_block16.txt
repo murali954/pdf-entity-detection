@@ -1,0 +1,2 @@
+If the slow circulation rate (SCR) is known, it is possible to obtain the 
+SIDP as follows:

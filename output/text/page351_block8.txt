@@ -1,0 +1,5 @@
+Before we can propose a target cost per foot to the operator, we should be 
+reasonably sure that we will be able to achieve a minimum ROP. This ROP 
+is the required drill rate needed to meet both the proposed cost per foot 
+figure, and our pricing structure. After calculating this target ROP, it must 
+be determined whether it is attainable.

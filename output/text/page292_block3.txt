@@ -1,0 +1,5 @@
+These spotting procedures are facilitated by pin-pointing the depth at 
+which the pipe is stuck. The depth (or free point - stuck point location) can 
+be calculated from relatively simple measurements taken on the rig floor. 
+With reference to Figure 7-1, the procedure to determine the variables is as 
+follows:

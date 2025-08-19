@@ -1,0 +1,3 @@
+Note: The pressure at any given point in the circulating system 
+is the sum of the hydrostatic, hydraulic, and imposed 
+pressures which exist at that point.

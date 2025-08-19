@@ -1,0 +1,3 @@
+The standard practice of minimizing BHA length and weight for steerable 
+assemblies has not created any noticeable increase in the incidence of 
+drillstring failure, even when long sections are drilled in the oriented mode.

@@ -1,0 +1,5 @@
+Steerable turbines use the side force method by having an eccentric (or 
+offset) stabilizer at the lower end of the bearing section (at the bottom end) 
+of the turbine body, quite close to the bit. The three blade version shown 
+below is the one most commonly used, but a single blade version exists and 
+is used if a lot of drag (friction) is anticipated.

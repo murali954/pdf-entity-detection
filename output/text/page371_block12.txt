@@ -1,0 +1,8 @@
+15.
+Prepare the final outline from the regrouped data: Using the 
+proper format, decide on the order of data presentation, based on; 
+order of importance, order of events, etc. Baker Hughes INTEQ 
+usually uses an order-of-events arrangement to present the data 
+in chronological order. Use only short clauses, sentences or 
+phrases in this outline. Indicate where any plots/illustrations will 
+be referenced.

@@ -1,0 +1,7 @@
+In practice, hookload will vary due to motion and hole drag. Pick-Up Load 
+refers to the hookload when pulling the drillstring upwards. The highest 
+hookload normally encountered will be when attempting to pick up the 
+string. Slack-Off Load refers to the hookload when lowering the drillstring. 
+Drag Load refers to the hookload when drilling in the oriented mode. Other 
+references to hookload are Rotating Off-Bottom Load and (rotary) Drilling 
+Load.

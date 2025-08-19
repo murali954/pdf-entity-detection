@@ -1,0 +1,5 @@
+Nowadays, single tilt motors are frequently used as steerable motors. If the 
+drill string is rotated so that the body of the motor rotates, then a fairly 
+straight path is drilled. However, if the tilt (tool face) is orientated in a 
+desired direction and there is no drill string rotation, then the motor will 
+drill a controlled curve.

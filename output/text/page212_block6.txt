@@ -1,0 +1,5 @@
+The Navi-Drill Mach 1 P/HF (High Torque/High Flow) is a positive 
+displacement motor that develops high torque at the bit at relatively low to 
+medium speed range (80-310 RPM). This makes it ideal for directional 
+applications, drilling with high weight-on-bit, or in areas where formations 
+require high torque due to specialized PDC bits.

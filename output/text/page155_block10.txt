@@ -1,0 +1,6 @@
+When two contacting surfaces (i.e drillpipe and the borehole wall) are in 
+relative motion, the direction of the frictional sliding force on each surface 
+will act along a line of relative motion and in the opposite direction to its 
+motion. Therefore, when a BHA is rotated, most of the frictional forces 
+will act circumferentially to oppose rotation (torque), with only a small 
+component acting along the borehole (drag).

@@ -1,0 +1,3 @@
+Generally, if fracturing and lost circulation does not occur on initial shut-
+in, they will not occur throughout the kill process (if the correct procedure 
+is chosen and implemented).

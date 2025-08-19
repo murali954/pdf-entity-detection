@@ -1,0 +1,6 @@
+Though few stuck pipe problems occur while drilling, it is wise to keep in 
+mind that they can happen. The most commonly monitored drilling 
+parameters which will indicate problems are torque, pump pressure and 
+drill rate. Changes in these parameters, when matched with known data 
+(i.e. cuttings lithology, ECD) can pin-point mechanisms which can result in 
+stuck pipe and other borehole problems.

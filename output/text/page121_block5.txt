@@ -1,0 +1,6 @@
+Jet circulation bits (Figure 3-3b), are manufactured with smooth, 
+streamlined, fluid passageways in the dome of the bit. Drilling fluid passes 
+through the bore of the bit at high velocities with minimum pressure losses, 
+through the jet nozzles, and then to the hole bottom to flush cuttings away 
+from the bit and up the hole. Excess fluid that impinges on the hole bottom 
+flows up and around the cutters for cutter cleaning.

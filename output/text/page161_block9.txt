@@ -1,0 +1,4 @@
+•
+A safety margin of at least 10% should be used in the calculation to 
+allow for some drag (friction) in the hole. However, axial drag is not a 
+major factor when assemblies are rotated.

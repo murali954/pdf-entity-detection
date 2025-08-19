@@ -1,0 +1,6 @@
+c. 
+Initially, during a kick-off, observe the actual oriented 
+dogleg severity for the steerable assembly over an interval 
+of at least 60 feet. Constant monitoring of the actual 
+oriented dogleg severity is necessary to plan subsequent 
+oriented/rotary drilling intervals.

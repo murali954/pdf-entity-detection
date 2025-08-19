@@ -1,0 +1,2 @@
+1. Are problem formations exposed?
+1. Check lag time

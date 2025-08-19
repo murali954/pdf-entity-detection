@@ -1,0 +1,8 @@
+In other types of directional wells, it must be remembered that since gravity 
+acts vertically, only the weight of the “along-hole” component of the BHA 
+elements will contribute to the weight-on-bit. The problem this creates is 
+that if high WOB is required when drilling a high inclination borehole, a 
+long (and expensive) BHA would be needed to prevent putting the drillpipe 
+into compression. However, for these high inclination wells, it is common 
+practice to use about the same BHA weight as used on low inclination 
+wells.

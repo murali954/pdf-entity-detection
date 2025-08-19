@@ -1,0 +1,6 @@
+Directional trends are partly related to the direction of the resultant force at 
+the bit. It has also been shown that bit tilt (the angle between the bit axis 
+and the hole axis) influences the direction of drilling. This is because a drill 
+bit is designed to drill parallel to its axis. In rotary assemblies where there 
+is a near bit stabilizer, the bit tilt angle is small causing the magnitude of 
+side force at the bit to be a key factor.

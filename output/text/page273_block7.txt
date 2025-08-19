@@ -1,0 +1,1 @@
+DLR = actual dogleg when rotary drilling (°/100’)

@@ -1,0 +1,6 @@
+A turbine consists of a multistage vane-type rotor and stator section, a 
+bearing section, a drive shaft and a bit rotating sub. A “stage” consists of a 
+rotor and stator of identical profile. The stators are stationary, locked to the 
+turbine body, and deflect the flow of drilling mud onto the rotors which are 
+locked to the drive shaft. As the rotors are forced to turn, the drive shaft is 
+also forced to turn, causing the bit sub and the bit to rotate

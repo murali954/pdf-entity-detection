@@ -1,0 +1,11 @@
+2.
+An increase in pit volume may be noticed only after the 
+connection. Usually, when the pumps are shut off, some of the 
+mud from the surface equipment will flow back into the active 
+pit. When the levels have stabilized, after the pumps are 
+restarted, an increase in level prior to the connection indicates 
+that a flow has occurred. The volume of mud from the surface 
+equipment should be established at the start of each new job and 
+re-established periodically as the well progresses (e.g. a 2 bbl 
+increase on a connection may be normal, while a 3 bbl increase 
+may be significant).

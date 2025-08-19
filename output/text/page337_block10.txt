@@ -1,0 +1,5 @@
+An influx of formation fluid or increase in annular pressure may cause the 
+drillstring to become deferentially stuck. Pipe movement (if possible) 
+should be made carefully. In the event of a kick, the well must be 
+controlled first. Only after the well is brought under control should 
+drillstring recovery operations be initiated.

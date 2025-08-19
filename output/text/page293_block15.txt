@@ -1,0 +1,2 @@
+6.
+Minimize the length of unstabilized drill collars

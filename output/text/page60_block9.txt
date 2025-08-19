@@ -1,0 +1,5 @@
+Once passed the surface equipment, the fluid will flow through the 
+drillstring. In hydraulic calculations, these parts of the circulating system 
+are considered circular pipes. In typical field operations, fluid velocities are 
+in the order of 1000 ft/min (300 m/min). At such velocities, the fluid is in 
+turbulent flow.

@@ -1,0 +1,4 @@
+When drilling is in progress, every effort must be made to keep the drilling 
+parameters constant and obtain a constant reactive torque, and a steady tool 
+face setting. Reactive torque occurs with both types of downhole motors. 
+Obviously, high torque motors produce higher reactive torque.

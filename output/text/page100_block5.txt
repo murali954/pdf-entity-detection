@@ -1,0 +1,6 @@
+The red bottom plug has a shallow top, is made of rubber, and has a hollow 
+core. It is used ahead of the cement slurry to prevent cement/drilling fluid 
+contamination and to clean the casing wall of filter cake. After the bottom 
+plug comes into contact with the float valve, sufficient pressure (150 to 350 
+psi) causes the top diaphragm to rupture, allowing the cement slurry to 
+flow through it.

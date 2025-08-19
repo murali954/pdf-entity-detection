@@ -1,0 +1,9 @@
+The next generation of bearing systems was a sealed roller bearing system, 
+having a sealed grease reservoir to lubricate the bearings. The bearing 
+system is composed of: 1) a roller-ball-friction or roller-ball-roller bearings 
+2) the seal, which retains the lubricant and prevents drilling fluid and 
+abrasive cuttings from entering the bearing cavities, 3) the shirttail is 
+designed and hardfaced to protect the seal, 4) a lubricant, an 
+elasto-hydrodynamic type, is used to ensure minimum friction and wear, 5) 
+the reservoir, which stores and supplies the lubricant to the bearings, and 6) 
+the vented breather plug, which transfers downhole fluid pressure against

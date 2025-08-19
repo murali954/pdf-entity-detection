@@ -1,0 +1,3 @@
+2.
+drilling fluid characteristics - MD (lb/gal), YP (lbs/100ft2) and 
+PV (cps)

@@ -1,0 +1,8 @@
+Each diamond on the bit is continually on bottom, continually doing work, 
+therefore the entire area must be continually cleaned and cooled. The bit 
+must be kept clean to prevent balling up, and to keep formations exposed to 
+the cutting action of the diamonds. The bit must be kept cool; excessive 
+heat is one of the diamond's worst enemies. Because of the diamond's 
+cutting action, heat is always being generated and a damage can only be 
+prevented with adequate flow rates. Other factors being equal, better 
+performance may be expected with higher rates of fluid flow.

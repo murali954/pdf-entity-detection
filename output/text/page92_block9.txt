@@ -1,0 +1,4 @@
+Casing dimensions are specified by its outside diameter (OD) and nominal 
+wall thickness. Normal wellsite conventions specify casing by its OD and 
+weight per foot. As stated earlier, one should specify which weight one is 
+referring to, though most often it is the nominal weight.

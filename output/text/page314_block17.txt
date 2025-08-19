@@ -1,0 +1,3 @@
+The drill pipe pressure can be used as a downhole pressure gauge, while the 
+casing pressure is affected by the type and amount of fluid influx. When 
+the density of the kick fluid is known, the composition may be estimated;

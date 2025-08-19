@@ -1,0 +1,3 @@
+It is common oilfield practice to assume a clinging constant of -0.45. The 
+two graphs, however, show how much in error this can be. Baker Hughes 
+INTEQ prefers a more exact calculation.

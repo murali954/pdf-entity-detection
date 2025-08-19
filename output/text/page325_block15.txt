@@ -1,0 +1,2 @@
+The choke line friction pressure can be measured by pumping down the 
+choke and up the riser at the chosen slow circulating rate (Figure 8-8a).

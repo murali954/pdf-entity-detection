@@ -1,0 +1,2 @@
+where: D1 = hole diameter (inches) 
+D2 = drillpipe diameter (inches)

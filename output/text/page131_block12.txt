@@ -1,0 +1,3 @@
+2.
+When picking-up a PDC bit, take all the precautions normally 
+taken when handling a diamond bit, and some additional ones:

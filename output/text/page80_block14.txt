@@ -1,0 +1,16 @@
+Stand 
+Time
+Average
+Maximum
+Pressure 
+Drop
+Swab 
+EQMD
+Surge 
+EQMD
+Pressure 
+Drop
+Swab 
+EQMD
+Surge 
+EQMD

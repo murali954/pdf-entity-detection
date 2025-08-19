@@ -1,0 +1,5 @@
+7.
+Snubbing means that downward force must be applied to 
+counteract the upward force exerted by the kick. If the kick is not 
+exerting upward force greater than the string weight, the weight 
+of the drill string can be used to “strip” into the hole.

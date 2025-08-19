@@ -1,0 +1,2 @@
+The fluid velocity that will produce the critical Reynolds Number for given 
+fluid properties and pipe configuration is found using:

@@ -1,0 +1,2 @@
+•
+Adapt to the correct kill procedure when special problems occur.

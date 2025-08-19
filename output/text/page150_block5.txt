@@ -1,0 +1,8 @@
+Drillstrings weigh less in weighted fluids than in air due to a fluid property 
+known as buoyancy. Therefore, what is seen as the hookload is actually the 
+buoyed weight of the drillstring. Archimedes’s principle states that the 
+buoy force is equal to the weight of the fluid displaced. Another way of 
+saying this is that a buoy force is equal to the pressure at the bottom of the 
+string multiplied by the cross sectional area of the tubular. This is due to 
+the fact that the force of buoyancy is not a body force such as gravity, but a 
+surface force.

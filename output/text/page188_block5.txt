@@ -1,0 +1,3 @@
+The inclination of a well-bore is the angle (in degrees) between the vertical 
+and the well bore axis at a particular point. The vertical reference is the 
+direction of the local gravity vector and could be indicated by a plumb bob.

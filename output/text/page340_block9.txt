@@ -1,0 +1,4 @@
+The quicker the flow can be reversed, the less amount of drilling fluid has 
+to be pumped to force the influx back into the formation. Any gas in the 
+kick will migrate up the hole at a rate dependent upon the drilling fluid’s 
+density and viscosity.

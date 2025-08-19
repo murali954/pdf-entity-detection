@@ -1,0 +1,4 @@
+The magnitude of shear between the layers is represented by the shear-rate, 
+which is defined as the difference in the velocities between the layers, 
+divided by the distance of separation. It is this relationship between the 
+shear-stress and shear-rate that defines the behavior of the fluid.

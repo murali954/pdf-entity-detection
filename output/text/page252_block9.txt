@@ -1,0 +1,4 @@
+Notice that the stiffness is proportional to the fourth power of the outside 
+diameter, while the collar weight is proportional to the square of the 
+outside diameter. This means that the inside diameter has very little effect 
+on collar stiffness but has a significant effect on collar weight.

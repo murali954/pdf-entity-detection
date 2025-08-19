@@ -1,0 +1,3 @@
+A complete description of kick tolerance, with the relevant equations and 
+calculations can be found in the “Formation Pressure Evaluation” manual 
+(P/N 80824H).

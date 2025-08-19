@@ -1,0 +1,6 @@
+On multi-well projects (particularly offshore) there are small distances 
+between slots. To eliminate the risk of collisions directly beneath the 
+platform, the proposed well path is compared to existing and other 
+proposed wells. The distances between the other wells and the proposal are 
+calculated at frequent intervals in critical sections. These calculations can 
+be performed using the EC*TRAK software (BHI) or COMPASS.

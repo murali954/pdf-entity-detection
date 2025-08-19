@@ -1,0 +1,5 @@
+Unwanted deviation tendencies caused by the formation can best be 
+reduced by packed assemblies. The use of a full gauge near-bit stabilizer 
+definitely reduces bit walk. In cases where strong formation effects have 
+been observed on previous wells in the same area, the BHA design should 
+be suitably modified to compensate for the anticipated effect.

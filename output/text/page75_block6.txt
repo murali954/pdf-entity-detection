@@ -1,0 +1,8 @@
+When tripping out of the hole, it may be assumed that both drillstring and 
+annulus are kept full of fluid. The required distribution of flow is that 
+which gives equal frictional losses in the pipe bore and annulus. When 
+tripping into the hole, the fluid level inside the drillstring can drop well 
+below that in the annulus, if small bit nozzles are present. This effect is 
+usually seen as a pit volume being higher than expected, string weight 
+lower than expected, and a considerable volume being pumped before 
+standpipe pressure builds up while breaking circulation.

@@ -1,0 +1,2 @@
+Once the measurements have been taken, they are used in the following 
+equation:

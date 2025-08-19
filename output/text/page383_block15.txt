@@ -1,0 +1,3 @@
+4.
+List several rules that should be followed to ensure that the client 
+will have a readable, useful FWR.

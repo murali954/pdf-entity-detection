@@ -1,0 +1,3 @@
+This workbook is designed to review those engineering principles that are unique to drilling 
+a well and to increase your knowledge and understanding of how those principles apply to 
+wellsite operations.

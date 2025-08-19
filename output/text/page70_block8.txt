@@ -1,0 +1,2 @@
+The HSI, calculated at the jet nozzle orifices, will have several 
+characteristics which will directly affect hydraulic energy:

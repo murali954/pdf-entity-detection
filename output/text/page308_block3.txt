@@ -1,0 +1,3 @@
+example, continual mud mixing in the active system may mask a volume 
+increase, or partial returns may mask the effects of flowrate and volume 
+increases, which will make kick detection very difficult.

@@ -1,0 +1,3 @@
+The EAP Kick and Kill Analysis and DrillByte Kill Monitor programs 
+provides printouts of the data required in these procedures and plots a 
+record of progress during kill operations.

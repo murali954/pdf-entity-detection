@@ -1,0 +1,5 @@
+The coefficient can be determined using a specialized mud test apparatus 
+called a “stickometer”. This test uses a torque plate which is pushed against 
+a filter cake at 500 psi. After a set time limit, the plate is rotated using a 
+torque wrench and the amount of torque required to rotate the plate is 
+measured.

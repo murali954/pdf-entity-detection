@@ -1,0 +1,4 @@
+Possible Plots: Cost-per-Foot vs Instantaneous Cost
+Break Even Analysis
+Number of Bit Runs vs Depth 
+Nozzle Selection

@@ -1,0 +1,2 @@
+where: SPR = System pressure loss at kill rate (psi) 
+SIDP= Shut-in Drillpipe Pressure (psi)

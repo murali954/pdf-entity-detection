@@ -1,0 +1,6 @@
+Pressure surges can be detrimental to these sealed systems. As pressure and 
+temperature increase, the viscosity of the lubricant increases. As a result, 
+the system cannot instantaneously compensate for abrupt changes in 
+pressure due to surges (going into the hole, making connections, etc.) and 
+small quantities of mud invade the system. With the close tolerance 
+necessary for effective sealing, mud solids can be damaging.

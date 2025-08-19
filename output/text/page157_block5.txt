@@ -1,0 +1,5 @@
+B.
+Suppose we have 180' of 9.5-inch tubulars weighing 220 lbs per 
+foot, a 9.5-inch MWD tool weighing 3,400 lbs and 90 ft of 8-inch 
+tubulars weighing 154 lbs per foot. How many joints of 5-inch 
+HWDP would be required to meet the criteria in Example 4.4A.

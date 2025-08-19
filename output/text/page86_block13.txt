@@ -1,0 +1,3 @@
+18.
+What would be the available surface horsepower, with a pump 
+pressure of 3200 psi and a flow rate of 850 gal/min?

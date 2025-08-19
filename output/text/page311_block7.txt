@@ -1,0 +1,4 @@
+The kill procedure that involves the least surface pressures must be used if 
+the kick tolerance is minimal. Figure 8-1 shows the different surface 
+pressure requirements for the two different kick situations, using the one 
+and two circulation methods.

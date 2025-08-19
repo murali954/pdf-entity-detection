@@ -1,0 +1,3 @@
+Nudges will not only be shown on the individual well plans for each well, 
+but a structure plot will also be drawn which will show well positions at the 
+surface casing point after the nudge.

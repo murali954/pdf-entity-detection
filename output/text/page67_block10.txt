@@ -1,0 +1,6 @@
+The second factor is the operating pressure of the mud pumps. Most mud 
+pumps can produce the required pressure with little problem. However, 
+because of the various components associated with the surface system 
+(standpipe, rotary hose, pulsation dampener, etc.) the maximum surface 
+pressure is usually limited to some value less than the maximum rated 
+pump pressure.

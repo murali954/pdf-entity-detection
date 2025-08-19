@@ -1,0 +1,5 @@
+On many well plans, horizontal projection is just a straight line drawn from 
+the slot to the target. On multi-well platforms however, it is sometimes 
+necessary to start the well in a different direction to avoid other wells. Once 
+clear of these, the well is turned to aim at the target. This is a 3-dimensional 
+turn, but on the horizontal plan it would typically look like Figure 5-18.

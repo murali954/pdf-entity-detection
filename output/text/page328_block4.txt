@@ -1,0 +1,2 @@
+As the water depth increases, the pressure drop through the choke line 
+increases. For example:

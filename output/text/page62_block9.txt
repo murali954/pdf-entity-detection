@@ -1,0 +1,3 @@
+where:
+D1 = hole or casing I.D. (inches)
+D2 = pipe or collar O.D. (inches)

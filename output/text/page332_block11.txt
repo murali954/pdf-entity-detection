@@ -1,0 +1,6 @@
+Control of the kick and kill fluids during kill operations is accomplished 
+using a choke manifold. This manifold must be able to work under a variety 
+of conditions, such as high pressure, with oil, gas, mud and water, and be 
+capable of withstanding the effects of abrasive solids (sand and shale) in 
+the kick fluids. The manifold should be capable of controlling the well 
+using one of several chokes and be able to divert flow to one of several

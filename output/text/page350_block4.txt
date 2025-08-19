@@ -1,0 +1,9 @@
+CRig
+= £ 2,000 per hour
+tt
+= 1,000 ft/hr (trip time)
+CBit
+= £ 4,000 per insert bit
+= £ 19,000 per fixed cutter bit
+CMotor
+= £ 200 per hour

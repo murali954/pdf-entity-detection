@@ -1,0 +1,5 @@
+•
+Decreasing the diameter of the first string stabilizer versus increasing 
+“L” is preferred because TGDS is affected less. This practice also 
+limits the number of variables to one, the OD of the first string 
+stabilizer.

@@ -1,0 +1,3 @@
+•
+Omit the near-bit stabilizer when azimuth control is not a concern or 
+when drilling with a PDC bit. When drilling with a roller cone bit, use

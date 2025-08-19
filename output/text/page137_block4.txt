@@ -1,0 +1,6 @@
+•
+Reaming long sections in hard formations: Since the “nozzles” of a 
+diamond bit are formed by the formation on one side and the bit 
+matrix on the other side, hydraulic cooling and cleaning are extremely 
+poor during reaming. This can result in diamond “burning” or 
+breakage in the gauge area.

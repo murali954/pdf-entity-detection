@@ -1,0 +1,7 @@
+•
+The safest approach to designing and using a pendulum assembly is to 
+concentrate on producing a side force at the bit on the low side of the 
+hole. This is achieved by running an assembly where the pendulum 
+portion will be as stiff and straight as possible. It is also desirable that 
+the section immediately above the first string stabilizer be stiff and 
+straight and that a second string stabilizer be within 30 feet of the first.

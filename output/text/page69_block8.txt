@@ -1,0 +1,4 @@
+As can be seen, Impact Force depends on maximizing flow rate and nozzle 
+velocity rather than pressure. Therefore, higher flow rates are required. The 
+emphasis is on a large volume of fluid impacting with moderate force, 
+rather than a small volume impacting at a high pressure.

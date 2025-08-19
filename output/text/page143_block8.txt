@@ -1,0 +1,4 @@
+9.
+PDC bits are sensitive to the amount of RPM used to optimize 
+the drill rate. A soft, plastic formation would require a ________ 
+RPM, while a harder formation would require a ________ RPM.

@@ -1,0 +1,6 @@
+Production casing is usually the last full string of pipe set in a well. These 
+strings are run to isolate producing formations and provide for selective 
+production in multi-zone production areas. The size of production casing 
+will depend on the expected production rate, the higher the barrel per day 
+production rate, the larger the inside diameter of the pipe. Common sizes 
+are between 3 and 7 inch (outside diameter).

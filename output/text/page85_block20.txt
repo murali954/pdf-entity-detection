@@ -1,0 +1,13 @@
+Given:
+Drilling Lithology:
+Shale @ 2.4 g/cc
+Particle Size:
+1/2” by 1/2”
+Viscosity:
+55 cps
+Annular Velocity:
+150 ft/min
+Gravity:
+32.2 ft/sec2
+Flow Regime:
+Laminar

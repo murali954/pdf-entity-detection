@@ -1,0 +1,4 @@
+•
+LCM can be pumped safely, though care should be taken that the 
+material is added slowly and evenly dispersed. The system should not 
+be slugged.

@@ -1,0 +1,6 @@
+Drill Collar Diameter: The stiffness of a drill collar is proportional to the 
+fourth power of its diameter. A small reduction in the OD of the drill 
+collars used in the fulcrum section considerably increases their limberness 
+and hence the rate of build. However, it is not common practice to pick 
+drill collar diameter according to build rate requirements. Usually, standard 
+collar sizes for the given hole size are used.

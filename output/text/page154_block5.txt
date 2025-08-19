@@ -1,0 +1,2 @@
+Calculate the maximum permitted hookload when all the pipe above the 
+kick-off point is X95.

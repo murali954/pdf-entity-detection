@@ -1,0 +1,3 @@
+“k” is known as the “consistency index”, and is indicative of the 
+pumpability of the fluid. “n” is the power index, denoting the degree of 
+how “non-Newtonian” the fluid is.

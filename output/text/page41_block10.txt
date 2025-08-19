@@ -1,0 +1,3 @@
+Pressure @ Shoe = _______ psi
+Gradient @ Shoe = _______ psi/ft
+EQMD @ Shoe = _______ ppg

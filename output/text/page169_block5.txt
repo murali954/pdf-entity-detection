@@ -1,0 +1,6 @@
+If drill collars and heavy weight are both being used, calculating the 
+location of the neutral point becomes a little harder. First, you should use 
+the previous formula to see if the neutral point is in the collars. If Lnp is less 
+than the length of the collars, then the neutral point is in the collars. If Lnp 
+is more than the length of the collars, the following formula should be used 
+to determine how far up in the heavy weight the neutral point is located.

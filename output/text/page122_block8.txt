@@ -1,0 +1,4 @@
+There are three basic design features incorporated in steel tooth cutting 
+structures, teeth spacing, tooth hardfacing, and tooth angle (Figure 3-4). 
+Using variations of these parameters, bits are separated into formation 
+types.

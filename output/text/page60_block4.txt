@@ -1,0 +1,4 @@
+When calculating surface pressure losses, choose the class which is closest 
+to the present rig equipment; if necessary, extrapolate. Most modern rigs 
+will have a surface pressure coefficient between 2 and 10. The coefficient 
+is then used in the following formula:

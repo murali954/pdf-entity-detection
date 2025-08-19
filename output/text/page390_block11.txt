@@ -1,0 +1,2 @@
+43.
+Calculate the critical buckling load for the drill pipe:

@@ -1,0 +1,3 @@
+•
+Explain neutral point and calculate the approximate location of the 
+neutral point in a rotary drillstring.

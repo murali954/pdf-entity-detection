@@ -1,0 +1,3 @@
+A breakeven chart makes use of this cost-per-foot formula in determining 
+just how long a higher priced bit must run and how fast it must drill to 
+provide a drilling cost equal to that of less expensive bits.

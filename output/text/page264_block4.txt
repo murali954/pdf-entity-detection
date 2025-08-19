@@ -1,0 +1,4 @@
+As illustrated in Figure 5-58, the concept behind the double tilt is that by 
+having the two tilts in the same plane but opposed (at 180°) to each other, 
+the bit offset is minimized. Bit offset is the distance from the center of the 
+bit to the axis of the motor section (extrapolated down to the bit).

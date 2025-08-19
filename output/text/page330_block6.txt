@@ -1,0 +1,4 @@
+The flow of fluid from the well caused by a kick is stopped by using the 
+Blowout Preventers. Multiple blowout preventers used in a series is 
+referred to as the BOP Stack. BOP stacks should be capable of terminating 
+flow under all conditions.

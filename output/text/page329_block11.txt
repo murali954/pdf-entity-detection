@@ -1,0 +1,7 @@
+As stated earlier, kicks occurring while drilling from a floating rig will 
+usually give higher surface pressures due to the length of choke line. Also, 
+only a small portion of kick fluid will be required to completely fill the 
+choke line and because the surface pressure is then dependent upon the 
+length of the kick, it becomes increasingly important to detect kicks as 
+rapidly as possible in deepwater drilling. It is vitally important that return 
+flow sensors be as accurate as possible to provide this earliest warning.

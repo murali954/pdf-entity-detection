@@ -1,0 +1,3 @@
+Standard bit styles can be used in most cases. Special designs, or standard 
+bits with special features, are manufactured for unusual applications. For 
+example:

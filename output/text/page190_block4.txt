@@ -1,0 +1,2 @@
+So UTM coordinates are always Northings and Eastings, and are always 
+positive numbers.

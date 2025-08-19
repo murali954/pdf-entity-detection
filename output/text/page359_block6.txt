@@ -1,0 +1,2 @@
+Many tests have been performed to optimize the drill rate by varying the 
+WOB and RPM, and below are some general results:

@@ -1,0 +1,2 @@
+The analog with the stationary annulus solution is clear. The stationary 
+annulus solution can be used if an effective fluid velocity is substituted:

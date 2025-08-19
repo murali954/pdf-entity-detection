@@ -1,0 +1,3 @@
+7.
+Torque output is directional proportional to the motor's 
+differential pressure.

@@ -1,0 +1,3 @@
+where: 
+300rpm = Fann VG meter dial reading at 300 rpm's 
+600rpm = Fann VG meter dial reading at 600 rpm's

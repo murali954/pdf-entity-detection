@@ -1,0 +1,7 @@
+The first circulation of the Driller’s Method is performed using the original 
+mud. The choke is opened slightly, at the same time the pumps are started 
+up to the kill rate. When the pumps have reached kill rate, the choke is 
+manipulated to maintain the Initial Circulating Pressure (ICP) on the 
+drillpipe. As the kick fluids approach the surface, the annular pressure will 
+rise drastically if the kick is gas. If the kick is saltwater the annular pressure 
+will drop slightly.

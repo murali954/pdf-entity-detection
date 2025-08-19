@@ -1,0 +1,2 @@
+Note: Use lower values for low torque motors (Mach 2) and 
+higher values for high torque motors (Mach 1).

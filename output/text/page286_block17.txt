@@ -1,0 +1,6 @@
+Monitor
+Calculations
+All Types of Borehole
+Problems
+Monitor trends in hole conditions, and relating trends
+to lithology, hole deviation and BHA configuration

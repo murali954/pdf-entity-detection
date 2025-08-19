@@ -1,0 +1,5 @@
+The CSG and LCSG have the same basic thread design. The threads have a 
+rounded shape, with eight threads per inch. These threads are generally 
+referred to as API 8-round. The only difference between the two is that the 
+LCSG has a longer thread run-out, which offers more strength for the 
+connection. LCSG are very common couplings.

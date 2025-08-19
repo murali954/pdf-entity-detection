@@ -1,0 +1,4 @@
+Various “oilfield” models have been proposed to describe this non-
+Newtonian shear-rate/shear-stress curve. In order to arrived at “standard” 
+variables, these models require the measurement of shear-stress at two or 
+more shear-rates to define the curve.

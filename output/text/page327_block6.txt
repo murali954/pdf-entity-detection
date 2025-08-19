@@ -1,0 +1,4 @@
+Using a slow circulating pressure through the choke of 1300 psi, and a slow 
+circulating pressure of 1000 psi up the riser, the choke line pressure loss 
+can be calculated to be 300 psi. Assuming a kick is taken and the following 
+pressures are recorded;

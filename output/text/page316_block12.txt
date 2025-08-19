@@ -1,0 +1,7 @@
+Once the well is shut-in, it is necessary to calculate the kill mud density, 
+initial and final circulating pressures, and the kick fluid gradient. If the kick 
+fluid is gas, the bubble may start to percolate up the annulus. (this will 
+cause a slow rise in the pressures on both drillpipe and casing). If the 
+pressures begin to rise, a small amount of fluid can be bled from the choke, 
+to release this “trapped pressure”. This process should be repeated until the 
+drillpipe pressure has stabilized.

@@ -1,0 +1,11 @@
+An accelerator is a chemical additive used to speed up the normal rate of 
+reaction between cement and water which shortens the thickening time of 
+the cement, increase the early strength of cement, and saves time on the 
+drilling rig. Cement slurries used opposite shallow, low-temperature 
+formations require accelerators to shorten the time for "waiting-on-
+cement". Most operators wait on cement to reach a minimum compressive 
+strength of 500 psi before resuming drilling operations. When using 
+accelerators, this strength can be developed in 4 hours. It is a good practice 
+to use accelerators with basic cements because at temperatures below 
+100oF, neat cement may require 1 or 2 days to develop a 500 psi 
+compressive strength.

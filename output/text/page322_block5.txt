@@ -1,0 +1,6 @@
+As mentioned earlier, as soon as indications of a kick are noticed, steps 
+should be taken to shut-in the well. If tripping, under no circumstances 
+should the pipe be run back to bottom with the annular preventer open and 
+the well flowing. The primary concern is to kill the well, any concerns 
+about stuck pipe or other well problems should be secondary. Two types of 
+shut-in are possible:

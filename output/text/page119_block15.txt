@@ -1,0 +1,3 @@
+The skew point is an arbitrary point along the journal centerline and is the 
+angle formed by the offset, the centerline of the journal, and a line from the 
+bit center to the skew point.

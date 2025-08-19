@@ -1,0 +1,4 @@
+To obtain the initial circulating pressure, multiply the 
+prerecorded kill rate pressure by the ratio of the present fluid 
+density to the drilling fluid density used to obtain the kill rate and 
+add it to the shut-in drill pipe pressure.

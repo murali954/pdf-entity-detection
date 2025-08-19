@@ -1,0 +1,2 @@
+The following example assembly for a 12-1/4” hole is designed to have a 
+rotary hold tendency.

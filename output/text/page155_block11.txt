@@ -1,0 +1,3 @@
+Measurements of downhole WOB by MWD tools has confirmed that when 
+the BHA is rotated there is only a small reduction in WOB due to drag. 
+This reduction is usually compensated for by using a “safety factor”.

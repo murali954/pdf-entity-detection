@@ -1,0 +1,3 @@
+hole size, collar OD, etc.), the collars are contacting the low side of the 
+hole and any further increase in this distance will have no additional effect 
+on build rate.

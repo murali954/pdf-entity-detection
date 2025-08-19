@@ -1,0 +1,3 @@
+This gives a choke line friction pressure loss of 300 psi. If the old mud 
+density was 10 ppg, and the kill mud required is 11 ppg, the choke friction 
+pressure loss will become:

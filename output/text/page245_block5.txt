@@ -1,0 +1,1 @@
+Figure 5-41: Reduction of pendulum force due to wall contact.

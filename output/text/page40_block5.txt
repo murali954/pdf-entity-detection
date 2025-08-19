@@ -1,0 +1,6 @@
+• Determine the anticipated pump pressure, using:
+- mud properties
+- drill string configuration
+- bit size
+- total flow area for the bit
+- flow rate

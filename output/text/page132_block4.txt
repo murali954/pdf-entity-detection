@@ -1,0 +1,3 @@
+5.
+When near bottom, the last joint should be washed down slowly 
+at full flow and 40-50 rpm, to avoid plugging the bit with any fill.

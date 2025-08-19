@@ -1,0 +1,3 @@
+The normal procedure is to orientate the system and then set the packer. 
+After this, the starting mill is pinned to the whipstock and the whole 
+assembly run slowly in hole and seated in the packer.

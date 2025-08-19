@@ -1,0 +1,6 @@
+5.
+Collect data you will need for your writing: Most of the data will 
+come from the logging unit’s data collection devices (i.e. 
+computers, chart recorders, etc.). Additional data will come from 
+the logging geologists and DrillByte operators working at the 
+wellsite.

@@ -1,0 +1,10 @@
+The degree of hardness that can be produced in steel is determined by its 
+carbon content, the higher the percentage of carbon (up to 0.7%), the 
+harder the steel. By heat treating properly, it can be made up to about 65 
+Rc. Alloying elements improve the hardening potential in thick sections 
+and cause the steel to have a more uniform response to heat treating. The 
+steel must also be ductile (resistance to crack propagation). This ductility 
+or “toughness” of metals is inversely related to hardness (the harder a 
+metal, the less ductile. The softer the steel, the more ductile). Alloying 
+elements improve the ductility of steels and toughness, and resistance to 
+failure from impact loads.

@@ -1,0 +1,2 @@
+Hydraulic (Jet) Impact Force is based on the theory that cuttings are best 
+removed from beneath the bit when the force of the fluid leaving the jet

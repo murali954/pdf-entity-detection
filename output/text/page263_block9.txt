@@ -1,0 +1,6 @@
+•
+Allows for extended rotation of the motor with a low eccentricity 
+as compared to conventional bent sub or bent housing assemblies 
+with comparable dogleg capability. Rotation of the drill string 
+negates the effect of the bit tilt and the assembly theoretically 
+drills a straight, slightly oversize, hole.

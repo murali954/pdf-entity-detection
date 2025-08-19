@@ -1,0 +1,3 @@
+The BOP stack can only be used to stop the flow of fluids from the annulus. 
+Additional valves are used to stop the flow within the drillstring. These 
+valves include kelly cock valves and internal blowout preventers.

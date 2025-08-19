@@ -1,0 +1,6 @@
+Solids Content 
+% vol
+Water Content
+% vol
+Oil Content 
+% vol

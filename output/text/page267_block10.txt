@@ -1,0 +1,2 @@
+Using lower DLS and AKO settings, the motor can be rotated and used as a 
+steerable motor.

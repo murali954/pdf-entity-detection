@@ -1,0 +1,3 @@
+There is, however, one serious drawback to the roller-ball-roller bearing 
+system. The primary cause of roller bearing failure is journal spalling, 
+which causes destruction of the rollers and the locking of the cone.

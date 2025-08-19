@@ -1,0 +1,3 @@
+If performance is based on using penetration rate as the criteria, bit #15 
+would appear to be superior. Referring to the cost-per-foot comparison, bit 
+#16 gave the best performance, at $4.63/ft cheaper than bit #15.

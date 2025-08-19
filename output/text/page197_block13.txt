@@ -1,0 +1,6 @@
+Inner slots are used to drill to the innermost targets (i.e. targets with the 
+smallest horizontal distances from the platform) and these wells will be 
+given slightly deeper kick-off points. The outer slots are used to drill to 
+targets which are furthest from the platform. These wells will be given 
+shallow kick-off points and higher build-up rates to keep the maximum 
+inclination as low as possible.

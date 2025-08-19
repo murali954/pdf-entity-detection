@@ -1,0 +1,9 @@
+Pumping of Pre-flush 
+=  20 bbls @ 2.5 bbl/min 
+= 8 min 
+ High Pressure Mixing
+=  165 bbls @ 2.5 bbl/min =  66.0 min 
+ Displacement Time 
+=  379.3 bbls @ 8 bbl/min =  47.4 min 
+ Time to Drop Plugs
+=  10 minutes

@@ -1,0 +1,4 @@
+The pressure differential between the drilling fluid and the permeable 
+formation is determined using the hydrostatic pressure of the drilling fluid 
+(0.0519 x MD x TVD) and the estimated pore pressure of the permeable 
+formation.

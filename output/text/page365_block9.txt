@@ -1,0 +1,2 @@
+This value can be calculated prior to a bit run. If the calculated value is not 
+being met, then a new (or cheaper) bit may have to be run.

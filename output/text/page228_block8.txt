@@ -1,0 +1,7 @@
+5.
+Turn the pipe to achieve the desired tool face orientation. This 
+orientation should include an allowance for the anticipated 
+reactive torque. A rough rule of thumb is to allow 10° /1000' for 
+lower torque motors (Mach 2) and 20° /1000' for higher torque 
+motors (Mach 1), but remember the reactive torque obtained is a 
+function of WOB and differential pressure across the motor.

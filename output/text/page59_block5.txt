@@ -1,0 +1,4 @@
+In the “Advanced Logging Procedures Workbook” (P/N 80269H), an 
+introduction to hydraulics illustrates the Bingham method for hydraulic 
+optimization. The second, and more commonly used method is the Power 
+Law Model.

@@ -1,0 +1,9 @@
+Similarly, procedures which through its implementation, places high 
+stresses on the wellbore should not be used in preference to others which 
+impose lower stresses on the wellbore. Reference to the above points 
+illustrates that the one circulation method places the minimum stresses on 
+both the wellbore and surface equipment. When a kick is circulated out the 
+maximum stresses occur very early in the circulation - particularly in deep 
+wells with higher pressures. At any point in the borehole, the maximum 
+stress is imposed on the formation when the top of the kick fluid reaches 
+that point.

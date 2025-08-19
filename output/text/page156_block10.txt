@@ -1,0 +1,2 @@
+For example, to allow a 10% safety margin the safety factor in the formula 
+would be 1.1

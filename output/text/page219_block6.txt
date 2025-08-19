@@ -1,0 +1,5 @@
+The “Circulating Whipstock” is run, set and drilled like the standard 
+whipstock. However, in this case the drilling mud initially flows through a 
+passage to the bottom of the whipstock which permits more efficient 
+cleaning of the bottom of the hole and ensures a clean seat for the tool. It is 
+most efficient for washing out bottom hole fills.

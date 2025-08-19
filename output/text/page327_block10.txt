@@ -1,0 +1,5 @@
+What should happen (as the pumps are brought up to speed) is that the 
+choke should be opened to allow the choke line pressure to drop to zero. 
+The casing pressure at the wellhead will still read 300 psi and the drillpipe 
+pressure will be maintained at the desired ICP. The choke line friction 
+pressure drop of 300 psi has been substituted for the SICP of 300 psi.

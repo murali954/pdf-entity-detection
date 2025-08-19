@@ -1,0 +1,4 @@
+Bit Number24.0
+Bit Cost24000.00 $
+Bit Start Depth6578.0 ftRig Cost/hr1000.00 $
+Average Trip Speed9.80 ft/min

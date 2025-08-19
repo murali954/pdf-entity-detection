@@ -1,0 +1,3 @@
+4.
+Compute the volume and density of a mud composed of 25 lb of 
+bentonite, 60 lb of barite, and 1 bbl of fresh water.

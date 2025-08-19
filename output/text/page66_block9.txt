@@ -1,0 +1,4 @@
+Jet nozzles increase the speed of the drilling leaving the bit to around 225 
+ft/sec, and on many occasions the velocity is much greater. Because nozzle 
+velocity is so important in hydraulic optimization, it should be calculated 
+when the jets are installed in a bit. The formula is:

@@ -1,0 +1,6 @@
+Hydraulic programs for diamond bits must consider circulation rate and 
+pressure loss. There should be sufficient fluid and pressure to cool and 
+clean under the bit. Rig hydraulics do not require modification, but a good 
+optimum flow rate in the range of 4.5 to 7.0 gallons per minute per square 
+inch of hole area is necessary. It may be more or less if the hole or 
+operating conditions dictate and if the bit is designed for such conditions.

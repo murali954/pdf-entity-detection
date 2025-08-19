@@ -1,0 +1,3 @@
+•
+Determine the appropriate type of bit for a future bit run, given 
+the previous bit performances.

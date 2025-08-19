@@ -1,0 +1,19 @@
+Directional Control with Rotary Assemblies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-52
+Side Force and Tilt Angle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-52
+Factors Affecting Bit Trajectory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-53
+Basic Directional Control Principles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-53
+The Fulcrum Principle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-53
+The Stabilization (Packed Hole) Principle  . . . . . . . . . . . . . . . . . . . . . . 5-59
+The Pendulum Principle  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-64
+Summary and Recommended Practices. . . . . . . . . . . . . . . . . . . . . . . . . 5-66
+Bit Type Effects on Rotary Assemblies. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-70
+Roller Cone Bits. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-70
+PDC Bits  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-71
+Stiffness of drill collars . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-71
+Effects of Drill Collar O.D. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-73
+Formation Effects on Bit Trajectory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-74
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-75
+Relationship Between Dip Angle and Deviation Force. . . . . . . . . . . . . 5-75
+Effective Dip Angle in a Deviated Hole. . . . . . . . . . . . . . . . . . . . . . . . . 5-77
+Formation Hardness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-78
+Summary of Formation Effects  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5-79

@@ -1,0 +1,5 @@
+During the eighties it became common practice to use PDC bits for rotary 
+drilling, with low WOB and high rotary speeds. When rotary drilling with 
+PDC bits, it has been found that almost no walk occurs (the assemblies 
+hold their direction). It has also been found that inclination angle is 
+affected by PDC bits, particularly when an angle drop assembly is used.

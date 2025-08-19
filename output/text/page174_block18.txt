@@ -1,0 +1,3 @@
+Proper evaluation of drillstring friction requires the use of a computer 
+program. These programs analyze drillstring friction for rotary drilling as 
+well as drilling with no drillstring rotation.

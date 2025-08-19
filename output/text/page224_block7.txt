@@ -1,0 +1,6 @@
+At the start of a kick-off, jetting is repeated every single until about 3º of 
+angle has been built. After that, it is normal to jet every “double”. After 
+drilling each section, the jet nozzle has to be re-orientated to the desired 
+tool face setting before jetting again. The operation is repeated until 
+sufficient angle has been built and the well is heading in the desired 
+direction.

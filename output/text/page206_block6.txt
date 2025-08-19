@@ -1,0 +1,8 @@
+PDMs come in various configurations. As has been mentioned previously, 
+the stator will have one more lobe than the rotor. The first types of PDMs, 
+and the simplest, are 1/2 motors. These generally give medium to low 
+torque output and medium to high rotary speed. Torque output is directly 
+proportional to pressure drop across the motor. The 
+1/2 motors have good applications in performance drilling with a PDC, 
+diamond, or TSP-type bits. Some shorter models are used for directional 
+purposes.

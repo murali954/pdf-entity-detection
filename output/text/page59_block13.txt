@@ -1,0 +1,4 @@
+Once these values have been determined, they are used in calculating the 
+pressure losses throughout the circulating system. This section will 
+describe the pressure losses, using the Power Law Model, in the surface 
+system, the drillstring, and the annulus.

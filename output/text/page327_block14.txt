@@ -1,0 +1,4 @@
+The casing pressure must be held constant while the pumps are brought up 
+to speed. The desired pressure on the casing side is 400 psi minus 300 psi, 
+or 100 psi while pumping. The choke would be opened up and adjusted to 
+100 psi, the choke line friction remains at 300 psi and the casing side will

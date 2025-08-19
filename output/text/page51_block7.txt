@@ -1,0 +1,4 @@
+Alkalinity, Mud
+Pm 
+Alkalinity, Filtrate
+Pf/Mf

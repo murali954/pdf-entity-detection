@@ -1,0 +1,4 @@
+•
+Use drilling and formation evaluation information to suggest 
+when the zone of interest has been penetrated and when the bit 
+has left this zone.

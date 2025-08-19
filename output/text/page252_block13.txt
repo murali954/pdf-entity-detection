@@ -1,0 +1,4 @@
+where
+W = weight/foot of the drill collar in air,
+ BF =  buoyancy factor of the drilling mud
+ Θ= inclination of the wellbore

@@ -1,0 +1,6 @@
+The previous discussion was restricted to the simple case when the higher 
+grade pipe is totally in the vertical portion of the well. If the higher grade 
+pipe is used through a build-up section, the calculation becomes more 
+difficult. A rough approximation could be obtained by treating each stand 
+length as a straight section of hole and using the average inclination of that 
+course length. The weight this exerts along the borehole is found from:

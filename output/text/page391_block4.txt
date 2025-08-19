@@ -1,0 +1,8 @@
+45.
+Write down a packed assembly which could be used to hold 
+angle in the tangent section of a directional well. Assume the 
+inclination angle is in the range 45° - 50° and that the 12¼” hole 
+section is being drilled. Indicate the gauge of all stabilizers. 
+Suggest possible drilling parameters, assuming you are drilling 
+medium hardness formation. State whether a PDC or roller cone 
+bit is to be used.

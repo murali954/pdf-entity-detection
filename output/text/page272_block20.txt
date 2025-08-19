@@ -1,0 +1,3 @@
+•
+Minimizing rotary speed will slightly increase the fulcrum effect. This 
+practice can reduce oriented drilling intervals.

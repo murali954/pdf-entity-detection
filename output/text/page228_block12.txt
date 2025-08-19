@@ -1,0 +1,12 @@
+For directional work with a bent sub, PDMs offer several advantages over 
+turbines. When drilling with a PDM, the directional driller can use pump 
+pressure as a weight indicator. If the pump pressure is constant, the 
+differential pressure across the PDM is constant, so torque and WOB are 
+constant. It is also much easier to tell if a PDM has stalled because there 
+will be an immediate increase in surface pressure. PDMs give a longer bit 
+life than turbines because of the slower rotary speed. They can tolerate 
+LCM whereas turbines cannot. Finally, instead of using a bent sub, a PDM 
+with a small bend at the U-joint housing can be used. As this bend is nearer 
+to the bit, a smaller angle of bend will have the same effect as a larger bent 
+sub angle. This reduces the problem of the bit riding the side of the hole 
+while tripping in and out.

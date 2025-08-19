@@ -1,0 +1,15 @@
+Where:
+C 
+is the cost/ft for drilling the section of hole 
+CRig
+is the rig cost per hour
+CBit
+is the bit cost (each)
+CMotor
+is the cost per hour of drilling
+d
+is the distance drilled
+tD
+is the hours spend drilling
+tf
+is the hours spend tripping

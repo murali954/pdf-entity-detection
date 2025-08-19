@@ -1,0 +1,3 @@
+where: 
+%Vio  =  initial % of oil by volume (%) 
+%Vfo  =  final % of oil in liquid phase

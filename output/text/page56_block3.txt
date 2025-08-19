@@ -1,0 +1,2 @@
+improved sweep efficiency and an increased carrying capacity for larger 
+particles.

@@ -1,0 +1,8 @@
+Reactive torque causes a problem for directional drillers when they are 
+using a motor and bent sub to deflect the well-bore. The twisting of the 
+BHA caused by reactive torque changes the tool face orientation of the 
+bent sub. If they are obtaining tool face orientation from single shot 
+surveys, the directional driller has to estimate how much turn to the left 
+they will get due to reactive torque. They will set the tool face that number 
+of degrees round to the right of the desired tool face, so that the reactive 
+torque will bring it back to the setting required while drilling.

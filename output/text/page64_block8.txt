@@ -1,0 +1,4 @@
+A cutting, traveling up the annulus, experiences a positive upward force 
+due to the drilling fluid velocity, density and viscosity, and a negative 
+downward force due to gravity. The rate at which a cutting falls is known 
+as its “slip velocity”.

@@ -1,0 +1,4 @@
+8.
+If the borehole contains a drilling mud of 15.0 ppg to a depth of 
+8000 ft and 10.0 ppg to TD of 10,500 ft, what is the effective 
+mud density at the bottom of the hole?

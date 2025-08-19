@@ -1,0 +1,6 @@
+The only time a kick can occur without warning is when drilling offshore 
+and there is no annular connection between the wellhead and the rig. 
+However, there is never a lack of indications that a kick or blowout is 
+occurring. In the majority of situations the borehole and mud pits are a 
+closed circulating system, the addition of any fluid from the formation will 
+result in a change in return flow and a change in the active pit volume.

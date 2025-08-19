@@ -1,0 +1,3 @@
+The low bit tilt and offset produced by the sub, means the string can be 
+rotated when oriented drilling is not required. Rotation of the drillstring 
+negates the bit tilt effect and the bit will usually drill a straight path.

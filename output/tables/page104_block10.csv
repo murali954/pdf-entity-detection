@@ -1,0 +1,11 @@
+-,Used,at,depth,ranges,from,0,to,8000,ft.,
+-,Used,at,temperatures,up,to,200oF,without,modifiers
+-,A,basic,cement,compatible,with,accelerators,or,retarders
+-,Usable,over,the,complete,ranges,of,A,to,E,with,additives
+-,Additives,can,be,blended,at,bulk,station,or,at,well,site
+-,Class,H,is,a,coarser,grind,than,Class,G
+*,Class,G,slurry,weight,is,15.8,ppg
+*,Class,G,mixing,water,requirement,-,44%,(4.96,gal/sk,&,0.663,ft3/sk)
+*,Class,G,slurry,yield,-,1.14,ft3/sk
+*,Class,H,slurry,weight,is,15.6,(shallow),to,16.4,(deep),ppg
+*,Class,H,API,water,requirement,-,46%,(5.2,gal/sk,&,0.69,ft3/sk),to,38%,(4.3,gal/sk,&

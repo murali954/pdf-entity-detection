@@ -1,0 +1,3 @@
+4.
+Drilling time will be calculated on the basis of on-bottom drilling 
+hours (i.e. excluding connections).

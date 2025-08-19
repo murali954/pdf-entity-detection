@@ -1,0 +1,3 @@
+1. Can the problem be related to deviation or the 
+BHA?
+1. Check if overpulls are increasing on each trip

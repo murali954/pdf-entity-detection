@@ -1,0 +1,3 @@
+The Oil: Water Ratio is defined as the percent oil in the liquid phase and 
+the percent water in the liquid phase. The percentages can be determined 
+from a retort analysis of the drilling fluid.

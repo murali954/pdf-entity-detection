@@ -1,0 +1,1 @@
+Critical Buckling Force = 30,769 lbs

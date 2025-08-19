@@ -1,0 +1,5 @@
+One argument for using a soft shut-in is that it reduces the water-hammer 
+effect of abruptly stopping fluid flow, and it provides an alternative means 
+of well control should the casing pressure become excessive. The primary 
+argument against the soft shut-in is that a continuous influx occurs while 
+the shut-in procedures are executed.

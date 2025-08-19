@@ -1,0 +1,4 @@
+Figure 5-34: Gradual Angle Build Assembly   
+17½” bit / 17½” NB stab /9½ x 12’ DC / 9½ x 30’ DC / 17½” stab / 9½” x 30’ DCs 
+as needed / etc. This assembly will build typically at 0.5° - 1.5°/100’, 
+depending on the inclination and the drilling parameters

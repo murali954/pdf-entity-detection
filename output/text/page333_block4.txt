@@ -1,0 +1,4 @@
+areas, such as reserve pits, burn pits, or degassers. Since vibrations occur 
+during kill operations, the manifold must be securely anchored down, with 
+as few bends as possible to prevent washouts under high pressure flow 
+conditions.

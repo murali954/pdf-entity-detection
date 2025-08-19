@@ -1,0 +1,2 @@
+As shown above, the test is repeated for several different values of rotary 
+speed in order to find the optimum rotary speed also.

@@ -1,0 +1,4 @@
+These are external pressures which are “imposed” into the well. Since the 
+well is open to the atmosphere, the well must be “shut-in” for there to be an 
+imposed pressure. This type of pressure will always be felt uniformly 
+throughout the shut-in well. Imposed pressures originate from:

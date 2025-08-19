@@ -1,0 +1,2 @@
+It should be emphasized that in most formations, the rock properties have a 
+minimal effect on the BHAs directional response.

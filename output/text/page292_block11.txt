@@ -1,0 +1,1 @@
+w  =  Drillpipe weight (lbs/ft)

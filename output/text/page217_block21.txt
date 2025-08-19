@@ -1,0 +1,3 @@
+•
+A stabilized turbine used in tangent sections will normally cause the 
+hole to “walk” to the left.

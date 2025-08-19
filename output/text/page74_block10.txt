@@ -1,0 +1,1 @@
+d   =  Drillstring Outside Diameter (inches)

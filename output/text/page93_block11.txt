@@ -1,0 +1,3 @@
+The XCSG (Extremeline) couplings are different from the other three 
+connectors in that they are integral connectors, meaning the coupling has 
+both box and pin ends.

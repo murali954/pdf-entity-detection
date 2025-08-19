@@ -1,0 +1,3 @@
+Downhole stresses are prime concern during kill operations. If the extra 
+stresses imposed by the kick are greater than the minimum fracture 
+pressure in the open hole, fracturing occurs.

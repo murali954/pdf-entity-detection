@@ -1,0 +1,6 @@
+The borehole is seldom drilled in a smooth manner. Ledges and washouts 
+are common, especially when alternating hard/soft formations are drilled. 
+Problems with borehole geometry normally occur during tripping 
+operations. Remember, when tripping in, the drillstring is in compression 
+making it more flexible. When tripping out, the drillstring is in tension 
+making it more rigid. Preventive measures include:

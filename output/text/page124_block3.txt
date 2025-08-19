@@ -1,0 +1,5 @@
+The configuration of the gauge teeth determines the available surface area. 
+The “A” type teeth are standard for soft formation bits, resulting in 
+minimum gauge protection for drilling medium-hard formations. The “T” 
+type teeth provides the greatest amount of surface area for the application 
+of hard metal, and are used for abrasive formation bit types.

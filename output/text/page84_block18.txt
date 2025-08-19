@@ -1,0 +1,4 @@
+6.
+Bingham's Plastic Model defining the relationship of shear stress 
+and shear rate includes an additional feature to differ from the 
+Newtonian Model. What is that feature?

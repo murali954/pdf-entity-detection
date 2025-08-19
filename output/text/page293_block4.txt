@@ -1,0 +1,6 @@
+The stuck pipe location produced from this equation will be a best guess 
+value for a couple of reasons: (1) Since all boreholes are crooked to some 
+extent, there can be a considerable amount of friction between the borehole 
+and drillpipe, and (2) If the borehole is highly deviated, it will be very 
+difficult to place the drillstring in tension without it coming into contact 
+with the borehole.

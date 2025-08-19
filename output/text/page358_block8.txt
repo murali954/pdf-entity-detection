@@ -1,0 +1,2 @@
+2.
+Plot “K” value on “Y” (vertical) axis.

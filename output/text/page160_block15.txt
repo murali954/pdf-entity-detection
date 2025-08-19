@@ -1,0 +1,5 @@
+•
+When the drillstring is not rotated, the drill pipe is not subjected to the 
+cyclical stresses which occur during rotary drilling. Therefore, 
+sinusoidal buckling can be tolerated when there is no rotation of the 
+drillstring. Helical buckling however, must be avoided.

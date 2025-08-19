@@ -1,0 +1,1 @@
+WDC = weight per foot of the drill collars

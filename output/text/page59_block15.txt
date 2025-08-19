@@ -1,0 +1,3 @@
+System pressure loss calculations begin with the determination of the type/
+class of surface circulating equipment. These include the standpipe, rotary 
+hose, swivel, and kelly (if present). Though hardly ever consistent, four

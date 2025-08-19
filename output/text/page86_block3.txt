@@ -1,0 +1,3 @@
+14.
+Calculate the PV and YP using the following readings from the 
+Fann Meter.

@@ -1,0 +1,6 @@
+However, this will impose excessive pressures on the entire well system. 
+The 300 psi read on the casing pressure gauge is only valid while shut-in. 
+Once fluid movement occurs, this gauge is reading choke pressure - not 
+casing pressure. To read casing pressure while circulating, the kill line 
+must be used as a casing monitor. In this example, an extra 300 psi would 
+have been imposed on the drillpipe side and the casing side.

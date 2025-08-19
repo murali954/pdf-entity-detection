@@ -1,0 +1,7 @@
+Casing has several important functions during the drilling and completing 
+of a well. It is used to prevent the borehole from caving in during the 
+drilling of the well, to provide a means of controlling fluids encountered 
+while drilling, to prevent contamination of fluids to be produced, and to 
+protect or isolate certain formations during the course of a well. Casing is 
+also one of the most expensive parts of a well, around 20% of the cost of a 
+completed well.

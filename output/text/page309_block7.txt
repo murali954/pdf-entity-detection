@@ -1,0 +1,8 @@
+Older rigs may not have a trip tank, so reliance for volume checks is placed 
+on monitoring one of the active pits and pump strokes. PVT monitoring 
+provides a necessary cross-check, but because of the large surface area of 
+the active pits, precision may be limited. The mud pumps are a reasonably 
+efficient displacement monitor at low pressures and stroke-rates, and pump 
+strokes are often used to measure the amount of fluid displaced, while 
+tripping out. It is normal for the hole to take slightly more mud than the 
+volume of the pipe removed, due to static filtration into the formation.

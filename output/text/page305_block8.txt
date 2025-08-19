@@ -1,0 +1,6 @@
+Swabbing of Formation Fluids Into the Borehole: When pipe is pulled it 
+acts like a piston, more so below than above the bit. Both gel strength and 
+viscosity of the mud have a large effect on swabbing. Swabbing is further 
+increased if the mud cake is thick, the bit is balled-up, the nozzles are 
+blocked, or a back-pressure valve is in the drillstring. The speed at which 
+pipe is pulled also has a great effect on swabbing.

@@ -1,0 +1,6 @@
+During the course of a well, there are many operations or items within 
+those operations which can prevent stuck pipe from occurring. Even when 
+problems are evident, there are generally ways to prevent the drillstring 
+from sticking. This section will list the most common causes of stuck pipe, 
+the most commonly used operations to prevent the drillstring from sticking, 
+and the operations required if preventive measures fail.

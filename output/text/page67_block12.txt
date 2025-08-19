@@ -1,0 +1,1 @@
+where:    Hps   =  Surface Horsepower

@@ -1,0 +1,4 @@
+The force necessary to free the drillstring will be proportional to the area of 
+contact and pressure differential, and will increase with time because of 
+filter cake build-up. Due to the filter cake build-up, the area of contact can 
+double by the thickening of the filter cake.

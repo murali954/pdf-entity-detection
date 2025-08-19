@@ -1,0 +1,9 @@
+In the case of an underground blowout, lost circulation, or situations 
+requiring the low choke pressure control, it may become necessary to 
+attempt well control using a weighted settling plug. These are 
+deflocculated slurries of weight material in water or oil, weighing between 
+18 and 26 ppg, which bridge the hole as a result of high water loss and the 
+rapid settling of the weight material once circulation is stopped. Hematite 
+is recommended if slurry densities over 22 ppg are required and/or if the 
+influx contains H2S, because hematite can act as a secondary scavenger 
+(removing the gas by absorption).

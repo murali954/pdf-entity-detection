@@ -1,0 +1,2 @@
+5. Was the hole adequately cleaned?
+5. Correlate deviation with BHA configuration.

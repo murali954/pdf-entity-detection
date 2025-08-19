@@ -1,0 +1,3 @@
+“The pressure at any point in a static fluid is the same in all directions. Any 
+pressure applied to a fluid is transmitted undiminished throughout the 
+fluid.”

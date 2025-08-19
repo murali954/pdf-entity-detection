@@ -1,0 +1,2 @@
+b. relative stability is recorded as the amount of voltage at the 
+breakdown point

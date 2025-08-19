@@ -1,0 +1,4 @@
+Tetracalcium Aluminoferrite - 4CaO:Al2O3:Fe2O3   -   C4AF 
+1. Promotes low heat of hydration in cement
+2. Hydration equation: 
+4CaO:Al2O3:Fe2O3 + 10H2O + 2Ca(OH)2 ---> 6CaO:Al2O3:Fe2O3:12H2O

@@ -1,0 +1,3 @@
+θ is borehole inclination.
+r is radial clearance between the pipe tool joint and the 
+borehole wall.

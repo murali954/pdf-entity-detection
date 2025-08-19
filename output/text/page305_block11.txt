@@ -1,0 +1,4 @@
+Poor Well Planning: Both mud and casing programs have a great bearing 
+on well control. These programs must be flexible enough to allow 
+progressively deeper casing strings to be set; otherwise a situation may 
+arise where it is not possible to control kicks or lost circulation. Well

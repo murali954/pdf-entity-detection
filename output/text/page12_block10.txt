@@ -1,0 +1,3 @@
+Torque & Drag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-30
+Along Hole Components of Force. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-30
+Computer Models of Drillstring Friction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-30

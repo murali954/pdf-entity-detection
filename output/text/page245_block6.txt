@@ -1,0 +1,6 @@
+Some elementary texts on directional drilling depict the pendulum effect as 
+shown in Figure 5-42. The implication being that part of the dropping 
+tendency is produced by a downward tilt of the bit axis. It is interesting to 
+note that if this picture were true then the dropping tendency would be 
+increased by increasing WOB and reducing rotary speed, the precise 
+opposite of what is recommended.

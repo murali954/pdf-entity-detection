@@ -1,0 +1,8 @@
+One rare occurrence when surface recognition may be delayed is during 
+lost circulation. The annulus is not full and cannot be filled. When the rate 
+of loss is greater than the rate at which fluid can be pumped into the hole, it 
+is not possible to monitor the fluid levels. A major influx may occur and it 
+will not be detected at the surface. If such an event occurs, the well should 
+be shut in, and the shut-in pressures monitored. Pipe movement can be 
+made by stripping through the BOP's and the hole can be filled using the 
+choke and kill lines.

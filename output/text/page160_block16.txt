@@ -1,0 +1,2 @@
+Helical buckling occurs at 1.41 FCR, where FCR is the compressive force 
+at which sinusoidal buckling occurs.

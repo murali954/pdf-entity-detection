@@ -1,0 +1,2 @@
+The Reynolds Number, used in the annular Power Law Model calculations 
+is calculated using equivalent viscosity (µ):

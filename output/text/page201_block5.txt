@@ -1,0 +1,7 @@
+The idea of using downhole motors to directly turn the bit is not a new one. 
+One of the first commercial motors was turbine driven. The first patent for 
+a turbodrill existed in 1873. The USSR focused efforts in developing 
+downhole motors as far back as the 1920’s and has continued to use motors 
+extensively in their drilling activity. After 1945, the West focused efforts 
+more on rotary drilling, but field applications for downhole motors has 
+increased spectacularly from the 1980’s onwards.

@@ -1,0 +1,5 @@
+Clause
+Group of words containing subject and verb, used as part of 
+a sentence. May be independent (a sentence) or dependent 
+(as subject and predicate but does not express a complete 
+thought).

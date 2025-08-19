@@ -1,0 +1,4 @@
+6.
+When orienting, turn the pipe to the right unless the turn is less 
+than 90° left of the present setting. Work the string up and down 
+so that the turn reaches the bottomhole assembly.

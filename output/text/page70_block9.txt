@@ -1,0 +1,2 @@
+1.
+the fluid velocity decreases rapidly once it leaves the nozzles

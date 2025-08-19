@@ -1,0 +1,6 @@
+This initial decrease is not seen in the two circulation method, since the 
+mud density has not changed, and as can be seen, the casing pressure 
+increases as the gas expansion displaces mud from the hole. The second 
+pressure difference is noted when the gas approaches the surface. The two 
+circulation method, again, has the higher pressures which is the result of 
+circulating the original mud density during the first circulation.

@@ -1,0 +1,3 @@
+If the formation at the shoe is the weakest point in the borehole at what 
+depth did the formation take mud during this leak-off test? _______ ft.
+(Hint: compare the values of EQMD at each depth calculated.)

@@ -1,0 +1,7 @@
+Usually, thrust bearings are made up of rubber discs (Figure 5-24) which 
+are non-rotating (being fixed to the outer housing of the tool) and rotating 
+steel discs attached to the central rotating shaft. Long bearing sections 
+known as cartridges are used for long life in tangent or straight hole drilling 
+sections. These are changeable at the rigsite. If the bearings wear past the 
+maximum point, considerable damage can be inflicted as the steel rotors 
+will crash into the stators below.

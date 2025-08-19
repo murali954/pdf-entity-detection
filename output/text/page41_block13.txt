@@ -1,0 +1,2 @@
+Gradient @ Shoe = _______ psi/ft
+Gradient @ 9,000 ft. = _______ psi/ft

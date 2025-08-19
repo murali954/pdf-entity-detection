@@ -1,0 +1,3 @@
+The tool joints on drill pipe may contain internal and/or external upsets. An 
+upset is a decrease in the ID and/or an increase in the OD of the pipe which 
+is used to strengthen the weld between the pipe and the tool joint. It is

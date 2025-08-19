@@ -1,0 +1,4 @@
+When kicking off or sidetracking, high tilt steerable motors are 
+recommended. The tilt angle selected should produce a greater dogleg 
+severity in the oriented mode than the rate of change specified in the well 
+plan.

@@ -1,0 +1,7 @@
+In medium to hard rocks, which have an appreciable degree of anisotropy, 
+directional tendencies can be significantly affected by formation attitudes 
+and in particular by the effective dip angle of the bedding planes. If the 
+effective dip angle is less than 45° - 60º, the bit tends to drill up-dip. When 
+the effective dip angle is greater than 60°, the bit tends to drill down dip. 
+When the effective dip angle is approximately 0°, there is no tendency to 
+deviate.

@@ -1,0 +1,3 @@
+•
+Normal forces of drillstring/well bore contact at each drillstring 
+element

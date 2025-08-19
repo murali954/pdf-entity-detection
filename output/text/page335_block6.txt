@@ -1,0 +1,9 @@
+When using the Low Choke method, the weight material should be added 
+to the mud system as rapidly as possible, while applying the maximum 
+allowable casing pressure, because the annular pressure drop will aid this 
+method. The highest possible circulation rates possible should be used 
+(except in the case of subsea BOP stacks where the choke line friction will 
+be excessive. In these cases, the returns should be circulated up both the 
+choke and kill lines, and circulation carried out at the maximum rate that 
+will not cause shoe breakdown due to the imposed choke and kill line 
+friction pressures).

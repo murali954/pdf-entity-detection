@@ -1,0 +1,4 @@
+Since the rotor is spiral shaped, it does not rotate concentrically, rather it 
+traces a back and forth motion. This motion must be converted to a 
+concentric motion to be transmitted to the bit via the drive sub. This is 
+achieved by a connecting rod assembly. There are several types.

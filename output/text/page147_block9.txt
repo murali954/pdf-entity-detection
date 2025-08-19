@@ -1,0 +1,2 @@
+Class 1 drill pipe is New and therefore the strongest. As pipe is used, the 
+wall thickness will be gradually reduced. This reduction of the drill pipe

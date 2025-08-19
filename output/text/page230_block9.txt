@@ -1,0 +1,3 @@
+A negative answer means the angle is measured anti-clockwise or left of 
+high side. The above formula is based on the fact that the high side 
+direction is the azimuth of the borehole.

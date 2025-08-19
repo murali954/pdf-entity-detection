@@ -1,0 +1,1 @@
+L = length between the bit and string stabilizer = L1 + L2

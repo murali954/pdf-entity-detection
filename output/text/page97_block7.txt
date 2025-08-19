@@ -1,0 +1,5 @@
+From carbide data or borehole caliper, hole enlargements can be estimated. 
+If it isn't known, then a “percent excess” is attached to the volume 
+(anywhere between 25% to 100% of the annular volume). Once the annular 
+volume is determined, then a minimum excess factor is applied (normally 
+10% to 15%) to the total.

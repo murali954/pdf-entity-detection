@@ -1,0 +1,2 @@
+The assembly will be run to bottom, a survey is taken and the large jet 
+nozzle (the “tool face”) is orientated in the required direction.

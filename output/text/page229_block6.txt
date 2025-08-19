@@ -1,0 +1,3 @@
+One drawback of this combination is that reactive torque changes the tool 
+face when drilling commences, which may also make it difficult to keep a 
+steady tool face. Also the motors are expensive and require maintenance.

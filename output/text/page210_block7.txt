@@ -1,0 +1,6 @@
+The Mach 2 has a multi-stage, 1/2 rotor/stator configuration, which 
+generates low to medium torque at medium speeds for higher penetration 
+rates with less weight-on-bit. This makes it a good choice for drilling 
+straight and directional holes in difficult formations. The motor is 
+particularly suited for long-interval performance drilling with natural 
+diamond, TSP, or PDC bits.

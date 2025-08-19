@@ -1,0 +1,5 @@
+Since PDC bits are formation specific (best used in plastic formations), the 
+formation characteristics will determine the hydraulic energy required. The 
+drilling fluid will dictate the HSI, for water-based drilling fluids it will be 
+between 2.5 and 4.5, while for oil-based drilling fluids it will be between 
+1.5 and 3.0.

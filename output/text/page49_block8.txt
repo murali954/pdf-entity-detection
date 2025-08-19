@@ -1,0 +1,9 @@
+H2S as a gas is not particularly corrosive, however if moisture is present it 
+will become corrosive and in the presence of CO2 or O2, it becomes 
+extremely corrosive. Since H2S is soluble in drilling muds, as the pH 
+increases, the total amount of sulfides existing as H2S is reduced. The pH 
+should be maintained above 10 if known H2S bearing formations are to be 
+drilled. A scavenger should also be added to remove sulfides. The most 
+common scavengers are zinc carbonate, zinc chromate, zinc oxide, ironite 
+sponge (Fe304) and copper carbonate. The pH will have to be treated as 
+scavengers are added.

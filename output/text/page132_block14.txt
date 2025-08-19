@@ -1,0 +1,4 @@
+10.
+PDC bits respond dramatically to changing formations, if the rate 
+of penetration suddenly decreases or the bit starts torquing, a 
+change in the weight-on-bit and rotary speed should help.

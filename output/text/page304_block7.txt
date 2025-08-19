@@ -1,0 +1,4 @@
+Rig Control: This includes the BOP's, pumps, drawworks and other rig 
+equipment. This is the responsibility of the driller, and any 
+blowout control procedures should assign these operations to 
+the driller.

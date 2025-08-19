@@ -1,0 +1,4 @@
+the drillstring (downwards if possible) and apply right-hand torque. 
+Secondly, reducing the hydrostatic pressure may be an option (well control 
+considerations must be taken into account). The third operation involves 
+spotting a friction reducing fluid within the stuck zone.

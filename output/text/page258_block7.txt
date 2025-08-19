@@ -1,0 +1,8 @@
+In very soft formations, the formation can be eroded by the drilling fluid 
+exiting from the bit nozzles, creating an overgauge hole. This can make it 
+hard to build angle, even with a strong build assembly. If this problem is 
+anticipated then fairly large nozzles should be fitted into the bit. If it occurs 
+while drilling, the pump rate should be reduced and prior to making each 
+connection, increase the flow rate to clean the hole with the bit one joint off 
+bottom. Hole washing or enlargement in soft formations may also cause 
+packed assemblies to give a dropping tendency at high inclinations.

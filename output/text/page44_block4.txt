@@ -1,0 +1,6 @@
+One of the most important reports at the wellsite is the daily drilling fluid 
+report, or “mud report”. In addition to containing basic well and rig 
+information, chemical inventory and mud system costs, the mud report will 
+contain a list of the fluid properties of the mud system. To maintain the 
+required properties, certain tests are conducted on the drilling fluid. The 
+most important are listed below.

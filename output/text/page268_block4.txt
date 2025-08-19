@@ -1,0 +1,8 @@
+Typically, the rate of penetration will increase when switching from the 
+oriented mode to the rotary mode. As a rule of thumb, the tilt angle selected 
+should theoretically produce a minimum of 1.25 times the maximum 
+dogleg severity required for the well plan. Directional drillers must keep in 
+mind that the TGDS (Theoretical Geometric Dogleg Severity) assumes that 
+tool face orientation is constant. In practice this is difficult to do, especially 
+in high torque applications. As a result of a constantly changing tool face 
+orientation, the actual rate of change could be less than expected.

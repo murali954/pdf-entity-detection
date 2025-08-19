@@ -1,0 +1,3 @@
+This was the first directional control principle to be formulated and was 
+originally analyzed for slick assemblies drilling straight holes. We shall 
+concentrate on pendulum assemblies used in deviated wells.

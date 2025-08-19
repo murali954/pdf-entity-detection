@@ -1,0 +1,6 @@
+When an alignment bent sub (ABS) is fitted to the top of the motor and 
+used in conjunction with the AKO, the motor configuration can be used for 
+building angle, as in a fixed angle build motor. Orientation of the motor 
+and drillstring is possible in this configuration, but not rotation. The 
+maximum build rate possible from this configuration is approximately 20°/
+100 ft.

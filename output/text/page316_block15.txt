@@ -1,0 +1,8 @@
+During the first circulation, the mud density in the pits is raised to the kill 
+mud density. When the kill mud volume has been achieved, the kill mud is 
+circulated. As with the first circulation, the choke is opened and the pump 
+speed increased to the kill rate (with the annulus pressure kept constant). 
+The annular pressure is kept constant by manipulating the choke until the 
+kill mud has reached the bit. As kill mud begins to fill the system, the 
+drillpipe pressure will decrease from the initial circulating pressure to the 
+final circulating pressure (see Figure 8-2).

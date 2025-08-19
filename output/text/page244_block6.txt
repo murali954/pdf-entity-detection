@@ -1,0 +1,8 @@
+The portion of the BHA from the bit to the first string stabilizer hangs like 
+a pendulum and, because of its own weight, presses the bit towards the low 
+side of the hole. The major design feature of a pendulum assembly is that 
+there is either no near-bit stabilizer or an undergauge near- bit stabilizer. In 
+most cases where a pendulum assembly is used, the main factor causing 
+deviation is the force at the bit acting on the low side of the hole. The 
+length of collars from the bit to the first string stabilizer (the “pendulum”) 
+must not be allowed to bend too much towards the low side of the hole.

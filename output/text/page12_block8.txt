@@ -1,0 +1,9 @@
+BHA Weight & Weight-On-Bit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-11
+Required BHA Weight For Rotary Assemblies. . . . . . . . . . . . . . . . . . . . . . . . . 4-11
+Running Drill Pipe In Compression. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-13
+Critical Buckling Force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-14
+Calculating Critical Buckling Force . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-14
+Calculating BHA Weight With Drill Pipe In Compression. . . . . . . . . . . . . . . . 4-15
+BHA Requirements When The Drillstring Is Not Rotated . . . . . . . . . . . 4-16
+BHA Weight For Steerable Motor Assemblies  . . . . . . . . . . . . . . . . . . . 4-16
+Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4-17

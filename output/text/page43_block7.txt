@@ -1,0 +1,4 @@
+Depending on the situation, one or more of these types of pressures may 
+exist in the well at any given time. If a type of pressure exists in the well 
+bore, it exists everywhere in the system. However, it’s magnitude may vary 
+throughout the system.

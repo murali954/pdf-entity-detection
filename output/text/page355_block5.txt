@@ -1,0 +1,9 @@
+Before deciding to run the more expensive bits (insert, PDC, or diamond) 
+through a zone previously drilled with a lower priced bit (mill tooth). It is 
+frequently desirable to define, as precisely as possible, the required 
+performance of the next bit. This analysis may range from a simple cost-
+per-foot comparison, to more complicated and detailed investigations 
+involving drilling fluids, required operating conditions and other variables. 
+Since the ultimate goal of the drilling operation is to make a profit, any 
+comparison should be tied to total drilling cost or to drilling cost per foot of 
+hole.

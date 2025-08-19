@@ -1,0 +1,1 @@
+Shear,Stress,=,Yield,Stress,+,(Plastic,Viscosity,x,Shear,Rate)

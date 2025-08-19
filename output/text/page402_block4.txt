@@ -1,0 +1,5 @@
+16.
+If the first string stabilizer diameter is decreased to less than the 
+UBHS, 1) in an upward toolface orientation, the oriented dogleg 
+will be increased, 2) in a downward orientation, the oriented 
+dogleg is reduced.

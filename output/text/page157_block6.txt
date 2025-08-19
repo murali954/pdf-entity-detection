@@ -1,0 +1,2 @@
+Total weight of drill collar 
+section = (180 x 220) + 3,400 + (90 x 154) = 56,860 lbs.

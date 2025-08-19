@@ -1,0 +1,7 @@
+This is defined as pumping fluid into the well without circulation back to 
+the surface. The fluid can be pumped down the drillpipe, down the annulus, 
+or both. In most instances this will result in formation fracturing. This will 
+occur at the weakest point, which is usually the formation near the last 
+casing shoe. Obviously, in underground blowouts or wells with lost 
+circulation, bullheading can prove useful since the fracture or loss zone 
+already exists.

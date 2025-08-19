@@ -1,0 +1,3 @@
+Increased temperature has the effect of reducing the viscosity of the liquid 
+phase and hence increasing filtration. With all other factors being constant, 
+the amount of filtrate will vary with the square root of time.

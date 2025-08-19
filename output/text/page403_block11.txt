@@ -1,0 +1,3 @@
+d.)
+Bending stresses and buckling forces that act on drill pipe in 
+horizontal holes can be pre-calculated and designed for.

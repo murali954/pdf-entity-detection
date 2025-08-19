@@ -1,0 +1,4 @@
+Shear rate is the rate of change as the fluid layers move past one another 
+per unit distance, and is measured in reciprocal seconds (i.e. (ft/sec)/ft) and 
+is usually written as seconds-1. To convert the dial reading to shear stress, 
+the dial reading is multiplied by 1.067 to give a reading in lb/100ft2.

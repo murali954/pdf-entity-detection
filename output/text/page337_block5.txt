@@ -1,0 +1,6 @@
+3.
+If the influx is below the washout (or bit) it must be allowed to 
+percolate upwards. Circulating above the influx serves no 
+purpose in removal of the influx. As the gas percolates upwards 
+it will expand and the excess pressure must be bled off carefully 
+to prevent further influx.

@@ -1,0 +1,2 @@
+Used to provide a weighted fluid higher than the fluids specific gravity. 
+Materials are barite, hematite, calcium carbonate and galena.

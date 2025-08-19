@@ -1,0 +1,4 @@
+A realistic approach to bit selection is to base the final decision on the 
+minimum cost-per-foot. In this way, it is possible to achieve an optimum 
+relationship between penetration rate, bit footage, rig cost, trip time and bit 
+cost.

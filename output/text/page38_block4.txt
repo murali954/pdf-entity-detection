@@ -1,0 +1,2 @@
+Pressure is defined as the force acting on a unit area. In the oil field, 
+pressure is commonly measured in pounds per square inch (psi).

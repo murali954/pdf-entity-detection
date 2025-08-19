@@ -1,0 +1,5 @@
+As with the journal angle, the offset will be different in each type of 
+formation. In soft formation bits, the maximum offset (3o skew angle) is 
+used to increase the gouging, scraping action. Medium formation bits add a 
+limited offset (2o skew angle) to develop cutter action. While hard 
+formation bits have no offset, to minimize gouging and scraping.

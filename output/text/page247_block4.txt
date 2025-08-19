@@ -1,0 +1,3 @@
+an under-gauge near-bit stabilizer if azimuth control is a 
+consideration. Typically, the near-bit stabilizer need only be 1/4” to 1/
+2” undergauge in order to produce a dropping tendency.

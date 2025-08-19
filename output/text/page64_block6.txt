@@ -1,0 +1,4 @@
+The only practical way to estimate the slip velocity (or relative sinking 
+velocity) of cuttings, is to develop empirical correlations based on 
+experimental data. Even with this approach, there is a wide disparity in the 
+results obtained by different authors.

@@ -1,0 +1,4 @@
+5.
+A pump pressure decrease, along with a pump stroke rate 
+increase becomes noticeable only when the kick fluid has been 
+displaced some distance up the annulus.

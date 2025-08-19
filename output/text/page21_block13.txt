@@ -1,0 +1,3 @@
+All drilling fluids have essentially the same properties, only the magnitude 
+varies. These properties include density, viscosity, gel strength, filter cake, 
+water loss, and electrical resistance.

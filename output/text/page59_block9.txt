@@ -1,0 +1,4 @@
+Both parameters can be determined from the Fann VG meter. “k” is 
+defined as the viscosity of a fluid at a shear rate of 1 sec-1. When “n” equals 
+1, the fluid is Newtonian. As the fluid becomes more shear thinning, the 
+“n” value decreases.

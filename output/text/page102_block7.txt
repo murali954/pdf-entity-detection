@@ -1,0 +1,9 @@
+Tricalcium Aluminate - 3CaO:Al2O3   -   C3A
+1. Promotes rapid hydration of cement 
+2. Controls the setting time of cement 
+3. Regulates the cements resistance to sulfate attack (HSR - High Sulfate Resistance)
+4. Gypsum usually added to control hydration and flash setting
+5. Produces most of the heat observed over first few days
+6. Hydration equation:
+3CaO:Al2O3 + 12H2O + Ca(OH)2 ---> 3CaO:Al2O3:Ca(OH)2:12H2O 
+3CaO:Al2O3 + 10H2O + CaSO4:2H2O ---> 3CaO:Al2O3:CaSO4:12H2O

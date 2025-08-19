@@ -1,0 +1,6 @@
+To remedy this, instead of the standard roller bearing assembly, the 
+“journal bearing” system utilizes solid metal bushings for direct cone to 
+journal contact. This offers a distinct mechanical advantage over roller 
+arrangements in that it presents a larger contact area at the load bearing 
+point. This distribution of the load eliminated the chief cause of roller 
+bearing assembly failure - spalling in the load portion of the bearing face.

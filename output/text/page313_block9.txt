@@ -1,0 +1,5 @@
+Situations may arise when the casing pressure causes downhole stresses 
+approaching or slightly exceeding the actual or estimated minimum 
+fracture pressure. In this case the well cannot be shut-in, and an alternate 
+method of kill control must be attempted. Maximum pressure at the surface 
+are determined by three factors:

@@ -1,0 +1,2 @@
+Trip Time, Hrs
+8 Bits @ 7 hr. each = 56 hrs.

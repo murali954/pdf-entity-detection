@@ -1,0 +1,6 @@
+The one and two circulation methods are simple in both theory and 
+execution. Choice between the two is dependent upon the other points 
+(time factor, surface pressures, downhole stresses, and so forth), and any 
+other limitations caused by the situation. The concurrent kill method is 
+relatively complex in operation and its reliability may be reduced through 
+its intricacy. Because of this, many operators have discontinued its use.

@@ -1,0 +1,2 @@
+15.
+From the data in question #14, calculate n and k.

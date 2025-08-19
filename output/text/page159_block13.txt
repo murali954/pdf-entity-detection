@@ -1,0 +1,4 @@
+This means that on high-angle wells in small hole sizes, a fraction of the 
+weight on bit can safely be provided by having drill pipe in compression. It 
+is suggested that 90% of the critical buckling force be used as the 
+maximum contribution to the weight on bit from ordinary drill pipe.

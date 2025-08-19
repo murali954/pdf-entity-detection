@@ -1,0 +1,3 @@
+5.
+Cutting size and mud density have a moderate influence on 
+cuttings transport

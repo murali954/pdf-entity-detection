@@ -1,0 +1,5 @@
+“Gel strength” is used to measure this time dependent behavior. This gel 
+strength measures the attractive forces of a fluid while under static 
+conditions. If the gel strength increases steadily with time, the gel strength 
+is classed strong or progressive. If it increases slowly with time, it is 
+classed as weak or fragile.

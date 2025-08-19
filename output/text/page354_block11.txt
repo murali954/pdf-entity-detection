@@ -1,0 +1,4 @@
+2.
+If the cost per foot exceeds the target figure, the hourly charge 
+for the motor will be scaled down until the target is achieved. 
+The minimum hourly rate for the motor will be 60% of list price.

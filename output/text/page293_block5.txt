@@ -1,0 +1,4 @@
+However, this calculation is simple to perform and is much better than the 
+industry's nomograms for stuck pipe stretch. The value from the SPL 
+equation will also provide a “near-enough” depth for a starting point when 
+a free-point indicator is lowered into the drillstring.

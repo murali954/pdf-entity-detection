@@ -1,0 +1,2 @@
+The dip and strike of the formation will affect the tendency of the NDS 
+assembly to walk.

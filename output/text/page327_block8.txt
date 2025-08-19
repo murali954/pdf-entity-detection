@@ -1,0 +1,4 @@
+All of the necessary kill calculations are made prior to circulating. If the 
+standard procedure for a surface stack is followed, the pump will be 
+brought up to speed, maintaining the casing pressure constant; the gauge 
+would read 300 psi.

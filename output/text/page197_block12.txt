@@ -1,0 +1,7 @@
+Even this is not always a simple task. From a directional driller's 
+viewpoint, slots on the North East side of the platform or pad should be 
+used for wells whose targets are in a North Easterly direction. 
+Unfortunately there are other considerations (e.g. water injection wells 
+may have to be grouped together for manifolding requirements). Also, as 
+more wells are drilled and the reservoir model is upgraded, targets can be 
+changed or modified.

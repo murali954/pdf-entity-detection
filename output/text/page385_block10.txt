@@ -1,0 +1,5 @@
+Where:
+Density of Clay   = 910 lb/bbl
+Density of Barite = 1470 lb/bbl
+ 
+Density of Water = 350 lb/bbl

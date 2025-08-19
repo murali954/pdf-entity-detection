@@ -1,0 +1,5 @@
+Figure 5-43: 30 foot Pendulum Assembly. 
+The rate of drop depends on the wellbore inclination and the 
+diameter and weight of the bottom drill collar, as well as the 
+drilling parameters. At 45° inclination, this assembly 
+would typically drop at 1.5° - 2.0°/100’.

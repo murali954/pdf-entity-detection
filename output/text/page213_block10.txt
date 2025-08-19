@@ -1,0 +1,5 @@
+This motor, with the AKO, can perform directional work when oriented in 
+a particular direction, and is capable of drilling straight ahead when the 
+drillstring is rotating. This is accomplished by tilting the bit relative to the 
+motor and/or applying a side force at the bit while maintaining a minimum 
+amount of bit offset relative to the axis of the motor.

@@ -1,0 +1,3 @@
+3.
+pressure loss - across the bit face (diamond bit) or through the jet 
+nozzles (PDC bit)

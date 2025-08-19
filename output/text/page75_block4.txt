@@ -1,0 +1,2 @@
+There is only one flow distribution that will fulfill this criterion, and it can 
+be found by trial and error through the use of the pressure loss equations.

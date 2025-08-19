@@ -1,0 +1,2 @@
+The choke line friction pressure may also be calculated by comparing the 
+circulating pressures recorded while circulating down the drillpipe and up

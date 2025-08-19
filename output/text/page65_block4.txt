@@ -1,0 +1,3 @@
+6.
+Hole size, string rpm, and drill rate have slight effects on cuttings 
+transport.

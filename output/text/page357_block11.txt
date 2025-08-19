@@ -1,0 +1,7 @@
+trip hrs
+Insert Bit Cost
+Rig Cost/Hr
+----------------------------------
++
+Hours*
+=

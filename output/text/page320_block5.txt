@@ -1,0 +1,11 @@
+Provided there is adequate supervision and communication, and the 
+method is completely understood, this can be a very effective way of 
+killing a kick. Figure 8-7 illustrates the irregularities in drillpipe pressure 
+with kill mud volume, caused by the different densities of the mud. The 
+shut-in procedure is the same as that outlined previously. When all the kick 
+information has been recorded the pumps are activated slowly until the 
+initial circulating pressure has been reached at the designated kill rate. The 
+mud should be weighted up as fast as possible, and, as the mud density 
+changes in the suction pit, the choke operator is informed. The total pump 
+strokes are checked on the drillpipe pressure chart when the new density is 
+pumped and the choke is adjusted to suit the new drillpipe conditions.

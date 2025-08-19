@@ -1,0 +1,4 @@
+If, however, a zone of lost circulation is encountered at the bit, the flow 
+may be from a shallower zone to a deeper zone. The loss of hydrostatic 
+head may induce an upper zone to kick. While the flow will generally be to 
+the zone of lost returns, this is not always the case.

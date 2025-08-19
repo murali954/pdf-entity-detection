@@ -1,0 +1,4 @@
+The drilling fluids density is measured using a “mud balance”. This 
+balance contains a mud cup on one end of a beam with a fixed counter 
+weight on the other end of the beam. The beam is inscribed with a 
+graduated scale, contains a level bubble and a movable rider.

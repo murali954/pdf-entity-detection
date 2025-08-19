@@ -1,0 +1,5 @@
+Occasionally, these functions require the drilling fluid to act in conflicting 
+ways. It can be seen that items #1-3 are best served if the drilling fluid has 
+a high viscosity, whereas items #4-5 are best accomplished with a low 
+viscosity. Items #6 & 8 are often mutually exclusive because drilled solids 
+will tend to pack into the pore spaces of a producing formation.

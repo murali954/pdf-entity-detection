@@ -1,0 +1,1 @@
+Uses a large journal angle (39o), to minimize cutter action.

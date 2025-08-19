@@ -1,0 +1,2 @@
+2.
+Surface to bit time at kill rate (in strokes and minutes)

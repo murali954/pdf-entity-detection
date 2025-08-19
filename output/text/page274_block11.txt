@@ -1,0 +1,3 @@
+Typical rotary drop rates are seldom much higher than 1º/100 ft, with 0.5º 
+to 0.75º/100 ft commonly produced when the angle is less than 20º. If 
+higher drop rates are required, then oriented drilling will be mandatory.

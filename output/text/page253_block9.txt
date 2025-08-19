@@ -1,0 +1,7 @@
+The thing to notice is that most types of steel and monel which are actually 
+used in drill collars have about the same modulus of elasticity and density. 
+So in practice the stiffness of a drill collar depends almost entirely on its 
+outside diameter and is proportional to the fourth power of the OD. 
+However, aluminum drill collars would be more limber than steel drill 
+collars of the same dimensions whereas tungsten collars would be much 
+stiffer.

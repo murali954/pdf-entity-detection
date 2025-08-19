@@ -1,0 +1,1 @@
+A collar’s axial moment of inertia I, is determined by:

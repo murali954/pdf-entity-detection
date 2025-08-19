@@ -1,0 +1,7 @@
+Several factors affect hole drag, including hole inclination, dogleg severity, 
+hole condition, mud properties, hole size, and drillstring component types, 
+sizes and placement. However, as mentioned earlier, in drilling situations 
+where the drillstring is not rotated (as when a steerable system is used in 
+the oriented mode) axial drag can become very significant and should be 
+evaluated using a Torque and Drag computer program. Torque and Drag 
+programs can be found in EC*Track and DrillByte.

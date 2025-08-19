@@ -1,0 +1,5 @@
+There are two types of systems: 1) invert emulsion, where water is the 
+dispersed phase and oil the continuous phase (water-in-oil mud), and 2) 
+emulsion muds, where oil is the dispersed phase and water is the 
+continuous phase (oil-in-water mud). Emulsifiers are added to control the 
+rheological properties (water increases viscosity, oil decreases viscosity).

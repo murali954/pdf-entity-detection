@@ -1,0 +1,1 @@
+Formation Pressure (psi):      SIDP + (MW x TVD x 0.0519)

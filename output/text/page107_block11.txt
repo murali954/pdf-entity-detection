@@ -1,0 +1,4 @@
+a. Valve closed or broken
+b. Hooked to wrong line
+c. Supply tank empty
+d. Obstruction in line

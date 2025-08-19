@@ -1,0 +1,4 @@
+The slope of the flow curve in the diagram is given by the absolute 
+viscosity, this is the shear stress divided by the shear rate. A typical flow 
+profile for a Newtonian fluid in a cylindrical pipe is a parabola, with a 
+maximum shear-rate at the wall and a minimum (0) at the center.

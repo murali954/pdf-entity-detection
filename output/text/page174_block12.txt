@@ -1,0 +1,3 @@
+N is the normal reaction force between the BHA element and the borehole 
+wall. If this normal reaction is due only to the weight of the BHA element 
+itself, then:

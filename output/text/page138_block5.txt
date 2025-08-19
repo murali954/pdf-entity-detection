@@ -1,0 +1,4 @@
+Drill rate, with good hydraulics, is nearly a straight line function of rotary 
+speed. Drilling rate will, therefore, continue to increase as rotary speed is 
+increased. The limits are usually imposed by safety considerations for the 
+drill pipe.

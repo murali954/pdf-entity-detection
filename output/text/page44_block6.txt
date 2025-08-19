@@ -1,0 +1,4 @@
+The density of the drilling fluid is important to maintaining well control. 
+As mentioned earlier, fresh water has a density of 8.34 lb/gal, with a 
+corresponding gradient of 0.433 psi/ft. As long as the formations have the 
+same gradient, fresh water will “balance” the formation pressures.

@@ -1,0 +1,3 @@
+There are various ways of using cost per foot calculations to evaluate bit 
+runs. We have considered only some of the possibilities. However, all the 
+methods are simply variations of the basic cost per foot equation.

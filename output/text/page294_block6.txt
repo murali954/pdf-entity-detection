@@ -1,0 +1,4 @@
+These formations have a pore pressure which exceed the hydrostatic 
+pressure of the drilling fluid. If these formations are not permeable (for 
+example, shales), once drilled, these formations will “cave” into the 
+borehole. Preventive measures include:

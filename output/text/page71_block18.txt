@@ -1,0 +1,2 @@
+c) maintains uniform horizontal fluid velocity by tapering fluid 
+course depth as they approach the outside diameter

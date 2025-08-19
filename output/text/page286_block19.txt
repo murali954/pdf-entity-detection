@@ -1,0 +1,6 @@
+Pore Pressure
+Evaluation
+a. Geopressure
+b. Differential Sticking
+a. Detecting abnormal or sub-normal pore pressure
+b. Calculation of ECD and amount of overbalance

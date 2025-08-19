@@ -1,0 +1,3 @@
+All kill procedures require data concerning drillstring geometry, hole 
+geometry, mud density, pump rates, pressure losses, and fracture pressure. 
+Important data that is required prior to initiating kill procedures include:

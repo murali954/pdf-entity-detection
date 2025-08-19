@@ -1,0 +1,4 @@
+This program, developed at the Drilling Research Center in Celle, 
+Germany, is used to calculate torque and drag when a friction factor 
+(coefficient of sliding friction) is known or estimated. It will calculate the 
+friction factor when either torque or hookload is known.

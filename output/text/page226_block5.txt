@@ -1,0 +1,6 @@
+The bent sub acts as the pivot of a lever and the bit is pushed sideways as 
+well as downwards. This sideways component of force at the bit gives the 
+motor a tendency to drill a curved path, provided there is no rotation of the 
+drill string. The degree of curvature (dogleg severity) depends on the bent 
+sub angle and the OD of the motor, bent sub and drill collars in relation to 
+the diameter of the hole. It also depends on the length of the motor.

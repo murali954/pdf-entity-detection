@@ -1,0 +1,4 @@
+1.
+Controlled circulation of the kick with drillpipe pressure while 
+allowing the casing pressure to increase. This can lead to 
+mechanical failure of the casing and/or formation breakdown.

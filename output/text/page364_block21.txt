@@ -1,0 +1,5 @@
+The pistons on the mud pumps stroke forward and backward to push the 
+drilling fluid through the system. The stroke rate is measured in strokes per 
+minute (spm). A set number of strokes per minute are necessary to circulate 
+at the predetermined flow rate and pressure. With the pump pressure 
+constant variations in the stroke rate can indicate problems.

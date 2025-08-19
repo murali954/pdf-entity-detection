@@ -1,0 +1,5 @@
+The capability to drill either oriented or rotary with the same tool is made 
+possible by incorporating a Double-Tilted U-joint housing (DTU) and a 
+longer U-joint assembly on a standard Mach 1 or Mach 2 PDM. The DTU 
+creates a small tilt much closer to the bit than a conventional bent sub 
+assembly, producing a lower bit offset.

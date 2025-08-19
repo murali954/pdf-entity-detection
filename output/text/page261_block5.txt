@@ -1,0 +1,6 @@
+As illustrated in Figure 5-56, one blade is larger in surface area and is 
+offset by 1/8-inch. When the drill string is rotated, the offset stabilizer has 
+no effect on the well path. When it is desired to deflect the well path, the 
+toolface (the point opposite the center of the offset blade) is orientated 
+using an MWD tool. Drilling continues with no rotation from surface and 
+the turbine drills a curved path.

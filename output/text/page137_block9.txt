@@ -1,0 +1,8 @@
+Pressure is required to force the fluid over the face of the bit at velocities 
+high enough to provide adequate cooling and cleaning. When the bit is off 
+bottom, the fluid has a nearly unrestricted flow, but on bottom, the fluid 
+must pass through a small area made up of fluid courses in the bit and the 
+hole itself (clearance is the space between the bit matrix and the 
+formation). This results in an off-on bottom pressure difference in a range 
+of 100 to 1,000 psi depending on the total fluid area and operating 
+conditions (mud density, bit weight, pump pressure, etc.).

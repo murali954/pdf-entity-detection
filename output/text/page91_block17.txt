@@ -1,0 +1,3 @@
+•
+R-2: Joint length must be within the range of 25 to 34 feet, and 
+95% must have lengths greater than 28 feet

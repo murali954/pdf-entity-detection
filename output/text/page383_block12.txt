@@ -1,0 +1,3 @@
+3.
+What data can be integrated into the FWR, in addition to that 
+available from the logging unit, and where can it be obtained?

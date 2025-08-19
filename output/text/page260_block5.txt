@@ -1,0 +1,7 @@
+Several methods exist for continuously controlled directional drilling using 
+“steerable downhole motors”. These methods are based upon tilting the 
+axis of the bit with respect to the axis of the hole to creating a side force at 
+the bit. If the drill string, and the body of the motor, is rotated at the 
+surface, the bit will tend to drill straight ahead. However, if the drill string 
+is not rotated from surface then bit will drill a curved path determined by 
+the orientation of the side force or the tilt of the bit axis.

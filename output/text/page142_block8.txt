@@ -1,0 +1,4 @@
+2.
+The “skew” direction of a roller cone bit should always be in a 
+___________ direction to permit the teeth to ream the hole to full 
+gauge.

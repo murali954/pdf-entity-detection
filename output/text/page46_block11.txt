@@ -1,0 +1,3 @@
+The polymer viscosities such as XC polymer, consist of these gums. Most 
+polymers provide a mud with a shear thinning effect. This is desirable as it 
+allows viscosity to be maintained while circulating pressures are reduced.

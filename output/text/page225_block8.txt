@@ -1,0 +1,3 @@
+•
+Dogleg severity can be partly controlled from surface by varying the 
+number of feet “jetted” each time.

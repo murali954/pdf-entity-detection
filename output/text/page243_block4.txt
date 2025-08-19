@@ -1,0 +1,7 @@
+Figure 5-39: The tandem stabilizers make this assembly very rigid. 
+In the past it was more common to use tandem stabilizers to 
+control the bit walk of roller cone bits. Presently, its use is 
+limited to areas where extreme bit walk is common. Rotation of 
+an assembly such as this will generate high rotary torque. 
+Generally, as the number of stabilizers in the BHA 
+increases, so does the possibility of hole sticking.

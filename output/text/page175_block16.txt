@@ -1,0 +1,3 @@
+•
+Drillstring component data (OD, ID, tool joint, and material 
+composition)

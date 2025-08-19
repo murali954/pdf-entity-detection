@@ -1,0 +1,5 @@
+An alternative procedure considers the drillstring and the annulus as a “U-
+Tube”, as shown in the following figure. It is clear that the sum of 
+hydrostatic and frictional pressures in the pipe bore and through the bit 
+should equal the sum of hydrostatic and frictional pressures in the annulus. 
+Both sums represent the pressure prevailing immediately below the bit.

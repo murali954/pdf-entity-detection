@@ -1,0 +1,3 @@
+The path of the drilled well is plotted on the horizontal projection by 
+plotting total North/South coordinates (Northings) versus total East/West 
+coordinates (Eastings). These coordinates are calculated from surveys.

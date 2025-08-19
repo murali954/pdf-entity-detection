@@ -1,0 +1,9 @@
+Reactive torque is created by the drilling fluid pushing against the stator. 
+Since the stator is bonded to the body of the motor, the effect of this force 
+is to twist the motor and BHA anti-clockwise. As weight-on-bit is 
+increased, the drilling torque created by the motor increases, and reactive 
+torque increases in direct proportion. Thus a reasonable, although 
+simplistic, way to view this is that the clockwise drilling torque generated 
+at the bit is the “action” and the counter-clockwise torque on the motor 
+housing is the “reaction”. The reactive torque at the motor is equal to the 
+drilling torque.

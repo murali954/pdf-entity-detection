@@ -1,0 +1,5 @@
+Maximizing Hpb involves minimizing Hpc, or in other words, the lowest 
+flow rate and the highest pump pressure will result in the highest Hpb. 
+However, the “lowest flow rate” will usually result in inadequate bottom 
+hole cleaning. To compensate for this, bottom hole pressure can be 
+increased by using smaller jet nozzles.

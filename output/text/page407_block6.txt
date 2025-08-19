@@ -1,0 +1,4 @@
+8.
+Pipe rams have a hemispherical cutout to seal the hole around the 
+drillpipe. Shear rams “shear” the drillpipe and seal against 
+themselves.

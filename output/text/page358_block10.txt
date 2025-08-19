@@ -1,0 +1,5 @@
+4.
+Any footage and hour combination on this line is the breakeven 
+point for the diamond bit. Any point above the line extending 
+through “J” and “K” indicates a cheaper cost per foot. Any point 
+below the line indicates higher cost per foot for the diamond bit.

@@ -1,0 +1,4 @@
+If a by-pass nozzle is fitted to a multi-lobe rotor, then it must be sized very 
+carefully to allow the motor section to develop the necessary power. Any 
+variation in flow for which the nozzle was inserted will compromise the 
+motor’s performance.

@@ -1,0 +1,2 @@
+42.
+Find the number of joints required for the following air weights:

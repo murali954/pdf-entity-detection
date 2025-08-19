@@ -1,0 +1,6 @@
+There are essentially three types of jet nozzles used in tri-cone bits. 
+Shrouded nozzle jets provide maximum protection against retainer ring 
+erosion, excessive turbulence or extended drilling periods. Standard jet 
+nozzles are easier to install and are recommended for situations where 
+erosion is not a problem. Air jet nozzles (see above) are used on bits 
+designated for drilling with air or gas.

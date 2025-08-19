@@ -1,0 +1,4 @@
+Note: This is “on-bottom” drilling time. Since these 
+calculations are made to compare bit runs, time spent 
+circulating off-bottom, waiting on weather, making 
+connections, and so forth, is ignored in the calculations.

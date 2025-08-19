@@ -1,0 +1,1 @@
+(Buoyancy factor for 10 ppg mud = 0.847)

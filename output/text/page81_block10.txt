@@ -1,0 +1,6 @@
+Flow Rate
+450 gal/min
+Power Law k
+0.6217
+Total Flow Area
+0.3313 in^2

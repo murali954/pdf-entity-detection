@@ -1,0 +1,7 @@
+Although the coordinates of points on a wellpath could be expressed as 
+UTM coordinates, it is not normal practice. Instead, a reference point on 
+the platform or rig is chosen as the local origin and given the coordinates 
+0,0. On offshore platforms this point is usually the center of the platform. 
+The Northings and Eastings points on the wells drilled from the platform 
+are referenced to this single origin. This is important when comparing 
+positions of wells, in particular for anti-collision analysis.

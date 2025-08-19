@@ -1,0 +1,5 @@
+Lag Time
+Determination
+ Poor Hole Cleaning
+Monitoring actual hole volume to determine actual versus
+theoretical lag time

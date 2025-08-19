@@ -1,0 +1,3 @@
+As mentioned earlier, WOB and RPM are the most important drilling 
+parameters, and should be monitored constantly. Their interaction with the 
+following indicators should be noted.

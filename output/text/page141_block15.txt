@@ -1,0 +1,3 @@
+When returning a bit for salvage, it is helpful to furnish a performance 
+report on the bit. The manufacturer can then inspect the bit with a better 
+understanding of how it was used in conjunction with its condition.

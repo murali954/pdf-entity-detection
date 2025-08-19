@@ -1,0 +1,2 @@
+If the BHA is not rotated, the force of friction, FFR acting up the borehole 
+on the BHA element is given by:

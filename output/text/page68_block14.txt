@@ -1,0 +1,4 @@
+To optimize Bottom Hole Cleaning and Bit Hydraulic Horsepower, it is 
+necessary to select a circulation rate and nozzle sizes which will cause 65% 
+of the pump pressure to be expended forcing the fluid through the jet 
+nozzles of the bit.

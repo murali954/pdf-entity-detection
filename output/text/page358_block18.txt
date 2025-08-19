@@ -1,0 +1,4 @@
+G 
+Total rotating hours all bits being compared (of B) 
+72 Hrs. 
+165 Hrs.

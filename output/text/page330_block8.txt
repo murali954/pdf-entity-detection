@@ -1,0 +1,12 @@
+Annular preventer: 
+Commonly referred to as a bag type or spherical preventer, it 
+is designed to stop flow from the well using a steel-ribbed 
+packing element that contracts around the drill pipe. The 
+packer will conform to the shape of the pipe that is in the 
+bore hole. It is operated hydraulically, utilizing a piston 
+acting on the packer. Once closed they utilize the upward 
+well pressure to maintain their closed position. These 
+preventers are available for a variety of working pressures, 
+ranging from 2,000 to 10,000 psi. While these preventers can 
+be used without pipe in the hole, the life of the packing 
+element will be reduced by the stress of closing upon itself.

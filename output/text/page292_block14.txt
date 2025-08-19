@@ -1,0 +1,1 @@
+F2  =  Force applied to stretch pipe to “e” (lbs)

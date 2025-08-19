@@ -1,0 +1,1 @@
+where:   Vn   =   Nozzle Velocity (ft/sec)

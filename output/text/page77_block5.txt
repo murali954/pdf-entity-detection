@@ -1,0 +1,6 @@
+For Newtonian fluids, the clinging constant depends only on the annulus 
+diameter ratio. This is not the case for non-Newtonian fluids, in which the 
+clinging constant is also a function of the drilling fluids properties, and of 
+fluid and pipe velocity. Calculation of clinging constants for non-
+Newtonian fluids is very tedious. Some representative values for Bingham 
+fluids and Power Law fluids are shown in Figures 1-5 and 1-6.

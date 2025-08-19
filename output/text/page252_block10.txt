@@ -1,0 +1,2 @@
+For example, the moment of inertia of a 9-1/2” collar is double that of an 8” 
+collar, which in turn is more than double that of a 6-1/2” collar.

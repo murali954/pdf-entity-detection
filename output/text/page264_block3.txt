@@ -1,0 +1,4 @@
+With the exceptions of the 8” and the 9-1/2” tools, each diameter has three 
+standard tilt angles designed to provide approximately 2°, 3° and 4° per 
+hundred feet theoretical dogleg rates when configured with a Mach 2 
+motor. TGDS is theoretically higher when using the shorter Mach 1.

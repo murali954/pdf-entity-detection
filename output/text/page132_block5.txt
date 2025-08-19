@@ -1,0 +1,4 @@
+a. To locate the bottom of the hole, observe the torque and 
+weight indicators. Because of the type of cutting structure on 
+PDC bits, it is common that the first on-bottom indication is a 
+sudden increase in torque.

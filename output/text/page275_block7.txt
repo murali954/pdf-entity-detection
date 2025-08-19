@@ -1,0 +1,3 @@
+•
+Actual dogleg rate when drilling to drop inclination with an oriented 
+system is usually less than the TGDS.

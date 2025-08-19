@@ -1,0 +1,4 @@
+•
+Motor stall will be obvious due to an increase in surface pressure. 
+Motor stalling should be avoided as it erodes the service life of the 
+motor.

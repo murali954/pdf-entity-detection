@@ -1,0 +1,3 @@
+A kick is defined as an undesirable influx of formation fluid into the 
+borehole. If left unattended a kick can develop into a blowout (an 
+uncontrolled influx of formation fluid into the borehole).

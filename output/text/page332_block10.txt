@@ -1,0 +1,6 @@
+A manual valve, more commonly referred to as a “full opening safety 
+valve”, is usually installed onto the drillpipe after a kick occurs. They 
+usually contain a movable ball and when in one position allows flow 
+through a hole in the ball, but after turning 90o, shuts off flow completely. 
+Rotating the ball is performed with a wrench. These have the advantage 
+that wireline tools can be passed through them.

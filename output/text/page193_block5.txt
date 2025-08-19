@@ -1,0 +1,5 @@
+One area of well planning in which directional companies are closely 
+involved is the planning of the well trajectory. Again, this is not as simple a 
+task as it might seem at first glance, particularly on a congested multi-well 
+platform. There area number of aspects that must be carefully considered 
+before calculating the final well path.

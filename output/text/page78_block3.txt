@@ -1,0 +1,7 @@
+The possibility of turbulent flow in the annulus must be considered in swab 
+and surge calculations. Assuming that the velocity profile in turbulent flow 
+is flat, the resultant pressure drop can be estimated by summing the 
+pressure drops caused by the velocity at the outer wall and the relative 
+velocity (Va - vp) at the inner wall, because Va and vp are of opposite signs. 
+With a closed pipe, the turbulent flow clinging constant can be 
+approximated by:

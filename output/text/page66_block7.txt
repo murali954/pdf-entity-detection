@@ -1,0 +1,5 @@
+Both roller cone bits and PDC bits have recesses to install different size jet 
+nozzles in order to obtain proper hydraulics. Most roller cone bits use three 
+or four jet nozzles, while PDC bits usually contain six to nine. The flow 
+area of all jets must be determined separately, then added together. For 
+example, suppose four size 9 jets were being used:

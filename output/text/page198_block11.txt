@@ -1,0 +1,4 @@
+On S-type wells, the rate of drop off is selected to ease casing problems and 
+avoidance of completion and production problems. It is much less critical 
+to drilling because there is less tension in the drill pipe that is run through 
+deeper doglegs and less time spent rotating below the dogleg.

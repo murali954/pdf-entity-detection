@@ -1,0 +1,4 @@
+Another projection system, used in some parts of the world, is the conical 
+projection or LAMBERT system. A cone as opposed to a cylinder covers 
+the spheroid under consideration. This produces a representation with 
+meridians as convergent lines and parallels as arcs of circles.
