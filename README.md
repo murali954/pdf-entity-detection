@@ -1,7 +1,6 @@
 # PDF Entity Detection & Retrieval System
 
-This project was built as part of an internship assignment.  
-The goal is to detect, recognize, store, and retrieve entities from digital PDFs such as **Headers, Footers, Tables, Figures, Charts, Equations, and Text**.  
+The goal of this project  is to detect, recognize, store, and retrieve entities from digital PDFs such as **Headers, Footers, Tables, Figures, Charts, Equations, and Text**.  
 
 ---
 
